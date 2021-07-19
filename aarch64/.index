@@ -111,8 +111,6 @@ race_libretro.so.zip
 potator_libretro.so.zip
 handy_libretro.so.zip
 mupen64plus_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 flycast_rumble_libretro.so.zip
 flycast_libretro.so.zip
@@ -125,3 +123,5 @@ mednafen_supafaust_libretro.so.zip
 ecwolf_libretro.so.zip
 dosbox_pure_libretro.so.zip
 mednafen_vb_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
