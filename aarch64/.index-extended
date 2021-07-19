@@ -15,7 +15,6 @@
 2021-01-26 d1da7a2d mednafen_pce_fast_libretro.so.zip
 2021-01-26 f4982516 tgbdual_libretro.so.zip
 2021-01-26 10c19c15 px68k_libretro.so.zip
-2021-01-26 725191fc mednafen_vb_libretro.so.zip
 2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 ea48b6c3 pokemini_libretro.so.zip
@@ -127,3 +126,4 @@
 2021-06-16 3ca1fc97 mednafen_supafaust_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-05 b18d9408 dosbox_pure_libretro.so.zip
+2021-07-19 a76eacfe mednafen_vb_libretro.so.zip

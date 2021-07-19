@@ -13,7 +13,6 @@ desmume2015_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
 tgbdual_libretro.so.zip
 px68k_libretro.so.zip
-mednafen_vb_libretro.so.zip
 freeintv_libretro.so.zip
 daphne_libretro.so.zip
 pokemini_libretro.so.zip
@@ -125,3 +124,4 @@ mednafen_pcfx_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 ecwolf_libretro.so.zip
 dosbox_pure_libretro.so.zip
+mednafen_vb_libretro.so.zip
