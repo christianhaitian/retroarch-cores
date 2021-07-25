@@ -13,8 +13,8 @@ make -j${nproc} platform="goadvance"
 
 FBNEO (64 bit)
 ======
-cmake -C ./src/burner/libretro USE_CYCLONE=1 profile=performance
-make -j${nproc}
+make -j$(nproc) -C ./src/burner/libretro generate-files
+make -C ./src/burner/libretro profile=performance
 
 PCSX-REARMED (32 bit)
 ===========
