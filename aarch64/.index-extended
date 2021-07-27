@@ -118,7 +118,6 @@
 2021-05-22 64a4dfca flycast_libretro.so.zip
 2021-05-22 9f36fef4 gpsp_libretro.so.zip
 2021-05-22 cf073fd3 duckstation_libretro.so.zip
-2021-05-23 acf0ebd7 fbneo_libretro.so.zip
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-01 779a433b mednafen_pcfx_libretro.so.zip
 2021-06-16 3ca1fc97 mednafen_supafaust_libretro.so.zip
@@ -127,3 +126,4 @@
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
 2021-07-19 fbb7a739 mgba_libretro.so.zip
 2021-07-19 2a9675e8 mgba_rumble_libretro.so.zip
+2021-07-27 9a01787c fbneo_libretro.so.zip
