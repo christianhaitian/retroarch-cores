@@ -14,10 +14,10 @@
 2020-03-25 205a6f51 parallel_n64_libretro.so.zip
 2020-03-28 776e3d7f snes9x2002_libretro.so.zip
 2020-03-28 53806146 snes9x2005_libretro.so.zip
-2021-02-28 efba8fd4 genesis_plus_gx_wide_libretro.so.zip
 2021-04-24 8a9f68ce uae4arm_libretro.so.zip
 2021-05-08 40686e4a handy_libretro.so.zip
 2021-05-22 2641cb1d flycast_libretro.so.zip
 2021-05-22 f03ba114 flycast32_rumble_libretro.so.zip
 2021-05-22 0c0a49cf pcsx_rearmed_libretro.so.zip
 2021-05-22 d6bac9c1 pcsx_rearmed_rumble_libretro.so.zip
+2021-08-22 2d8e6750 genesis_plus_gx_wide_libretro.so.zip
