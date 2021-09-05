@@ -16,7 +16,6 @@ px68k_libretro.so.zip
 freeintv_libretro.so.zip
 daphne_libretro.so.zip
 pokemini_libretro.so.zip
-picodrive_libretro.so.zip
 uzem_libretro.so.zip
 nekop2_libretro.so.zip
 2048_libretro.so.zip
@@ -125,3 +124,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 fbneo_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
+picodrive_libretro.so.zip

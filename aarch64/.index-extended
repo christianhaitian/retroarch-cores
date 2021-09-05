@@ -18,7 +18,6 @@
 2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 ea48b6c3 pokemini_libretro.so.zip
-2021-01-26 356daa7c picodrive_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
@@ -127,3 +126,4 @@
 2021-07-19 2a9675e8 mgba_rumble_libretro.so.zip
 2021-07-27 9a01787c fbneo_libretro.so.zip
 2021-08-22 d5ad2c32 genesis_plus_gx_wide_libretro.so.zip
+2021-09-05 9553dcc5 picodrive_libretro.so.zip
