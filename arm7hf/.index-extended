@@ -5,7 +5,6 @@
 2020-03-08 4c6fa0f7 freeintv_libretro.so.zip
 2020-03-08 db276b09 mame2003_xtreme_libretro.so.zip
 2020-03-08 d16bed6f mednafen_wswan_libretro.so.zip
-2020-03-08 457b1f1d picodrive_libretro.so.zip
 2020-03-08 5c9be37c ppsspp_xtreme_libretro.so.zip
 2020-03-08 6c0d260a reicast_xtreme_libretro.so.zip
 2020-03-16 fbd6ea95 virtualjaguar_libretro.so.zip
@@ -21,3 +20,4 @@
 2021-05-22 0c0a49cf pcsx_rearmed_libretro.so.zip
 2021-05-22 d6bac9c1 pcsx_rearmed_rumble_libretro.so.zip
 2021-08-22 2d8e6750 genesis_plus_gx_wide_libretro.so.zip
+2021-09-05 dca86ad5 picodrive_libretro.so.zip
