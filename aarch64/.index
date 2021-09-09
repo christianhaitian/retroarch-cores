@@ -125,3 +125,5 @@ mgba_rumble_libretro.so.zip
 fbneo_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 picodrive_libretro.so.zip
+mess_libretro.so.zip
+mess2015_libretro.so.zip
