@@ -69,7 +69,6 @@
 2021-01-26 234792c6 hatari_libretro.so.zip
 2021-01-26 e653f02e superflappybirds_libretro.so.zip
 2021-01-26 12c46c55 chailove_libretro.so.zip
-2021-01-26 c7d16ec6 fceumm_libretro.so.zip
 2021-01-26 933f0728 tic80_libretro.so.zip
 2021-01-26 1accf28a gambatte_libretro.so.zip
 2021-01-26 024181d7 quicknes_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-05 9553dcc5 picodrive_libretro.so.zip
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
+2021-09-14 eb80d62c fceumm_libretro.so.zip

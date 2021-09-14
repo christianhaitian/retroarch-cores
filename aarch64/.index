@@ -67,7 +67,6 @@ xrick_libretro.so.zip
 hatari_libretro.so.zip
 superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
-fceumm_libretro.so.zip
 tic80_libretro.so.zip
 gambatte_libretro.so.zip
 quicknes_libretro.so.zip
@@ -127,3 +126,4 @@ genesis_plus_gx_wide_libretro.so.zip
 picodrive_libretro.so.zip
 mess_libretro.so.zip
 mess2015_libretro.so.zip
+fceumm_libretro.so.zip
