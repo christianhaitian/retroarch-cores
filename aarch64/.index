@@ -111,7 +111,6 @@ mupen64plus_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 flycast_rumble_libretro.so.zip
 flycast_libretro.so.zip
-gpsp_libretro.so.zip
 easyrpg_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
@@ -127,3 +126,4 @@ mess_libretro.so.zip
 mess2015_libretro.so.zip
 fceumm_libretro.so.zip
 duckstation_libretro.so.zip
+gpsp_libretro.so.zip
