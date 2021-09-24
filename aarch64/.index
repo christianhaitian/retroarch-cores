@@ -113,7 +113,6 @@ flycast_rumble_libretro.so.zip
 flycast_libretro.so.zip
 easyrpg_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
-mednafen_supafaust_libretro.so.zip
 ecwolf_libretro.so.zip
 dosbox_pure_libretro.so.zip
 mednafen_vb_libretro.so.zip
@@ -127,3 +126,4 @@ mess2015_libretro.so.zip
 fceumm_libretro.so.zip
 duckstation_libretro.so.zip
 gpsp_libretro.so.zip
+mednafen_supafaust_libretro.so.zip
