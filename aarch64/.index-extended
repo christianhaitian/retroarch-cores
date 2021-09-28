@@ -4,7 +4,6 @@
 2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 924570af sameboy_libretro.so.zip
-2021-01-26 1dfd5d5c fmsx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
 2021-01-26 62eade27 prboom_libretro.so.zip
 2021-01-26 af16398b yabasanshiro_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2021-09-22 e95a4d23 gpsp_libretro.so.zip
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
+2021-09-28 83fb059a fmsx_libretro.so.zip

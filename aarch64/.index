@@ -2,7 +2,6 @@ retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 vecx_libretro.so.zip
 sameboy_libretro.so.zip
-fmsx_libretro.so.zip
 bnes_libretro.so.zip
 prboom_libretro.so.zip
 yabasanshiro_libretro.so.zip
@@ -127,3 +126,4 @@ fceumm_libretro.so.zip
 duckstation_libretro.so.zip
 gpsp_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
+fmsx_libretro.so.zip
