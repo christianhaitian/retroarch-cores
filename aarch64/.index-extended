@@ -42,7 +42,6 @@
 2021-01-26 6ba8d375 dosbox_svn_libretro.so.zip
 2021-01-26 4059b0dd gearboy_libretro.so.zip
 2021-01-26 37117fb7 fbalpha2012_cps2_libretro.so.zip
-2021-01-26 b72f3c1a snes9x_libretro.so.zip
 2021-01-26 4da7e62e fbalpha2012_cps1_libretro.so.zip
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
 2021-01-26 61d14fb4 mednafen_ngp_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-22 e95a4d23 gpsp_libretro.so.zip
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
 2021-09-28 83fb059a fmsx_libretro.so.zip
+2021-09-29 2b9e8142 snes9x_libretro.so.zip

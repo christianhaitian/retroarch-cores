@@ -40,7 +40,6 @@ dosbox_libretro.so.zip
 dosbox_svn_libretro.so.zip
 gearboy_libretro.so.zip
 fbalpha2012_cps2_libretro.so.zip
-snes9x_libretro.so.zip
 fbalpha2012_cps1_libretro.so.zip
 spring_drastic_standalone_libretro.so.zip
 mednafen_ngp_libretro.so.zip
@@ -127,3 +126,4 @@ duckstation_libretro.so.zip
 gpsp_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 fmsx_libretro.so.zip
+snes9x_libretro.so.zip
