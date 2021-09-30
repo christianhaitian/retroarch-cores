@@ -106,7 +106,6 @@ potator_libretro.so.zip
 handy_libretro.so.zip
 mupen64plus_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
-flycast_rumble_libretro.so.zip
 easyrpg_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 ecwolf_libretro.so.zip
@@ -127,3 +126,4 @@ fmsx_libretro.so.zip
 snes9x_libretro.so.zip
 pokemini_libretro.so.zip
 flycast_libretro.so.zip
+flycast_rumble_libretro.so.zip
