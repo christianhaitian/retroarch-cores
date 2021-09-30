@@ -109,7 +109,6 @@
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-05-18 8d83522d genesis_plus_gx_libretro.so.zip
 2021-05-22 fd524715 flycast_rumble_libretro.so.zip
-2021-05-22 64a4dfca flycast_libretro.so.zip
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-01 779a433b mednafen_pcfx_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-28 83fb059a fmsx_libretro.so.zip
 2021-09-29 2b9e8142 snes9x_libretro.so.zip
 2021-09-30 353dd892 pokemini_libretro.so.zip
+2021-09-30 d68da31f flycast_libretro.so.zip
