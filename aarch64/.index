@@ -14,7 +14,6 @@ tgbdual_libretro.so.zip
 px68k_libretro.so.zip
 freeintv_libretro.so.zip
 daphne_libretro.so.zip
-pokemini_libretro.so.zip
 uzem_libretro.so.zip
 nekop2_libretro.so.zip
 2048_libretro.so.zip
@@ -127,3 +126,4 @@ gpsp_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 fmsx_libretro.so.zip
 snes9x_libretro.so.zip
+pokemini_libretro.so.zip

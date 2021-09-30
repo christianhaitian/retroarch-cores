@@ -16,7 +16,6 @@
 2021-01-26 10c19c15 px68k_libretro.so.zip
 2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
-2021-01-26 ea48b6c3 pokemini_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
 2021-09-28 83fb059a fmsx_libretro.so.zip
 2021-09-29 2b9e8142 snes9x_libretro.so.zip
+2021-09-30 353dd892 pokemini_libretro.so.zip
