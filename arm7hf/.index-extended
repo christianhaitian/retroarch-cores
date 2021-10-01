@@ -15,10 +15,10 @@
 2020-03-28 53806146 snes9x2005_libretro.so.zip
 2021-04-24 8a9f68ce uae4arm_libretro.so.zip
 2021-05-08 40686e4a handy_libretro.so.zip
-2021-05-22 d6bac9c1 pcsx_rearmed_rumble_libretro.so.zip
 2021-09-06 4d5f364a picodrive_libretro.so.zip
 2021-09-09 d8a3b11a genesis_plus_gx_wide_libretro.so.zip
 2021-09-21  gpsp_libretro.so.zip
 2021-09-30  flycast32_rumble_libretro.so.zip
 2021-09-30  flycast_libretro.so.zip
 2021-10-01  pcsx_rearmed_libretro.so.zip
+2021-10-01  pcsx_rearmed_rumble_libretro.so.zip

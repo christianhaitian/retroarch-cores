@@ -16,10 +16,10 @@ snes9x2005_libretro.so
 handy_libretro.so
 uae4arm_libretro.so.zip
 handy_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 picodrive_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 gpsp_libretro.so.zip
 flycast32_rumble_libretro.so.zip
 flycast_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
