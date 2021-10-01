@@ -80,7 +80,6 @@
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-01-26 7a10b424 mame_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
-2021-02-06 97842252 parallel_n64_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 b225e69f mgba_libretro.so.zip
 2021-10-01 909a85af mgba_rumble_libretro.so.zip
+2021-10-01 1cb3695b parallel_n64_libretro.so.zip
