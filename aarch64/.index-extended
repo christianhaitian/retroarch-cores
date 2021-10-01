@@ -113,7 +113,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-05 b18d9408 dosbox_pure_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
-2021-07-19 2a9675e8 mgba_rumble_libretro.so.zip
 2021-07-27 9a01787c fbneo_libretro.so.zip
 2021-08-22 d5ad2c32 genesis_plus_gx_wide_libretro.so.zip
 2021-09-05 9553dcc5 picodrive_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-09-30 d68da31f flycast_libretro.so.zip
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 b225e69f mgba_libretro.so.zip
+2021-10-01 909a85af mgba_rumble_libretro.so.zip
