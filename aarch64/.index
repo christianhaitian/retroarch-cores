@@ -58,7 +58,6 @@ neocd_libretro.so.zip
 opera_libretro.so.zip
 quasi88_libretro.so.zip
 gme_libretro.so.zip
-ppsspp_libretro.so.zip
 spring_flycast32_libretro.so.zip
 xrick_libretro.so.zip
 hatari_libretro.so.zip
@@ -127,3 +126,4 @@ flycast_rumble_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 parallel_n64_libretro.so.zip
+ppsspp_libretro.so.zip
