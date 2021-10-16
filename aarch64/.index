@@ -64,7 +64,6 @@ hatari_libretro.so.zip
 superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 tic80_libretro.so.zip
-gambatte_libretro.so.zip
 quicknes_libretro.so.zip
 nestopia_libretro.so.zip
 mednafen_wswan_libretro.so.zip
@@ -127,3 +126,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 parallel_n64_libretro.so.zip
 ppsspp_libretro.so.zip
+gambatte_libretro.so.zip
