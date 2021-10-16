@@ -66,7 +66,6 @@
 2021-01-26 e653f02e superflappybirds_libretro.so.zip
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 933f0728 tic80_libretro.so.zip
-2021-01-26 024181d7 quicknes_libretro.so.zip
 2021-01-26 1bba5d78 nestopia_libretro.so.zip
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-02 470456e9 ppsspp_libretro.so.zip
 2021-10-16 7f376d89 gambatte_libretro.so.zip
+2021-10-16 0bba9d13 quicknes_libretro.so.zip
