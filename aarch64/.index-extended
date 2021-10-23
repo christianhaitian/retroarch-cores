@@ -106,7 +106,6 @@
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-01 779a433b mednafen_pcfx_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
-2021-07-05 b18d9408 dosbox_pure_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
 2021-07-27 9a01787c fbneo_libretro.so.zip
 2021-08-22 d5ad2c32 genesis_plus_gx_wide_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-10-16 7f376d89 gambatte_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 15c249bd mame_libretro.so.zip
+2021-10-23 3663abbd dosbox_pure_libretro.so.zip
