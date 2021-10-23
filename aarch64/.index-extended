@@ -75,7 +75,6 @@
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
-2021-01-26 7a10b424 mame_libretro.so.zip
 2021-02-06 9bcdc5fd mupen64plus_next_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-10-02 470456e9 ppsspp_libretro.so.zip
 2021-10-16 7f376d89 gambatte_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
+2021-10-23 15c249bd mame_libretro.so.zip

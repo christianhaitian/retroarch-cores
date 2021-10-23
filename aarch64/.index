@@ -73,7 +73,6 @@ mame2003_plus_libretro.so.zip
 mame2000_libretro.so.zip
 mame2010_libretro.so.zip
 scummvm_libretro.so.zip
-mame_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
@@ -127,3 +126,4 @@ parallel_n64_libretro.so.zip
 ppsspp_libretro.so.zip
 gambatte_libretro.so.zip
 quicknes_libretro.so.zip
+mame_libretro.so.zip
