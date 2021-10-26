@@ -69,7 +69,6 @@
 2021-01-26 1bba5d78 nestopia_libretro.so.zip
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
-2021-01-26 801da5c5 cap32_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
 2021-01-26 e152504b mame2003_plus_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-10-23 15c249bd mame_libretro.so.zip
 2021-10-23 3663abbd dosbox_pure_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
+2021-10-26 8cc0c27c cap32_libretro.so.zip
