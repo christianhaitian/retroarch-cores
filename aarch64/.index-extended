@@ -101,7 +101,6 @@
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-08 b8fe9b9a handy_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
-2021-05-18 8d83522d genesis_plus_gx_libretro.so.zip
 2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
@@ -129,3 +128,4 @@
 2021-10-23 3663abbd dosbox_pure_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-10-26 8cc0c27c cap32_libretro.so.zip
+2021-10-26 90ccf07f genesis_plus_gx_libretro.so.zip

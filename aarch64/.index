@@ -99,7 +99,6 @@ race_libretro.so.zip
 potator_libretro.so.zip
 handy_libretro.so.zip
 mupen64plus_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
 easyrpg_libretro.so.zip
 ecwolf_libretro.so.zip
 mednafen_vb_libretro.so.zip
@@ -127,3 +126,4 @@ mame_libretro.so.zip
 dosbox_pure_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 cap32_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
