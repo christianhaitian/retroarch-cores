@@ -116,7 +116,6 @@ snes9x_libretro.so.zip
 pokemini_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
-mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 parallel_n64_libretro.so.zip
 ppsspp_libretro.so.zip
@@ -128,3 +127,4 @@ mednafen_pcfx_libretro.so.zip
 cap32_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 sameduck_libretro.so.zip
+mgba_libretro.so.zip
