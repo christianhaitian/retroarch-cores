@@ -118,7 +118,6 @@
 2021-09-30 353dd892 pokemini_libretro.so.zip
 2021-09-30 d68da31f flycast_libretro.so.zip
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
-2021-10-01 909a85af mgba_rumble_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-02 470456e9 ppsspp_libretro.so.zip
 2021-10-16 7f376d89 gambatte_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-10-26 90ccf07f genesis_plus_gx_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-11-02 af5df9c2 mgba_libretro.so.zip
+2021-11-02 eb59d32c mgba_rumble_libretro.so.zip
