@@ -49,7 +49,6 @@
 2021-01-26 9fb5bfb8 vbam_libretro.so.zip
 2021-01-26 ea982018 vemulator_libretro.so.zip
 2021-01-26 de898f39 tyrquake_libretro.so.zip
-2021-01-26 3be9248b atari800_libretro.so.zip
 2021-01-26 4f7b4f1c nxengine_libretro.so.zip
 2021-01-26 671bef08 gw_libretro.so.zip
 2021-01-26 f9d36625 x1_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-11-02 af5df9c2 mgba_libretro.so.zip
 2021-11-02 eb59d32c mgba_rumble_libretro.so.zip
 2021-11-02 469f1484 pokemini_libretro.so.zip
+2021-11-13 3aef201a atari800_libretro.so.zip

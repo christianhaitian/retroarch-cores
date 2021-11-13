@@ -47,7 +47,6 @@ bluemsx_libretro.so.zip
 vbam_libretro.so.zip
 vemulator_libretro.so.zip
 tyrquake_libretro.so.zip
-atari800_libretro.so.zip
 nxengine_libretro.so.zip
 gw_libretro.so.zip
 x1_libretro.so.zip
@@ -128,3 +127,4 @@ sameduck_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 pokemini_libretro.so.zip
+atari800_libretro.so.zip
