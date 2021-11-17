@@ -124,7 +124,7 @@ mednafen_pcfx_libretro.so.zip
 cap32_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 sameduck_libretro.so.zip
-mgba_rumble_libretro.so.zip
 pokemini_libretro.so.zip
 atari800_libretro.so.zip
 mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
