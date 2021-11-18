@@ -100,7 +100,6 @@
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-08 b8fe9b9a handy_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
-2021-05-26 f46ef54b easyrpg_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
 2021-07-27 9a01787c fbneo_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-17 e0124988 mgba_libretro.so.zip
 2021-11-17 46a7dc10 mgba_rumble_libretro.so.zip
+2021-11-18 8e3ce459 easyrpg_libretro.so.zip

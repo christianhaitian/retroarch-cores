@@ -98,7 +98,6 @@ race_libretro.so.zip
 potator_libretro.so.zip
 handy_libretro.so.zip
 mupen64plus_libretro.so.zip
-easyrpg_libretro.so.zip
 ecwolf_libretro.so.zip
 mednafen_vb_libretro.so.zip
 fbneo_libretro.so.zip
@@ -128,3 +127,4 @@ pokemini_libretro.so.zip
 atari800_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+easyrpg_libretro.so.zip
