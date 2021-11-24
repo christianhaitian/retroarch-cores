@@ -43,7 +43,6 @@ fbalpha2012_cps1_libretro.so.zip
 spring_drastic_standalone_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 fuse_libretro.so.zip
-bluemsx_libretro.so.zip
 vbam_libretro.so.zip
 vemulator_libretro.so.zip
 tyrquake_libretro.so.zip
@@ -128,3 +127,4 @@ atari800_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 easyrpg_libretro.so.zip
+bluemsx_libretro.so.zip

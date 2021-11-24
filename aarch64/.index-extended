@@ -45,7 +45,6 @@
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
 2021-01-26 61d14fb4 mednafen_ngp_libretro.so.zip
 2021-01-26 989c7f32 fuse_libretro.so.zip
-2021-01-26 6f3c50e6 bluemsx_libretro.so.zip
 2021-01-26 9fb5bfb8 vbam_libretro.so.zip
 2021-01-26 ea982018 vemulator_libretro.so.zip
 2021-01-26 de898f39 tyrquake_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-11-17 e0124988 mgba_libretro.so.zip
 2021-11-17 46a7dc10 mgba_rumble_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
+2021-11-24 165663f2 bluemsx_libretro.so.zip
