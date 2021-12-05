@@ -68,7 +68,6 @@
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
-2021-01-26 e152504b mame2003_plus_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-01-26 f4aefb06 scummvm_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-11-17 46a7dc10 mgba_rumble_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-11-24 165663f2 bluemsx_libretro.so.zip
+2021-12-05 248a7781 mame2003_plus_libretro.so.zip

@@ -66,7 +66,6 @@ nestopia_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 virtualjaguar_libretro.so.zip
 cannonball_libretro.so.zip
-mame2003_plus_libretro.so.zip
 mame2000_libretro.so.zip
 mame2010_libretro.so.zip
 scummvm_libretro.so.zip
@@ -128,3 +127,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 easyrpg_libretro.so.zip
 bluemsx_libretro.so.zip
+mame2003_plus_libretro.so.zip
