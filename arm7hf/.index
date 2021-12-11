@@ -8,7 +8,6 @@ mednafen_wswan_libretro.so.zip
 ppsspp_xtreme_libretro.so.zip
 reicast_xtreme_libretro.so.zip
 virtualjaguar_libretro.so.zip
-yabasanshiro_libretro.so.zip
 o2em_libretro.so.zip
 parallel_n64_libretro.so
 snes9x2002_libretro.so
@@ -24,3 +23,4 @@ parallel_n64_libretro.so.zip
 gpsp_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+yabasanshiro_libretro.so.zip
