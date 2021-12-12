@@ -18,7 +18,6 @@ uzem_libretro.so.zip
 nekop2_libretro.so.zip
 2048_libretro.so.zip
 reminiscence_libretro.so.zip
-crocods_libretro.so.zip
 fbalpha2012_neogeo_libretro.so.zip
 stella_libretro.so.zip
 mrboom_libretro.so.zip
@@ -128,3 +127,4 @@ mgba_rumble_libretro.so.zip
 easyrpg_libretro.so.zip
 bluemsx_libretro.so.zip
 mame2003_plus_libretro.so.zip
+crocods_libretro.so.zip

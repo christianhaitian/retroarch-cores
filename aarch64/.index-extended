@@ -20,7 +20,6 @@
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
-2021-01-26 17ae3be2 crocods_libretro.so.zip
 2021-01-26 dbd73bb0 fbalpha2012_neogeo_libretro.so.zip
 2021-01-26 71c58d6a stella_libretro.so.zip
 2021-01-26 dc39b456 mrboom_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-11-24 165663f2 bluemsx_libretro.so.zip
 2021-12-05 248a7781 mame2003_plus_libretro.so.zip
+2021-12-12 51b2285d crocods_libretro.so.zip
