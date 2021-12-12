@@ -12,7 +12,6 @@
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 f88fb277 desmume2015_libretro.so.zip
 2021-01-26 f4982516 tgbdual_libretro.so.zip
-2021-01-26 10c19c15 px68k_libretro.so.zip
 2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 c9dba95e mgba_libretro.so.zip
 2021-12-12 fe71df6b mgba_rumble_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
+2021-12-12 1871ba2b px68k_libretro.so.zip

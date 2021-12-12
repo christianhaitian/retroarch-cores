@@ -10,7 +10,6 @@ snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
 desmume2015_libretro.so.zip
 tgbdual_libretro.so.zip
-px68k_libretro.so.zip
 freeintv_libretro.so.zip
 daphne_libretro.so.zip
 uzem_libretro.so.zip
@@ -128,3 +127,4 @@ mednafen_supergrafx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 nestopia_libretro.so.zip
+px68k_libretro.so.zip
