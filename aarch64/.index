@@ -117,7 +117,6 @@ genesis_plus_gx_libretro.so.zip
 sameduck_libretro.so.zip
 pokemini_libretro.so.zip
 atari800_libretro.so.zip
-mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 easyrpg_libretro.so.zip
 bluemsx_libretro.so.zip
@@ -128,3 +127,4 @@ fceumm_libretro.so.zip
 gambatte_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
+mgba_libretro.so.zip
