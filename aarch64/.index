@@ -27,7 +27,6 @@ spring_ppsspp_standalone_libretro.so.zip
 fbalpha2012_cps3_libretro.so.zip
 np2kai_libretro.so.zip
 snes9x2005_plus_libretro.so.zip
-mednafen_supergrafx_libretro.so.zip
 mu_libretro.so.zip
 spring_pcsx_rearmed32_libretro.so.zip
 snes9x2002_libretro.so.zip
@@ -128,3 +127,4 @@ dosbox_pure_libretro.so.zip
 fceumm_libretro.so.zip
 gambatte_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
+mednafen_supergrafx_libretro.so.zip
