@@ -11,7 +11,6 @@
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 f88fb277 desmume2015_libretro.so.zip
-2021-01-26 d1da7a2d mednafen_pce_fast_libretro.so.zip
 2021-01-26 f4982516 tgbdual_libretro.so.zip
 2021-01-26 10c19c15 px68k_libretro.so.zip
 2021-01-26 99b5a15d freeintv_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
 2021-12-12 213bf0da fceumm_libretro.so.zip
 2021-12-12 38f74cf7 gambatte_libretro.so.zip
+2021-12-12 5fee50cb mednafen_pce_fast_libretro.so.zip

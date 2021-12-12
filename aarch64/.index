@@ -9,7 +9,6 @@ stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
 desmume2015_libretro.so.zip
-mednafen_pce_fast_libretro.so.zip
 tgbdual_libretro.so.zip
 px68k_libretro.so.zip
 freeintv_libretro.so.zip
@@ -128,3 +127,4 @@ crocods_libretro.so.zip
 dosbox_pure_libretro.so.zip
 fceumm_libretro.so.zip
 gambatte_libretro.so.zip
+mednafen_pce_fast_libretro.so.zip
