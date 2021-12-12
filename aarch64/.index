@@ -102,7 +102,6 @@ genesis_plus_gx_wide_libretro.so.zip
 picodrive_libretro.so.zip
 mess_libretro.so.zip
 mess2015_libretro.so.zip
-fceumm_libretro.so.zip
 duckstation_libretro.so.zip
 gpsp_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
@@ -128,3 +127,4 @@ bluemsx_libretro.so.zip
 mame2003_plus_libretro.so.zip
 crocods_libretro.so.zip
 dosbox_pure_libretro.so.zip
+fceumm_libretro.so.zip

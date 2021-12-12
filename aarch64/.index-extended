@@ -104,7 +104,6 @@
 2021-09-05 9553dcc5 picodrive_libretro.so.zip
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
-2021-09-14 eb80d62c fceumm_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2021-09-22 e95a4d23 gpsp_libretro.so.zip
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-05 248a7781 mame2003_plus_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
+2021-12-12 213bf0da fceumm_libretro.so.zip
