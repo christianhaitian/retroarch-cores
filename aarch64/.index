@@ -111,7 +111,6 @@ flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 parallel_n64_libretro.so.zip
 ppsspp_libretro.so.zip
-gambatte_libretro.so.zip
 quicknes_libretro.so.zip
 mame_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
@@ -128,3 +127,4 @@ mame2003_plus_libretro.so.zip
 crocods_libretro.so.zip
 dosbox_pure_libretro.so.zip
 fceumm_libretro.so.zip
+gambatte_libretro.so.zip

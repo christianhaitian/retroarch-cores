@@ -113,7 +113,6 @@
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-02 470456e9 ppsspp_libretro.so.zip
-2021-10-16 7f376d89 gambatte_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 15c249bd mame_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 51b2285d crocods_libretro.so.zip
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
 2021-12-12 213bf0da fceumm_libretro.so.zip
+2021-12-12 38f74cf7 gambatte_libretro.so.zip
