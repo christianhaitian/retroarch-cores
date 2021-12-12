@@ -59,7 +59,6 @@
 2021-01-26 234792c6 hatari_libretro.so.zip
 2021-01-26 e653f02e superflappybirds_libretro.so.zip
 2021-01-26 12c46c55 chailove_libretro.so.zip
-2021-01-26 933f0728 tic80_libretro.so.zip
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 fe71df6b mgba_rumble_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
+2021-12-12 a536ee59 tic80_libretro.so.zip
