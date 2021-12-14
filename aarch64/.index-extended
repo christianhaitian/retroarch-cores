@@ -95,7 +95,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
 2021-08-22 d5ad2c32 genesis_plus_gx_wide_libretro.so.zip
-2021-09-05 9553dcc5 picodrive_libretro.so.zip
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 1871ba2b px68k_libretro.so.zip
 2021-12-12 a536ee59 tic80_libretro.so.zip
 2021-12-12 45b1f618 fbneo_libretro.so.zip
+2021-12-14 28f82e2d picodrive_libretro.so.zip
