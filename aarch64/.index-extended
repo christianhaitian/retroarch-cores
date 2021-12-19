@@ -115,7 +115,6 @@
 2021-11-02 469f1484 pokemini_libretro.so.zip
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
-2021-11-24 165663f2 bluemsx_libretro.so.zip
 2021-12-05 248a7781 mame2003_plus_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 a536ee59 tic80_libretro.so.zip
 2021-12-12 45b1f618 fbneo_libretro.so.zip
 2021-12-14 28f82e2d picodrive_libretro.so.zip
+2021-12-19 165663f2 bluemsx_libretro.so.zip
