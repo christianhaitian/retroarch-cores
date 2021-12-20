@@ -48,7 +48,6 @@
 2021-01-26 f9d36625 x1_libretro.so.zip
 2021-01-26 c666ed25 spring_mupen64plus_standalone_libretro.so.zip
 2021-01-26 55f93842 fbalpha2012_libretro.so.zip
-2021-01-26 cbadd950 puae_libretro.so.zip
 2021-01-26 53f87dc9 neocd_libretro.so.zip
 2021-01-26 bb41c1ee opera_libretro.so.zip
 2021-01-26 6820296f quasi88_libretro.so.zip
@@ -131,3 +130,4 @@
 2021-12-19 165663f2 bluemsx_libretro.so.zip
 2021-12-20 8b6c265d desmume2015_libretro.so.zip
 2021-12-20 73bdd8ac melonds_libretro.so.zip
+2021-12-20 cf44a3de puae_libretro.so.zip
