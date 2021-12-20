@@ -8,7 +8,6 @@ yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
-desmume2015_libretro.so.zip
 tgbdual_libretro.so.zip
 freeintv_libretro.so.zip
 daphne_libretro.so.zip
@@ -128,3 +127,4 @@ tic80_libretro.so.zip
 fbneo_libretro.so.zip
 picodrive_libretro.so.zip
 bluemsx_libretro.so.zip
+desmume2015_libretro.so.zip

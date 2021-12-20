@@ -10,7 +10,6 @@
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
-2021-01-26 f88fb277 desmume2015_libretro.so.zip
 2021-01-26 f4982516 tgbdual_libretro.so.zip
 2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
@@ -130,3 +129,4 @@
 2021-12-12 45b1f618 fbneo_libretro.so.zip
 2021-12-14 28f82e2d picodrive_libretro.so.zip
 2021-12-19 165663f2 bluemsx_libretro.so.zip
+2021-12-20 8b6c265d desmume2015_libretro.so.zip
