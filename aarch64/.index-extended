@@ -3,7 +3,6 @@
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
 2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
-2021-01-26 924570af sameboy_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
 2021-01-26 62eade27 prboom_libretro.so.zip
 2021-01-26 af16398b yabasanshiro_libretro.so.zip
@@ -131,3 +130,4 @@
 2021-12-20 8b6c265d desmume2015_libretro.so.zip
 2021-12-20 73bdd8ac melonds_libretro.so.zip
 2021-12-20 cf44a3de puae_libretro.so.zip
+2021-12-20 c76b1a8f sameboy_libretro.so.zip

@@ -1,7 +1,6 @@
 retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 vecx_libretro.so.zip
-sameboy_libretro.so.zip
 bnes_libretro.so.zip
 prboom_libretro.so.zip
 yabasanshiro_libretro.so.zip
@@ -129,3 +128,4 @@ bluemsx_libretro.so.zip
 desmume2015_libretro.so.zip
 melonds_libretro.so.zip
 puae_libretro.so.zip
+sameboy_libretro.so.zip
