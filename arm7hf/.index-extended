@@ -11,7 +11,6 @@
 2020-03-16 c317d589 o2em_libretro.so.zip
 2020-03-28 776e3d7f snes9x2002_libretro.so.zip
 2020-03-28 53806146 snes9x2005_libretro.so.zip
-2021-04-24 8a9f68ce uae4arm_libretro.so.zip
 2021-05-08 40686e4a handy_libretro.so.zip
 2021-09-09 d8a3b11a genesis_plus_gx_wide_libretro.so.zip
 2021-09-30 beb9a619 flycast32_rumble_libretro.so.zip
@@ -22,3 +21,4 @@
 2021-11-17 7e122e63 pcsx_rearmed_rumble_libretro.so.zip
 2021-12-11 d1e741fd yabasanshiro_libretro.so.zip
 2021-12-14 77563181 picodrive_libretro.so.zip
+2021-12-25 7dd24c5e uae4arm_libretro.so.zip
