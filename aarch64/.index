@@ -95,7 +95,6 @@ mess2015_libretro.so.zip
 duckstation_libretro.so.zip
 gpsp_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
-fmsx_libretro.so.zip
 snes9x_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
@@ -129,3 +128,4 @@ melonds_libretro.so.zip
 sameboy_libretro.so.zip
 puae_libretro.so.zip
 desmume2015_libretro.so.zip
+fmsx_libretro.so.zip

@@ -97,7 +97,6 @@
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2021-09-22 e95a4d23 gpsp_libretro.so.zip
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
-2021-09-28 83fb059a fmsx_libretro.so.zip
 2021-09-29 2b9e8142 snes9x_libretro.so.zip
 2021-09-30 d68da31f flycast_libretro.so.zip
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
@@ -131,3 +130,4 @@
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
 2021-12-24 73ca086c puae_libretro.so.zip
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
+2021-12-25 edbdbeba fmsx_libretro.so.zip
