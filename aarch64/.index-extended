@@ -106,7 +106,6 @@
 2021-10-23 15c249bd mame_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-10-26 8cc0c27c cap32_libretro.so.zip
-2021-10-26 90ccf07f genesis_plus_gx_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-11-02 469f1484 pokemini_libretro.so.zip
 2021-11-13 3aef201a atari800_libretro.so.zip
@@ -131,3 +130,4 @@
 2021-12-24 73ca086c puae_libretro.so.zip
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
 2021-12-25 edbdbeba fmsx_libretro.so.zip
+2021-12-25 e5f7b690 genesis_plus_gx_libretro.so.zip
