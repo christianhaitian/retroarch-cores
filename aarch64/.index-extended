@@ -115,7 +115,6 @@
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
 2021-12-12 213bf0da fceumm_libretro.so.zip
 2021-12-12 38f74cf7 gambatte_libretro.so.zip
-2021-12-12 5fee50cb mednafen_pce_fast_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 c9dba95e mgba_libretro.so.zip
 2021-12-12 fe71df6b mgba_rumble_libretro.so.zip
@@ -131,3 +130,4 @@
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
 2021-12-25 edbdbeba fmsx_libretro.so.zip
 2021-12-25 e5f7b690 genesis_plus_gx_libretro.so.zip
+2021-12-25 a03699ca mednafen_pce_fast_libretro.so.zip

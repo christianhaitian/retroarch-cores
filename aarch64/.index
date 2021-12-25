@@ -113,7 +113,6 @@ crocods_libretro.so.zip
 dosbox_pure_libretro.so.zip
 fceumm_libretro.so.zip
 gambatte_libretro.so.zip
-mednafen_pce_fast_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
@@ -129,3 +128,4 @@ puae_libretro.so.zip
 desmume2015_libretro.so.zip
 fmsx_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
+mednafen_pce_fast_libretro.so.zip
