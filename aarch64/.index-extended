@@ -61,7 +61,6 @@
 2021-01-26 697a9d56 cannonball_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-01-26 01f2e554 mame2010_libretro.so.zip
-2021-01-26 f4aefb06 scummvm_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
@@ -132,3 +131,4 @@
 2021-12-25 1906d791 puae_libretro.so.zip
 2021-12-25 1260548b uae4arm_libretro.so.zip
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
+2022-01-03 17927bfe scummvm_libretro.so.zip

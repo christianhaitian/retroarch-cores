@@ -59,7 +59,6 @@ virtualjaguar_libretro.so.zip
 cannonball_libretro.so.zip
 mame2000_libretro.so.zip
 mame2010_libretro.so.zip
-scummvm_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
 lowresnx_libretro.so.zip
@@ -130,3 +129,4 @@ mednafen_pce_fast_libretro.so.zip
 puae_libretro.so.zip
 uae4arm_libretro.so.zip
 mupen64plus_next_libretro.so.zip
+scummvm_libretro.so.zip
