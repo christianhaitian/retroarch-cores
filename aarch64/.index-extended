@@ -85,7 +85,6 @@
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-03-04 a69f0378 race_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
-2021-05-08 b8fe9b9a handy_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
@@ -108,10 +107,8 @@
 2021-11-02 469f1484 pokemini_libretro.so.zip
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
-2021-12-05 248a7781 mame2003_plus_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
-2021-12-12 213bf0da fceumm_libretro.so.zip
 2021-12-12 38f74cf7 gambatte_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 c9dba95e mgba_libretro.so.zip
@@ -132,3 +129,6 @@
 2021-12-25 1260548b uae4arm_libretro.so.zip
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
 2022-01-03 17927bfe scummvm_libretro.so.zip
+2022-01-03 0211cf1a fceumm_libretro.so.zip
+2022-01-03 efb1675a handy_libretro.so.zip
+2022-01-03 62512552 mame2003_plus_libretro.so.zip
