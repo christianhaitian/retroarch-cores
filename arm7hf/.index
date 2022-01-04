@@ -13,7 +13,6 @@ parallel_n64_libretro.so
 snes9x2002_libretro.so
 snes9x2005_libretro.so
 handy_libretro.so
-handy_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 flycast32_rumble_libretro.so.zip
 flycast_libretro.so.zip
@@ -24,3 +23,4 @@ pcsx_rearmed_rumble_libretro.so.zip
 yabasanshiro_libretro.so.zip
 picodrive_libretro.so.zip
 uae4arm_libretro.so.zip
+handy_libretro.so.zip
