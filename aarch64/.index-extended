@@ -66,7 +66,6 @@
 2021-02-28 85f737ef lowresnx_libretro.so.zip
 2021-02-28 9e7b1caa freechaf_libretro.so.zip
 2021-02-28 215d2776 meteor_libretro.so.zip
-2021-02-28 e4382972 snes9x2005_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
 2021-02-28 648a5a07 vice_xcbm5x0_libretro.so.zip
@@ -132,3 +131,4 @@
 2022-01-03 0211cf1a fceumm_libretro.so.zip
 2022-01-03 efb1675a handy_libretro.so.zip
 2022-01-03 62512552 mame2003_plus_libretro.so.zip
+2022-01-06 e3ffb162 snes9x2005_libretro.so.zip

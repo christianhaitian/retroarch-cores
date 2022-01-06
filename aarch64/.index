@@ -64,7 +64,6 @@ mpv_libretro.so.zip
 lowresnx_libretro.so.zip
 freechaf_libretro.so.zip
 meteor_libretro.so.zip
-snes9x2005_libretro.so.zip
 fceunext_libretro.so.zip
 imageviewer_libretro.so.zip
 vice_xcbm5x0_libretro.so.zip
@@ -130,3 +129,4 @@ scummvm_libretro.so.zip
 fceumm_libretro.so.zip
 handy_libretro.so.zip
 mame2003_plus_libretro.so.zip
+snes9x2005_libretro.so.zip
