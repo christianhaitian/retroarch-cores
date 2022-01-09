@@ -114,8 +114,6 @@
 2021-12-12 fe71df6b mgba_rumble_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
-2021-12-12 a536ee59 tic80_libretro.so.zip
-2021-12-12 45b1f618 fbneo_libretro.so.zip
 2021-12-14 28f82e2d picodrive_libretro.so.zip
 2021-12-19 165663f2 bluemsx_libretro.so.zip
 2021-12-20 73bdd8ac melonds_libretro.so.zip
@@ -132,3 +130,5 @@
 2022-01-03 efb1675a handy_libretro.so.zip
 2022-01-03 62512552 mame2003_plus_libretro.so.zip
 2022-01-06 e3ffb162 snes9x2005_libretro.so.zip
+2022-01-09 cd5e3230 fbneo_libretro.so.zip
+2022-01-09 43fbf526 tic80_libretro.so.zip
