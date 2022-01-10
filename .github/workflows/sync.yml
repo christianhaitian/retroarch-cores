@@ -11,7 +11,7 @@ concurrency:
 jobs:
   build:
     env:
-      ARKOS_FILE_REPOSITORY: "christianhaitian/retroarch-cores"
+      RETROARCH_CORES_FILE_REPOSITORY: "christianhaitian/retroarch-cores"
       RSYNC_HOST: 139.196.213.206
       
       #RSYNC_PATH *must* end in a / or it will not work
