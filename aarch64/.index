@@ -130,3 +130,5 @@ mame2003_plus_libretro.so.zip
 snes9x2005_libretro.so.zip
 fbneo_libretro.so.zip
 tic80_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
