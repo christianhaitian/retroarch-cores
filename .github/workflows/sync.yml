@@ -51,6 +51,6 @@ jobs:
 
           sshpass -p "$rsync_password" \
             rsync -avz --progress --no-times --no-perms --no-group --no-owner --partial --fuzzy \
-              --exclude ".github" \
+              --exclude ".git" --exclude ".github" \
               -e "ssh -oStrictHostKeyChecking=no" \
               ./ $rsync_user@$rsync_host:$rsync_path
