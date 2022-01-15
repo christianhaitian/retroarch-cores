@@ -10,7 +10,6 @@
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 f4982516 tgbdual_libretro.so.zip
-2021-01-26 99b5a15d freeintv_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-09 43fbf526 tic80_libretro.so.zip
 2022-01-11 d15bd33c pcsx_rearmed_libretro.so.zip
 2022-01-11 e7ae2c99 pcsx_rearmed_rumble_libretro.so.zip
+2022-01-15 f542eee4 freeintv_libretro.so.zip
