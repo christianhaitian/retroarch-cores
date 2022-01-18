@@ -90,7 +90,6 @@
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2021-09-22 e95a4d23 gpsp_libretro.so.zip
 2021-09-25 e9ebaac6 mednafen_supafaust_libretro.so.zip
 2021-09-29 2b9e8142 snes9x_libretro.so.zip
 2021-09-30 d68da31f flycast_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-11 d15bd33c pcsx_rearmed_libretro.so.zip
 2022-01-11 e7ae2c99 pcsx_rearmed_rumble_libretro.so.zip
 2022-01-15 f542eee4 freeintv_libretro.so.zip
+2022-01-18 6112ae8a gpsp_libretro.so.zip
