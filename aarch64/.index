@@ -106,8 +106,6 @@ crocods_libretro.so.zip
 dosbox_pure_libretro.so.zip
 gambatte_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 nestopia_libretro.so.zip
 px68k_libretro.so.zip
 picodrive_libretro.so.zip
@@ -132,3 +130,5 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 freeintv_libretro.so.zip
 gpsp_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip

@@ -108,8 +108,6 @@
 2021-12-12 3663abbd dosbox_pure_libretro.so.zip
 2021-12-12 38f74cf7 gambatte_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
-2021-12-12 c9dba95e mgba_libretro.so.zip
-2021-12-12 fe71df6b mgba_rumble_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
 2021-12-14 28f82e2d picodrive_libretro.so.zip
@@ -134,3 +132,5 @@
 2022-01-11 e7ae2c99 pcsx_rearmed_rumble_libretro.so.zip
 2022-01-15 f542eee4 freeintv_libretro.so.zip
 2022-01-18 6112ae8a gpsp_libretro.so.zip
+2022-01-18 609e77a3 mgba_libretro.so.zip
+2022-01-18 c1f6c984 mgba_rumble_libretro.so.zip
