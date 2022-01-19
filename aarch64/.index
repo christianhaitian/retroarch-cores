@@ -44,7 +44,6 @@ gw_libretro.so.zip
 x1_libretro.so.zip
 spring_mupen64plus_standalone_libretro.so.zip
 fbalpha2012_libretro.so.zip
-neocd_libretro.so.zip
 opera_libretro.so.zip
 quasi88_libretro.so.zip
 gme_libretro.so.zip
@@ -132,3 +131,4 @@ freeintv_libretro.so.zip
 gpsp_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+neocd_libretro.so.zip
