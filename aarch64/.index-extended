@@ -46,7 +46,6 @@
 2021-01-26 f9d36625 x1_libretro.so.zip
 2021-01-26 c666ed25 spring_mupen64plus_standalone_libretro.so.zip
 2021-01-26 55f93842 fbalpha2012_libretro.so.zip
-2021-01-26 bb41c1ee opera_libretro.so.zip
 2021-01-26 6820296f quasi88_libretro.so.zip
 2021-01-26 bca3dd8e gme_libretro.so.zip
 2021-01-26 c666ed25 spring_flycast32_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-18 609e77a3 mgba_libretro.so.zip
 2022-01-18 c1f6c984 mgba_rumble_libretro.so.zip
 2022-01-19 14f6f93c neocd_libretro.so.zip
+2022-01-21 bba4a6ac opera_libretro.so.zip
