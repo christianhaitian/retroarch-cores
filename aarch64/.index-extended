@@ -9,7 +9,6 @@
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
-2021-01-26 f4982516 tgbdual_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 ed2f454a uzem_libretro.so.zip
 2021-01-26 a5f0afb2 nekop2_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-18 c1f6c984 mgba_rumble_libretro.so.zip
 2022-01-19 14f6f93c neocd_libretro.so.zip
 2022-01-21 bba4a6ac opera_libretro.so.zip
+2022-01-21 3e9e3310 tgbdual_libretro.so.zip

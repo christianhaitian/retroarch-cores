@@ -7,7 +7,6 @@ yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
-tgbdual_libretro.so.zip
 daphne_libretro.so.zip
 uzem_libretro.so.zip
 nekop2_libretro.so.zip
@@ -132,3 +131,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
+tgbdual_libretro.so.zip
