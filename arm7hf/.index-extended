@@ -15,7 +15,6 @@
 2021-09-30 beb9a619 flycast_libretro.so.zip
 2021-11-02 2b859886 parallel_n64_libretro.so.zip
 2021-11-11 a553f0e9 gpsp_libretro.so.zip
-2021-12-11 d1e741fd yabasanshiro_libretro.so.zip
 2021-12-14 77563181 picodrive_libretro.so.zip
 2022-01-02 a4354881 uae4arm_libretro.so.zip
 2022-01-04 26cfc972 handy_libretro.so.zip
@@ -24,3 +23,4 @@
 2022-01-26 0e34e239 pcsx_rearmed_peops_libretro.so.zip
 2022-01-26 1c9670c1 pcsx_rearmed_rumble_libretro.so.zip
 2022-01-26 ad9b112f pcsx_rearmed_rumble_peops_libretro.so.zip
+2022-01-30 3bc33248 yabasanshiro_libretro.so.zip
