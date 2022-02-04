@@ -94,7 +94,6 @@ ppsspp_libretro.so.zip
 quicknes_libretro.so.zip
 mame_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
-cap32_libretro.so.zip
 sameduck_libretro.so.zip
 pokemini_libretro.so.zip
 atari800_libretro.so.zip
@@ -132,3 +131,4 @@ mgba_rumble_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
 tgbdual_libretro.so.zip
+cap32_libretro.so.zip
