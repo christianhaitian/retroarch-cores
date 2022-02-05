@@ -104,7 +104,6 @@ gambatte_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 nestopia_libretro.so.zip
 px68k_libretro.so.zip
-picodrive_libretro.so.zip
 bluemsx_libretro.so.zip
 melonds_libretro.so.zip
 sameboy_libretro.so.zip
@@ -132,3 +131,4 @@ neocd_libretro.so.zip
 opera_libretro.so.zip
 tgbdual_libretro.so.zip
 cap32_libretro.so.zip
+picodrive_libretro.so.zip

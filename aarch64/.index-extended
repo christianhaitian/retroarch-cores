@@ -106,7 +106,6 @@
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
-2021-12-14 28f82e2d picodrive_libretro.so.zip
 2021-12-19 165663f2 bluemsx_libretro.so.zip
 2021-12-20 73bdd8ac melonds_libretro.so.zip
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-21 bba4a6ac opera_libretro.so.zip
 2022-01-21 3e9e3310 tgbdual_libretro.so.zip
 2022-02-04 6c27ffea cap32_libretro.so.zip
+2022-02-05 b6f0ca24 picodrive_libretro.so.zip
