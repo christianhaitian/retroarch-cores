@@ -18,9 +18,9 @@
 2022-01-02 a4354881 uae4arm_libretro.so.zip
 2022-01-04 26cfc972 handy_libretro.so.zip
 2022-01-06 6ba0a12a snes9x2005_libretro.so.zip
-2022-01-26 df774009 pcsx_rearmed_libretro.so.zip
-2022-01-26 0e34e239 pcsx_rearmed_peops_libretro.so.zip
-2022-01-26 1c9670c1 pcsx_rearmed_rumble_libretro.so.zip
-2022-01-26 ad9b112f pcsx_rearmed_rumble_peops_libretro.so.zip
 2022-01-30 3bc33248 yabasanshiro_libretro.so.zip
 2022-02-05 e25b24a1 picodrive_libretro.so.zip
+2022-02-16 d48c5af7 pcsx_rearmed_libretro.so.zip
+2022-02-16 66996112 pcsx_rearmed_peops_libretro.so.zip
+2022-02-16 1d383026 pcsx_rearmed_rumble_libretro.so.zip
+2022-02-16 4bc5c63e pcsx_rearmed_rumble_peops_libretro.so.zip
