@@ -2,7 +2,6 @@ retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 vecx_libretro.so.zip
 bnes_libretro.so.zip
-prboom_libretro.so.zip
 yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
@@ -132,3 +131,4 @@ opera_libretro.so.zip
 tgbdual_libretro.so.zip
 cap32_libretro.so.zip
 picodrive_libretro.so.zip
+prboom_libretro.so.zip

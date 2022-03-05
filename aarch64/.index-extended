@@ -4,7 +4,6 @@
 2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
-2021-01-26 62eade27 prboom_libretro.so.zip
 2021-01-26 af16398b yabasanshiro_libretro.so.zip
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
@@ -134,3 +133,4 @@
 2022-01-21 3e9e3310 tgbdual_libretro.so.zip
 2022-02-04 6c27ffea cap32_libretro.so.zip
 2022-02-05 b6f0ca24 picodrive_libretro.so.zip
+2022-03-05 66b381b0 prboom_libretro.so.zip
