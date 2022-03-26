@@ -91,7 +91,6 @@
 2021-09-30 d68da31f flycast_libretro.so.zip
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
-2021-10-02 470456e9 ppsspp_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 15c249bd mame_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
@@ -100,7 +99,6 @@
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
-2021-12-12 3663abbd dosbox_pure_libretro.so.zip
 2021-12-12 38f74cf7 gambatte_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
@@ -109,8 +107,6 @@
 2021-12-20 73bdd8ac melonds_libretro.so.zip
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
-2021-12-25 edbdbeba fmsx_libretro.so.zip
-2021-12-25 e5f7b690 genesis_plus_gx_libretro.so.zip
 2021-12-25 a03699ca mednafen_pce_fast_libretro.so.zip
 2021-12-25 1906d791 puae_libretro.so.zip
 2021-12-25 1260548b uae4arm_libretro.so.zip
@@ -120,7 +116,6 @@
 2022-01-03 efb1675a handy_libretro.so.zip
 2022-01-03 62512552 mame2003_plus_libretro.so.zip
 2022-01-06 e3ffb162 snes9x2005_libretro.so.zip
-2022-01-09 cd5e3230 fbneo_libretro.so.zip
 2022-01-09 43fbf526 tic80_libretro.so.zip
 2022-01-11 d15bd33c pcsx_rearmed_libretro.so.zip
 2022-01-11 e7ae2c99 pcsx_rearmed_rumble_libretro.so.zip
@@ -136,3 +131,8 @@
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-03-25 9e23d474 a5200_libretro.so.zip
 2022-03-25 f51cf159 same_cdi_libretro.so.zip
+2022-03-26 de9d9e76 dosbox_pure_libretro.so.zip
+2022-03-26 87fe0ba8 fbneo_libretro.so.zip
+2022-03-26 990d76a3 fmsx_libretro.so.zip
+2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
+2022-03-26 fb064965 ppsspp_libretro.so.zip
