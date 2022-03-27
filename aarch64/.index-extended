@@ -18,7 +18,6 @@
 2021-01-26 dc39b456 mrboom_libretro.so.zip
 2021-01-26 6f42df91 vba_next_libretro.so.zip
 2021-01-26 dce9a365 o2em_libretro.so.zip
-2021-01-26 66f67808 mednafen_lynx_libretro.so.zip
 2021-01-26 c666ed25 spring_ppsspp_standalone_libretro.so.zip
 2021-01-26 104d29e1 fbalpha2012_cps3_libretro.so.zip
 2021-01-26 2ad39f70 np2kai_libretro.so.zip
@@ -34,7 +33,6 @@
 2021-01-26 37117fb7 fbalpha2012_cps2_libretro.so.zip
 2021-01-26 4da7e62e fbalpha2012_cps1_libretro.so.zip
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
-2021-01-26 61d14fb4 mednafen_ngp_libretro.so.zip
 2021-01-26 989c7f32 fuse_libretro.so.zip
 2021-01-26 9fb5bfb8 vbam_libretro.so.zip
 2021-01-26 ea982018 vemulator_libretro.so.zip
@@ -55,7 +53,6 @@
 2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
-2021-01-26 01f2e554 mame2010_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
@@ -75,7 +72,6 @@
 2021-02-28 9f3bc429 lutro_libretro.so.zip
 2021-02-28 c36fbed0 mesen_libretro.so.zip
 2021-02-28 1ac6bd13 vice_x128_libretro.so.zip
-2021-02-28 32a489bb mame2003_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-03-04 a69f0378 race_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
@@ -136,3 +132,7 @@
 2022-03-26 990d76a3 fmsx_libretro.so.zip
 2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
 2022-03-26 fb064965 ppsspp_libretro.so.zip
+2022-03-27 82f2a264 mame2003_libretro.so.zip
+2022-03-27 f0a635ba mame2010_libretro.so.zip
+2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
+2022-03-27 201705ca mednafen_ngp_libretro.so.zip
