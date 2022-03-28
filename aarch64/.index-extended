@@ -113,8 +113,6 @@
 2022-01-03 62512552 mame2003_plus_libretro.so.zip
 2022-01-06 e3ffb162 snes9x2005_libretro.so.zip
 2022-01-09 43fbf526 tic80_libretro.so.zip
-2022-01-11 d15bd33c pcsx_rearmed_libretro.so.zip
-2022-01-11 e7ae2c99 pcsx_rearmed_rumble_libretro.so.zip
 2022-01-15 f542eee4 freeintv_libretro.so.zip
 2022-01-18 6112ae8a gpsp_libretro.so.zip
 2022-01-18 609e77a3 mgba_libretro.so.zip
@@ -136,3 +134,5 @@
 2022-03-27 f0a635ba mame2010_libretro.so.zip
 2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
+2022-03-28 485b3c40 pcsx_rearmed_libretro.so.zip
+2022-03-28 3bcca295 pcsx_rearmed_rumble_libretro.so.zip
