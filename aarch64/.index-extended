@@ -88,7 +88,6 @@
 2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
-2021-10-23 15c249bd mame_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-11-02 469f1484 pokemini_libretro.so.zip
@@ -136,3 +135,5 @@
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
 2022-03-28 485b3c40 pcsx_rearmed_libretro.so.zip
 2022-03-28 3bcca295 pcsx_rearmed_rumble_libretro.so.zip
+2022-04-16 d2af92d4 fly_flycast_libretro.so.zip
+2022-04-16 e96c41df mame_libretro.so.zip

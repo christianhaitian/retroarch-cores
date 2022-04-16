@@ -86,7 +86,6 @@ flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 parallel_n64_libretro.so.zip
 quicknes_libretro.so.zip
-mame_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 sameduck_libretro.so.zip
 pokemini_libretro.so.zip
@@ -134,3 +133,5 @@ mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+fly_flycast_libretro.so.zip
+mame_libretro.so.zip
