@@ -48,7 +48,6 @@
 2021-01-26 e653f02e superflappybirds_libretro.so.zip
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
-2021-01-26 cba6dacc virtualjaguar_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
 2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-04-17 7441ab08 snes9x_libretro.so.zip
 2022-04-18 41cacb38 uzem_libretro.so.zip
 2022-04-18 667caffa vemulator_libretro.so.zip
+2022-04-18 0fa36685 virtualjaguar_libretro.so.zip
