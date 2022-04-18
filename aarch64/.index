@@ -32,7 +32,6 @@ fbalpha2012_cps1_libretro.so.zip
 spring_drastic_standalone_libretro.so.zip
 fuse_libretro.so.zip
 vbam_libretro.so.zip
-vemulator_libretro.so.zip
 tyrquake_libretro.so.zip
 nxengine_libretro.so.zip
 gw_libretro.so.zip
@@ -135,3 +134,4 @@ mame_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 snes9x_libretro.so.zip
 uzem_libretro.so.zip
+vemulator_libretro.so.zip

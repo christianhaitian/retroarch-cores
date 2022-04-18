@@ -34,7 +34,6 @@
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
 2021-01-26 989c7f32 fuse_libretro.so.zip
 2021-01-26 9fb5bfb8 vbam_libretro.so.zip
-2021-01-26 ea982018 vemulator_libretro.so.zip
 2021-01-26 de898f39 tyrquake_libretro.so.zip
 2021-01-26 4f7b4f1c nxengine_libretro.so.zip
 2021-01-26 671bef08 gw_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-04-17 4692fde6 mednafen_supafaust_libretro.so.zip
 2022-04-17 7441ab08 snes9x_libretro.so.zip
 2022-04-18 41cacb38 uzem_libretro.so.zip
+2022-04-18 667caffa vemulator_libretro.so.zip
