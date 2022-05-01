@@ -27,3 +27,12 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_peops_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 pcsx_rearmed_rumble_peops_libretro.so.zip
+vice_x128_libretro.so.zip
+vice_x64_libretro.so.zip
+vice_x64sc_libretro.so.zip
+vice_xcbm2_libretro.so.zip
+vice_xcbm5x0_libretro.so.zip
+vice_xpet_libretro.so.zip
+vice_xplus4_libretro.so.zip
+vice_xscpu64_libretro.so.zip
+vice_xvic_libretro.so.zip
