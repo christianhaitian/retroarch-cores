@@ -112,7 +112,6 @@
 2022-03-25 f51cf159 same_cdi_libretro.so.zip
 2022-03-26 de9d9e76 dosbox_pure_libretro.so.zip
 2022-03-26 87fe0ba8 fbneo_libretro.so.zip
-2022-03-26 990d76a3 fmsx_libretro.so.zip
 2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
 2022-03-26 fb064965 ppsspp_libretro.so.zip
 2022-03-27 82f2a264 mame2003_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-05-01 f52e4915 vice_xplus4_libretro.so.zip
 2022-05-01 548224e9 vice_xscpu64_libretro.so.zip
 2022-05-01 42a7ff92 vice_xvic_libretro.so.zip
+2022-05-13 edbdbeba fmsx_libretro.so.zip

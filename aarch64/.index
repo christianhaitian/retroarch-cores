@@ -110,7 +110,6 @@ a5200_libretro.so.zip
 same_cdi_libretro.so.zip
 dosbox_pure_libretro.so.zip
 fbneo_libretro.so.zip
-fmsx_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 ppsspp_libretro.so.zip
 mame2003_libretro.so.zip
@@ -136,3 +135,4 @@ vice_xpet_libretro.so.zip
 vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
+fmsx_libretro.so.zip
