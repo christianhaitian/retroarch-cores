@@ -76,7 +76,6 @@
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
-2021-11-02 469f1484 pokemini_libretro.so.zip
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
@@ -100,7 +99,6 @@
 2022-01-09 43fbf526 tic80_libretro.so.zip
 2022-01-15 f542eee4 freeintv_libretro.so.zip
 2022-01-18 6112ae8a gpsp_libretro.so.zip
-2022-01-18 609e77a3 mgba_libretro.so.zip
 2022-01-18 c1f6c984 mgba_rumble_libretro.so.zip
 2022-01-19 14f6f93c neocd_libretro.so.zip
 2022-01-21 bba4a6ac opera_libretro.so.zip
@@ -138,3 +136,5 @@
 2022-05-01 548224e9 vice_xscpu64_libretro.so.zip
 2022-05-01 42a7ff92 vice_xvic_libretro.so.zip
 2022-05-13 edbdbeba fmsx_libretro.so.zip
+2022-06-03 ed163687 mgba_libretro.so.zip
+2022-06-03 45d90427 pokemini_libretro.so.zip
