@@ -97,7 +97,6 @@ snes9x2005_libretro.so.zip
 tic80_libretro.so.zip
 freeintv_libretro.so.zip
 gpsp_libretro.so.zip
-mgba_rumble_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
 tgbdual_libretro.so.zip
@@ -136,3 +135,4 @@ vice_xvic_libretro.so.zip
 fmsx_libretro.so.zip
 mgba_libretro.so.zip
 pokemini_libretro.so.zip
+mgba_rumble_libretro.so.zip
