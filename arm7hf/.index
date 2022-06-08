@@ -14,7 +14,6 @@ snes9x2002_libretro.so
 snes9x2005_libretro.so
 handy_libretro.so
 genesis_plus_gx_wide_libretro.so.zip
-flycast32_rumble_libretro.so.zip
 flycast_libretro.so.zip
 gpsp_libretro.so.zip
 uae4arm_libretro.so.zip
@@ -36,3 +35,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_peops_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 pcsx_rearmed_rumble_peops_libretro.so.zip
+flycast32_rumble_libretro.so.zip
