@@ -70,8 +70,6 @@
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2021-09-30 d68da31f flycast_libretro.so.zip
-2021-09-30 cc857e9a flycast_rumble_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
@@ -117,7 +115,6 @@
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
 2022-03-28 485b3c40 pcsx_rearmed_libretro.so.zip
 2022-03-28 3bcca295 pcsx_rearmed_rumble_libretro.so.zip
-2022-04-16 d2af92d4 fly_flycast_libretro.so.zip
 2022-04-16 e96c41df mame_libretro.so.zip
 2022-04-17 4692fde6 mednafen_supafaust_libretro.so.zip
 2022-04-17 7441ab08 snes9x_libretro.so.zip
@@ -138,3 +135,5 @@
 2022-06-03 ed163687 mgba_libretro.so.zip
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-03 ed163687 mgba_rumble_libretro.so.zip
+2022-06-08 fbef6dfa flycast_libretro.so.zip
+2022-06-08 ecb064b0 flycast_rumble_libretro.so.zip
