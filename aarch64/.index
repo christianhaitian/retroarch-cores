@@ -75,7 +75,6 @@ sameduck_libretro.so.zip
 atari800_libretro.so.zip
 easyrpg_libretro.so.zip
 crocods_libretro.so.zip
-gambatte_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 nestopia_libretro.so.zip
 px68k_libretro.so.zip
@@ -135,3 +134,4 @@ pokemini_libretro.so.zip
 mgba_rumble_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
+gambatte_libretro.so.zip
