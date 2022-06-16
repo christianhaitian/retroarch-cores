@@ -107,7 +107,6 @@
 2022-03-26 de9d9e76 dosbox_pure_libretro.so.zip
 2022-03-26 87fe0ba8 fbneo_libretro.so.zip
 2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
-2022-03-26 fb064965 ppsspp_libretro.so.zip
 2022-03-27 82f2a264 mame2003_libretro.so.zip
 2022-03-27 f0a635ba mame2010_libretro.so.zip
 2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-06-08 fbef6dfa flycast_libretro.so.zip
 2022-06-08 ecb064b0 flycast_rumble_libretro.so.zip
 2022-06-13 b1ed2699 gambatte_libretro.so.zip
+2022-06-16 8cb0bad9 ppsspp_libretro.so.zip
