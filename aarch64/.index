@@ -102,7 +102,6 @@ picodrive_libretro.so.zip
 prboom_libretro.so.zip
 a5200_libretro.so.zip
 same_cdi_libretro.so.zip
-fbneo_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 mame2003_libretro.so.zip
 mame2010_libretro.so.zip
@@ -135,3 +134,4 @@ flycast_rumble_libretro.so.zip
 gambatte_libretro.so.zip
 ppsspp_libretro.so.zip
 dosbox_pure_libretro.so.zip
+fbneo_libretro.so.zip

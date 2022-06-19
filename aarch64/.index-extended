@@ -104,7 +104,6 @@
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-03-25 9e23d474 a5200_libretro.so.zip
 2022-03-25 f51cf159 same_cdi_libretro.so.zip
-2022-03-26 87fe0ba8 fbneo_libretro.so.zip
 2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
 2022-03-27 82f2a264 mame2003_libretro.so.zip
 2022-03-27 f0a635ba mame2010_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-06-13 b1ed2699 gambatte_libretro.so.zip
 2022-06-16 8cb0bad9 ppsspp_libretro.so.zip
 2022-06-18 e2543ae5 dosbox_pure_libretro.so.zip
+2022-06-19 0d40702a fbneo_libretro.so.zip
