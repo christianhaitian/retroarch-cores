@@ -87,7 +87,6 @@
 2021-12-25 a03699ca mednafen_pce_fast_libretro.so.zip
 2021-12-25 1906d791 puae_libretro.so.zip
 2021-12-25 1260548b uae4arm_libretro.so.zip
-2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
 2022-01-03 17927bfe scummvm_libretro.so.zip
 2022-01-03 0211cf1a fceumm_libretro.so.zip
 2022-01-03 efb1675a handy_libretro.so.zip
@@ -131,9 +130,10 @@
 2022-06-03 ed163687 mgba_libretro.so.zip
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-03 ed163687 mgba_rumble_libretro.so.zip
-2022-06-08 fbef6dfa flycast_libretro.so.zip
-2022-06-08 ecb064b0 flycast_rumble_libretro.so.zip
 2022-06-13 b1ed2699 gambatte_libretro.so.zip
 2022-06-16 8cb0bad9 ppsspp_libretro.so.zip
 2022-06-18 e2543ae5 dosbox_pure_libretro.so.zip
 2022-06-19 0d40702a fbneo_libretro.so.zip
+2022-06-25 fbef6dfa flycast_libretro.so.zip
+2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
+2022-06-25 e155ca17 mupen64plus_next_libretro.so.zip

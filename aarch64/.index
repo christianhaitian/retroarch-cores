@@ -85,7 +85,6 @@ desmume2015_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
 puae_libretro.so.zip
 uae4arm_libretro.so.zip
-mupen64plus_next_libretro.so.zip
 scummvm_libretro.so.zip
 fceumm_libretro.so.zip
 handy_libretro.so.zip
@@ -129,9 +128,10 @@ fmsx_libretro.so.zip
 mgba_libretro.so.zip
 pokemini_libretro.so.zip
 mgba_rumble_libretro.so.zip
-flycast_libretro.so.zip
-flycast_rumble_libretro.so.zip
 gambatte_libretro.so.zip
 ppsspp_libretro.so.zip
 dosbox_pure_libretro.so.zip
 fbneo_libretro.so.zip
+flycast_libretro.so.zip
+flycast_rumble_libretro.so.zip
+mupen64plus_next_libretro.so.zip
