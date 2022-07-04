@@ -107,7 +107,6 @@
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-03-25 9e23d474 a5200_libretro.so.zip
 2022-03-25 f51cf159 same_cdi_libretro.so.zip
-2022-03-26 de9d9e76 dosbox_pure_libretro.so.zip
 2022-03-26 87fe0ba8 fbneo_libretro.so.zip
 2022-03-26 81aef15e genesis_plus_gx_libretro.so.zip
 2022-03-26 fb064965 ppsspp_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-06-03 ed163687 mgba_libretro.so.zip
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-03 ed163687 mgba_rumble_libretro.so.zip
+2022-07-04 ad3b5f53 dosbox_pure_libretro.so.zip
