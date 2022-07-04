@@ -4,7 +4,6 @@
 2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
-2021-01-26 af16398b yabasanshiro_libretro.so.zip
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-06-25 fbef6dfa flycast_libretro.so.zip
 2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
 2022-06-25 e155ca17 mupen64plus_next_libretro.so.zip
+2022-07-04 2e580c37 yabasanshiro_libretro.so.zip

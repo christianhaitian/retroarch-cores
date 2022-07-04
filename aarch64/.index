@@ -2,7 +2,6 @@ retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 vecx_libretro.so.zip
 bnes_libretro.so.zip
-yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
@@ -135,3 +134,4 @@ fbneo_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 mupen64plus_next_libretro.so.zip
+yabasanshiro_libretro.so.zip
