@@ -79,7 +79,6 @@
 2021-11-13 3aef201a atari800_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-12 51b2285d crocods_libretro.so.zip
-2021-12-12 38f74cf7 gambatte_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-03 ed163687 mgba_rumble_libretro.so.zip
 2022-07-04 ad3b5f53 dosbox_pure_libretro.so.zip
+2022-07-04 b85e2f50 gambatte_libretro.so.zip
