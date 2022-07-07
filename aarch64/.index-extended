@@ -123,7 +123,6 @@
 2022-07-06 e65dcf95 atari800_libretro.so.zip
 2022-07-06 4856aec5 handy_libretro.so.zip
 2022-07-06 aa1ad341 mednafen_supafaust_libretro.so.zip
-2022-07-06 a0a0b534 mupen64plus_next_libretro.so.zip
 2022-07-06 fe283efb pcsx_rearmed_libretro.so.zip
 2022-07-06 a8c14844 pcsx_rearmed_rumble_libretro.so.zip
 2022-07-06 f671086a sameboy_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-07-06 3074df8f vice_xplus4_libretro.so.zip
 2022-07-06 81c67722 vice_xscpu64_libretro.so.zip
 2022-07-06 d367f39b vice_xvic_libretro.so.zip
+2022-07-07 a6e8dfa7 mupen64plus_next_libretro.so.zip
