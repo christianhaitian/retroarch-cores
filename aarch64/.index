@@ -64,7 +64,6 @@ potator_libretro.so.zip
 mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mednafen_vb_libretro.so.zip
-genesis_plus_gx_wide_libretro.so.zip
 mess_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
@@ -136,3 +135,4 @@ pokemini_libretro.so.zip
 mgba_rumble_libretro.so.zip
 dosbox_pure_libretro.so.zip
 gambatte_libretro.so.zip
+genesis_plus_gx_wide_libretro.so.zip
