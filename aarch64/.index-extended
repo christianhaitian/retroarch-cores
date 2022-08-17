@@ -65,7 +65,6 @@
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
-2021-08-22 d5ad2c32 genesis_plus_gx_wide_libretro.so.zip
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-07-06 81c67722 vice_xscpu64_libretro.so.zip
 2022-07-06 d367f39b vice_xvic_libretro.so.zip
 2022-07-07 a6e8dfa7 mupen64plus_next_libretro.so.zip
+2022-08-17 39e3e477 genesis_plus_gx_wide_libretro.so.zip
