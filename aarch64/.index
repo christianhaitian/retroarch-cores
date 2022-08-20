@@ -120,8 +120,6 @@ mgba_rumble_libretro.so.zip
 atari800_libretro.so.zip
 handy_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 sameboy_libretro.so.zip
 scummvm_libretro.so.zip
 vice_x128_libretro.so.zip
@@ -135,3 +133,5 @@ vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
