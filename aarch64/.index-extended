@@ -112,8 +112,6 @@
 2022-03-27 f0a635ba mame2010_libretro.so.zip
 2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
-2022-03-28 485b3c40 pcsx_rearmed_libretro.so.zip
-2022-03-28 3bcca295 pcsx_rearmed_rumble_libretro.so.zip
 2022-04-16 d2af92d4 fly_flycast_libretro.so.zip
 2022-04-16 e96c41df mame_libretro.so.zip
 2022-04-17 4692fde6 mednafen_supafaust_libretro.so.zip
@@ -138,3 +136,5 @@
 2022-07-04 ad3b5f53 dosbox_pure_libretro.so.zip
 2022-07-04 b85e2f50 gambatte_libretro.so.zip
 2022-08-17 39e3e477 genesis_plus_gx_wide_libretro.so.zip
+2022-08-21 eec985f9 pcsx_rearmed_libretro.so.zip
+2022-08-21 2eb6b64c pcsx_rearmed_rumble_libretro.so.zip
