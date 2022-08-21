@@ -17,10 +17,6 @@
 2022-07-06 86150466 gpsp_libretro.so.zip
 2022-07-06 91cd4f57 handy_libretro.so.zip
 2022-07-06 8f61169a mupen64plus_next_libretro.so.zip
-2022-07-06 a995dfc9 pcsx_rearmed_libretro.so.zip
-2022-07-06 571a35e1 pcsx_rearmed_peops_libretro.so.zip
-2022-07-06 c68f5986 pcsx_rearmed_rumble_libretro.so.zip
-2022-07-06 68e8880e pcsx_rearmed_rumble_peops_libretro.so.zip
 2022-07-06 168211dc uae4arm_libretro.so.zip
 2022-07-06 8409458e vice_x128_libretro.so.zip
 2022-07-06 de0f614f vice_x64_libretro.so.zip
@@ -34,3 +30,7 @@
 2022-07-06 4945fade yabasanshiro_libretro.so.zip
 2022-08-02 b90cb262 flycast32_rumble_libretro.so.zip
 2022-08-02 738106b3 flycast_libretro.so.zip
+2022-08-21 85b92eb2 pcsx_rearmed_libretro.so.zip
+2022-08-21 f4354f6d pcsx_rearmed_peops_libretro.so.zip
+2022-08-21 46af6915 pcsx_rearmed_rumble_libretro.so.zip
+2022-08-21 62ddc56a pcsx_rearmed_rumble_peops_libretro.so.zip
