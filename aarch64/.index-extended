@@ -31,11 +31,9 @@
 2021-01-26 37117fb7 fbalpha2012_cps2_libretro.so.zip
 2021-01-26 4da7e62e fbalpha2012_cps1_libretro.so.zip
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
-2021-01-26 989c7f32 fuse_libretro.so.zip
 2021-01-26 9fb5bfb8 vbam_libretro.so.zip
 2021-01-26 de898f39 tyrquake_libretro.so.zip
 2021-01-26 4f7b4f1c nxengine_libretro.so.zip
-2021-01-26 671bef08 gw_libretro.so.zip
 2021-01-26 f9d36625 x1_libretro.so.zip
 2021-01-26 c666ed25 spring_mupen64plus_standalone_libretro.so.zip
 2021-01-26 55f93842 fbalpha2012_libretro.so.zip
@@ -73,9 +71,7 @@
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
-2021-12-12 51b2285d crocods_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
-2021-12-12 0dc760f5 nestopia_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
 2021-12-19 165663f2 bluemsx_libretro.so.zip
 2021-12-20 73bdd8ac melonds_libretro.so.zip
@@ -83,10 +79,8 @@
 2021-12-25 a03699ca mednafen_pce_fast_libretro.so.zip
 2021-12-25 1906d791 puae_libretro.so.zip
 2021-12-25 1260548b uae4arm_libretro.so.zip
-2022-01-03 0211cf1a fceumm_libretro.so.zip
 2022-01-03 62512552 mame2003_plus_libretro.so.zip
 2022-01-06 e3ffb162 snes9x2005_libretro.so.zip
-2022-01-09 43fbf526 tic80_libretro.so.zip
 2022-01-15 f542eee4 freeintv_libretro.so.zip
 2022-01-18 6112ae8a gpsp_libretro.so.zip
 2022-01-19 14f6f93c neocd_libretro.so.zip
@@ -122,7 +116,6 @@
 2022-07-06 4856aec5 handy_libretro.so.zip
 2022-07-06 aa1ad341 mednafen_supafaust_libretro.so.zip
 2022-07-06 f671086a sameboy_libretro.so.zip
-2022-07-06 bdbc5ca3 scummvm_libretro.so.zip
 2022-07-06 72bf9ea7 vice_x128_libretro.so.zip
 2022-07-06 20fd9b54 vice_x64_libretro.so.zip
 2022-07-06 dbd313fa vice_x64sc_libretro.so.zip
@@ -137,3 +130,10 @@
 2022-08-20 6b60bda8 pcsx_rearmed_libretro.so.zip
 2022-08-20 899c6866 pcsx_rearmed_rumble_libretro.so.zip
 2022-08-21 8822d7bc dosbox_pure_libretro.so.zip
+2022-08-26 97e0f3e2 crocods_libretro.so.zip
+2022-08-26 62625656 fceumm_libretro.so.zip
+2022-08-26 86bbbf6a fuse_libretro.so.zip
+2022-08-26 c63140a2 gw_libretro.so.zip
+2022-08-26 d538d1a1 nestopia_libretro.so.zip
+2022-08-26 4dfccbb6 scummvm_libretro.so.zip
+2022-08-26 97e15d98 tic80_libretro.so.zip
