@@ -44,7 +44,6 @@ superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 cannonball_libretro.so.zip
-mame2000_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
 lowresnx_libretro.so.zip
@@ -135,3 +134,4 @@ gw_libretro.so.zip
 nestopia_libretro.so.zip
 scummvm_libretro.so.zip
 tic80_libretro.so.zip
+mame2000_libretro.so.zip

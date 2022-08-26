@@ -46,7 +46,6 @@
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 a60b6bb3 mednafen_wswan_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
-2021-01-26 d4f8df37 mame2000_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-08-26 d538d1a1 nestopia_libretro.so.zip
 2022-08-26 4dfccbb6 scummvm_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
+2022-08-26 9ed9cf8f mame2000_libretro.so.zip
