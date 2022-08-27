@@ -30,11 +30,9 @@ gearboy_libretro.so.zip
 fbalpha2012_cps2_libretro.so.zip
 fbalpha2012_cps1_libretro.so.zip
 spring_drastic_standalone_libretro.so.zip
-fuse_libretro.so.zip
 vbam_libretro.so.zip
 tyrquake_libretro.so.zip
 nxengine_libretro.so.zip
-gw_libretro.so.zip
 x1_libretro.so.zip
 spring_mupen64plus_standalone_libretro.so.zip
 fbalpha2012_libretro.so.zip
@@ -47,7 +45,6 @@ superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 cannonball_libretro.so.zip
-mame2000_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
 lowresnx_libretro.so.zip
@@ -75,9 +72,7 @@ mednafen_pcfx_libretro.so.zip
 sameduck_libretro.so.zip
 atari800_libretro.so.zip
 easyrpg_libretro.so.zip
-crocods_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
-nestopia_libretro.so.zip
 px68k_libretro.so.zip
 bluemsx_libretro.so.zip
 melonds_libretro.so.zip
@@ -87,12 +82,9 @@ mednafen_pce_fast_libretro.so.zip
 puae_libretro.so.zip
 uae4arm_libretro.so.zip
 mupen64plus_next_libretro.so.zip
-scummvm_libretro.so.zip
-fceumm_libretro.so.zip
 handy_libretro.so.zip
 mame2003_plus_libretro.so.zip
 snes9x2005_libretro.so.zip
-tic80_libretro.so.zip
 freeintv_libretro.so.zip
 gpsp_libretro.so.zip
 neocd_libretro.so.zip
@@ -136,3 +128,11 @@ genesis_plus_gx_wide_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 dosbox_pure_libretro.so.zip
+crocods_libretro.so.zip
+fceumm_libretro.so.zip
+fuse_libretro.so.zip
+gw_libretro.so.zip
+mame2000_libretro.so.zip
+nestopia_libretro.so.zip
+scummvm_libretro.so.zip
+tic80_libretro.so.zip
