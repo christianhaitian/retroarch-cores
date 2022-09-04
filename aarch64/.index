@@ -2,7 +2,6 @@ retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 vecx_libretro.so.zip
 bnes_libretro.so.zip
-yabasanshiro_libretro.so.zip
 stella2014_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
@@ -136,3 +135,4 @@ mame2000_libretro.so.zip
 nestopia_libretro.so.zip
 scummvm_libretro.so.zip
 tic80_libretro.so.zip
+yabasanshiro_libretro.so.zip

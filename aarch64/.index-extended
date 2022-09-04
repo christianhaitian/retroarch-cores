@@ -4,7 +4,6 @@
 2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
-2021-01-26 af16398b yabasanshiro_libretro.so.zip
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-08-27 d538d1a1 nestopia_libretro.so.zip
 2022-08-27 28d1c8e4 scummvm_libretro.so.zip
 2022-08-27 6ee104c4 tic80_libretro.so.zip
+2022-09-04 faf555d4 yabasanshiro_libretro.so.zip
