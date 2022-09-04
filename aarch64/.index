@@ -106,7 +106,6 @@ ppsspp_libretro.so.zip
 fbneo_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
-yabasanshiro_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 atari800_libretro.so.zip
@@ -135,3 +134,4 @@ nestopia_libretro.so.zip
 scummvm_libretro.so.zip
 tic80_libretro.so.zip
 mame2000_libretro.so.zip
+yabasanshiro_libretro.so.zip

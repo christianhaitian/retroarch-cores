@@ -108,7 +108,6 @@
 2022-06-19 0d40702a fbneo_libretro.so.zip
 2022-06-25 fbef6dfa flycast_libretro.so.zip
 2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
-2022-07-04 2e580c37 yabasanshiro_libretro.so.zip
 2022-07-05 fc16804e mgba_libretro.so.zip
 2022-07-05 3ad7152d mgba_rumble_libretro.so.zip
 2022-07-06 e65dcf95 atari800_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-08-26 4dfccbb6 scummvm_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
 2022-08-26 9ed9cf8f mame2000_libretro.so.zip
+2022-09-04 e86efddd yabasanshiro_libretro.so.zip
