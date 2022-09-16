@@ -53,7 +53,6 @@ fceunext_libretro.so.zip
 imageviewer_libretro.so.zip
 theodore_libretro.so.zip
 lutro_libretro.so.zip
-mesen_libretro.so.zip
 mame2015_libretro.so.zip
 race_libretro.so.zip
 potator_libretro.so.zip
@@ -136,3 +135,4 @@ nestopia_libretro.so.zip
 scummvm_libretro.so.zip
 tic80_libretro.so.zip
 yabasanshiro_libretro.so.zip
+mesen_libretro.so.zip

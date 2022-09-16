@@ -55,7 +55,6 @@
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
 2021-02-28 bdcce7b3 theodore_libretro.so.zip
 2021-02-28 9f3bc429 lutro_libretro.so.zip
-2021-02-28 c36fbed0 mesen_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-03-04 a69f0378 race_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-08-27 28d1c8e4 scummvm_libretro.so.zip
 2022-08-27 6ee104c4 tic80_libretro.so.zip
 2022-09-04 faf555d4 yabasanshiro_libretro.so.zip
+2022-09-16 40d7a538 mesen_libretro.so.zip
