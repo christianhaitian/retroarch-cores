@@ -105,7 +105,6 @@ mame_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 snes9x_libretro.so.zip
 uzem_libretro.so.zip
-vemulator_libretro.so.zip
 virtualjaguar_libretro.so.zip
 arduous_libretro.so.zip
 vice_x128_libretro.so.zip
@@ -137,3 +136,4 @@ tic80_libretro.so.zip
 yabasanshiro_libretro.so.zip
 mesen_libretro.so.zip
 prosystem_libretro.so.zip
+vemulator_libretro.so.zip

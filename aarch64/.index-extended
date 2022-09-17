@@ -106,7 +106,6 @@
 2022-04-17 4692fde6 mednafen_supafaust_libretro.so.zip
 2022-04-17 7441ab08 snes9x_libretro.so.zip
 2022-04-18 41cacb38 uzem_libretro.so.zip
-2022-04-18 667caffa vemulator_libretro.so.zip
 2022-04-18 0fa36685 virtualjaguar_libretro.so.zip
 2022-05-01 87121182 arduous_libretro.so.zip
 2022-05-01 a297fde4 vice_x128_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-09-04 faf555d4 yabasanshiro_libretro.so.zip
 2022-09-16 40d7a538 mesen_libretro.so.zip
 2022-09-17 677825ec prosystem_libretro.so.zip
+2022-09-17 667caffa vemulator_libretro.so.zip
