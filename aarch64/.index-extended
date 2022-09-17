@@ -1,7 +1,6 @@
 2021-01-26 003764b1 retro8_libretro.so.zip
 2021-01-26 c666ed25 spring_duckstation_standalone_libretro.so.zip
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
-2021-01-26 65c9c087 prosystem_libretro.so.zip
 2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
 2021-01-26 655fca69 stella2014_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-08-26 9ed9cf8f mame2000_libretro.so.zip
 2022-09-04 e86efddd yabasanshiro_libretro.so.zip
 2022-09-16 0f316658 mesen_libretro.so.zip
+2022-09-17 677825ec prosystem_libretro.so.zip
