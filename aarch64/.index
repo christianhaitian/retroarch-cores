@@ -47,7 +47,6 @@ cannonball_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
 lowresnx_libretro.so.zip
-freechaf_libretro.so.zip
 meteor_libretro.so.zip
 fceunext_libretro.so.zip
 imageviewer_libretro.so.zip
@@ -136,3 +135,4 @@ yabasanshiro_libretro.so.zip
 mesen_libretro.so.zip
 prosystem_libretro.so.zip
 vemulator_libretro.so.zip
+freechaf_libretro.so.zip

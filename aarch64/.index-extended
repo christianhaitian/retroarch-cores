@@ -48,7 +48,6 @@
 2021-02-09 fd750276 mpv_libretro.so.zip
 2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
-2021-02-28 9e7b1caa freechaf_libretro.so.zip
 2021-02-28 215d2776 meteor_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-09-16 0f316658 mesen_libretro.so.zip
 2022-09-17 677825ec prosystem_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
+2022-09-17 748f4010 freechaf_libretro.so.zip
