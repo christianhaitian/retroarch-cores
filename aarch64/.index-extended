@@ -54,7 +54,6 @@
 2021-02-28 bdcce7b3 theodore_libretro.so.zip
 2021-02-28 9f3bc429 lutro_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
-2021-03-04 a69f0378 race_libretro.so.zip
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
+2022-09-17 eaec4282 race_libretro.so.zip

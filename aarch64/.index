@@ -53,7 +53,6 @@ imageviewer_libretro.so.zip
 theodore_libretro.so.zip
 lutro_libretro.so.zip
 mame2015_libretro.so.zip
-race_libretro.so.zip
 potator_libretro.so.zip
 mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
@@ -136,3 +135,4 @@ prosystem_libretro.so.zip
 vemulator_libretro.so.zip
 freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
+race_libretro.so.zip
