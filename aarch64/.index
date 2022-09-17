@@ -57,7 +57,6 @@ race_libretro.so.zip
 potator_libretro.so.zip
 mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
-mednafen_vb_libretro.so.zip
 mess_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
@@ -137,3 +136,4 @@ mesen_libretro.so.zip
 prosystem_libretro.so.zip
 vemulator_libretro.so.zip
 freechaf_libretro.so.zip
+mednafen_vb_libretro.so.zip
