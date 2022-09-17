@@ -58,7 +58,6 @@
 2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
-2021-07-19 a76eacfe mednafen_vb_libretro.so.zip
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-09-17 677825ec prosystem_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
+2022-09-17 60015a6d mednafen_vb_libretro.so.zip
