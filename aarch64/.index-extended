@@ -96,7 +96,6 @@
 2022-04-16 e96c41df mame_libretro.so.zip
 2022-04-17 7441ab08 snes9x_libretro.so.zip
 2022-04-18 41cacb38 uzem_libretro.so.zip
-2022-04-18 667caffa vemulator_libretro.so.zip
 2022-04-18 0fa36685 virtualjaguar_libretro.so.zip
 2022-05-01 87121182 arduous_libretro.so.zip
 2022-05-13 edbdbeba fmsx_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-09-04 e86efddd yabasanshiro_libretro.so.zip
 2022-09-16 0f316658 mesen_libretro.so.zip
 2022-09-17 677825ec prosystem_libretro.so.zip
+2022-09-17 667caffa vemulator_libretro.so.zip
