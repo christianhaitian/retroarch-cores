@@ -1,7 +1,6 @@
 2021-01-26 003764b1 retro8_libretro.so.zip
 2021-01-26 c666ed25 spring_duckstation_standalone_libretro.so.zip
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
-2021-01-26 ceb53cba vecx_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
 2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-09-17 eaec4282 race_libretro.so.zip
+2022-09-25 245554c0 vecx_libretro.so.zip
