@@ -62,7 +62,6 @@
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
-2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-12 01120d5c mednafen_supergrafx_libretro.so.zip
 2021-12-12 1871ba2b px68k_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-09-17 eaec4282 race_libretro.so.zip
 2022-09-25 57c723be vecx_libretro.so.zip
+2022-10-02 c7905145 sameduck_libretro.so.zip

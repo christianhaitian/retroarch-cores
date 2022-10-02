@@ -61,7 +61,6 @@ duckstation_libretro.so.zip
 parallel_n64_libretro.so.zip
 quicknes_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
-sameduck_libretro.so.zip
 easyrpg_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 px68k_libretro.so.zip
@@ -136,3 +135,4 @@ freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
 race_libretro.so.zip
 vecx_libretro.so.zip
+sameduck_libretro.so.zip
