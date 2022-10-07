@@ -100,8 +100,6 @@
 2022-06-19 0d40702a fbneo_libretro.so.zip
 2022-06-25 fbef6dfa flycast_libretro.so.zip
 2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
-2022-07-05 fc16804e mgba_libretro.so.zip
-2022-07-05 3ad7152d mgba_rumble_libretro.so.zip
 2022-07-06 e65dcf95 atari800_libretro.so.zip
 2022-07-06 4856aec5 handy_libretro.so.zip
 2022-07-06 aa1ad341 mednafen_supafaust_libretro.so.zip
@@ -137,3 +135,5 @@
 2022-09-17 eaec4282 race_libretro.so.zip
 2022-09-25 57c723be vecx_libretro.so.zip
 2022-10-02 c7905145 sameduck_libretro.so.zip
+2022-10-07 d91f7e49 mgba_libretro.so.zip
+2022-10-07 76b21ea2 mgba_rumble_libretro.so.zip

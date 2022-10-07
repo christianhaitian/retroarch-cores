@@ -99,8 +99,6 @@ ppsspp_libretro.so.zip
 fbneo_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 atari800_libretro.so.zip
 handy_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
@@ -136,3 +134,5 @@ mednafen_vb_libretro.so.zip
 race_libretro.so.zip
 vecx_libretro.so.zip
 sameduck_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
