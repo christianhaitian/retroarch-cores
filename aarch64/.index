@@ -118,8 +118,6 @@ pokemini_libretro.so.zip
 mgba_rumble_libretro.so.zip
 gambatte_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 dosbox_pure_libretro.so.zip
 crocods_libretro.so.zip
 fceumm_libretro.so.zip
@@ -137,3 +135,5 @@ freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
 race_libretro.so.zip
 vecx_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip

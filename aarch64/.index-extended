@@ -119,8 +119,6 @@
 2022-06-03 ed163687 mgba_rumble_libretro.so.zip
 2022-07-04 b85e2f50 gambatte_libretro.so.zip
 2022-08-17 39e3e477 genesis_plus_gx_wide_libretro.so.zip
-2022-08-21 eec985f9 pcsx_rearmed_libretro.so.zip
-2022-08-21 2eb6b64c pcsx_rearmed_rumble_libretro.so.zip
 2022-08-21 53bb0a04 dosbox_pure_libretro.so.zip
 2022-08-27 97e0f3e2 crocods_libretro.so.zip
 2022-08-27 62625656 fceumm_libretro.so.zip
@@ -138,3 +136,5 @@
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-09-17 eaec4282 race_libretro.so.zip
 2022-09-25 245554c0 vecx_libretro.so.zip
+2022-10-08 1838cb6a pcsx_rearmed_libretro.so.zip
+2022-10-08 d061c34f pcsx_rearmed_rumble_libretro.so.zip
