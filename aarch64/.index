@@ -38,7 +38,6 @@ quasi88_libretro.so.zip
 gme_libretro.so.zip
 spring_flycast32_libretro.so.zip
 xrick_libretro.so.zip
-hatari_libretro.so.zip
 superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 cannonball_libretro.so.zip
@@ -136,3 +135,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 ppsspp_libretro.so.zip
 mednafen_wswan_libretro.so.zip
+hatari_libretro.so.zip

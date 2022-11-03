@@ -39,7 +39,6 @@
 2021-01-26 bca3dd8e gme_libretro.so.zip
 2021-01-26 c666ed25 spring_flycast32_libretro.so.zip
 2021-01-26 192e7b98 xrick_libretro.so.zip
-2021-01-26 234792c6 hatari_libretro.so.zip
 2021-01-26 e653f02e superflappybirds_libretro.so.zip
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
@@ -137,3 +136,4 @@
 2022-11-03 d255ffb7 pcsx_rearmed_rumble_libretro.so.zip
 2022-11-03 764a391b ppsspp_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
+2022-11-03 a4926639 hatari_libretro.so.zip
