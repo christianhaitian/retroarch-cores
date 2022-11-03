@@ -9,7 +9,6 @@ nekop2_libretro.so.zip
 2048_libretro.so.zip
 reminiscence_libretro.so.zip
 fbalpha2012_neogeo_libretro.so.zip
-stella_libretro.so.zip
 mrboom_libretro.so.zip
 o2em_libretro.so.zip
 vba_next_libretro.so.zip
@@ -137,3 +136,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 hatari_libretro.so.zip
+stella_libretro.so.zip

@@ -10,7 +10,6 @@
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
 2021-01-26 dbd73bb0 fbalpha2012_neogeo_libretro.so.zip
-2021-01-26 71c58d6a stella_libretro.so.zip
 2021-01-26 dc39b456 mrboom_libretro.so.zip
 2021-01-26 6f42df91 vba_next_libretro.so.zip
 2021-01-26 dce9a365 o2em_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-11-03 14904927 pcsx_rearmed_rumble_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 ffea4f04 hatari_libretro.so.zip
+2022-11-03 802b6a5e stella_libretro.so.zip
