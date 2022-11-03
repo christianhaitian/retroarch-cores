@@ -96,7 +96,6 @@
 2022-05-13 edbdbeba fmsx_libretro.so.zip
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-13 b1ed2699 gambatte_libretro.so.zip
-2022-06-16 8cb0bad9 ppsspp_libretro.so.zip
 2022-06-19 0d40702a fbneo_libretro.so.zip
 2022-06-25 fbef6dfa flycast_libretro.so.zip
 2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
@@ -134,6 +133,7 @@
 2022-10-02 c7905145 sameduck_libretro.so.zip
 2022-10-07 d91f7e49 mgba_libretro.so.zip
 2022-10-07 76b21ea2 mgba_rumble_libretro.so.zip
-2022-10-08 543f672d pcsx_rearmed_libretro.so.zip
-2022-10-08 ea375f06 pcsx_rearmed_rumble_libretro.so.zip
 2022-10-22 dc1b4878 dosbox_pure_libretro.so.zip
+2022-11-03 a51d5665 pcsx_rearmed_libretro.so.zip
+2022-11-03 d255ffb7 pcsx_rearmed_rumble_libretro.so.zip
+2022-11-03 764a391b ppsspp_libretro.so.zip

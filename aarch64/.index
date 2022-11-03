@@ -95,7 +95,6 @@ arduous_libretro.so.zip
 fmsx_libretro.so.zip
 pokemini_libretro.so.zip
 gambatte_libretro.so.zip
-ppsspp_libretro.so.zip
 fbneo_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
@@ -133,6 +132,7 @@ vecx_libretro.so.zip
 sameduck_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+dosbox_pure_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
-dosbox_pure_libretro.so.zip
+ppsspp_libretro.so.zip
