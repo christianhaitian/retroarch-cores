@@ -30,7 +30,7 @@
 2022-07-06 4945fade yabasanshiro_libretro.so.zip
 2022-08-02 b90cb262 flycast32_rumble_libretro.so.zip
 2022-08-02 738106b3 flycast_libretro.so.zip
-2022-08-21 46af6915 pcsx_rearmed_rumble_libretro.so.zip
-2022-10-08 91cb0489 pcsx_rearmed_libretro.so.zip
-2022-10-08 5f3cc8c7 pcsx_rearmed_peops_libretro.so.zip
-2022-10-08 5f3cc8c7 pcsx_rearmed_rumble_peops_libretro.so.zip
+2022-11-03 8e1f4ea0 pcsx_rearmed_libretro.so.zip
+2022-11-03 429db1b3 pcsx_rearmed_peops_libretro.so.zip
+2022-11-03 f535962f pcsx_rearmed_rumble_libretro.so.zip
+2022-11-03 c30c74a4 pcsx_rearmed_rumble_peops_libretro.so.zip
