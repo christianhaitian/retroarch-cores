@@ -41,7 +41,6 @@ xrick_libretro.so.zip
 hatari_libretro.so.zip
 superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
-mednafen_wswan_libretro.so.zip
 cannonball_libretro.so.zip
 mpv_libretro.so.zip
 81_libretro.so.zip
@@ -137,3 +136,4 @@ vecx_libretro.so.zip
 dosbox_pure_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+mednafen_wswan_libretro.so.zip
