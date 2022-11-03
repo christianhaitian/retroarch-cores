@@ -2,7 +2,6 @@
 2021-01-26 c666ed25 spring_duckstation_standalone_libretro.so.zip
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
-2021-01-26 655fca69 stella2014_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
@@ -138,3 +137,4 @@
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 ffea4f04 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
+2022-11-03 56373b19 stella2014_libretro.so.zip
