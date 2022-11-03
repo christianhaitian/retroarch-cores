@@ -29,7 +29,7 @@
 2022-05-01 03370084 vice_xvic_libretro.so.zip
 2022-06-05 f47a40a1 parallel_n64_libretro.so.zip
 2022-06-08 eb1d1edd flycast32_rumble_libretro.so.zip
-2022-08-21 d80e4cb6 pcsx_rearmed_rumble_libretro.so.zip
-2022-10-08 eb03daa9 pcsx_rearmed_libretro.so.zip
-2022-10-08 b7a14661 pcsx_rearmed_peops_libretro.so.zip
-2022-10-08 b7a14661 pcsx_rearmed_rumble_peops_libretro.so.zip
+2022-11-03 7c796981 pcsx_rearmed_libretro.so.zip
+2022-11-03 b02ee9a7 pcsx_rearmed_peops_libretro.so.zip
+2022-11-03 ecda9f87 pcsx_rearmed_rumble_libretro.so.zip
+2022-11-03 887e2f70 pcsx_rearmed_rumble_peops_libretro.so.zip
