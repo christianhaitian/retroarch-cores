@@ -80,7 +80,6 @@ gpsp_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
 tgbdual_libretro.so.zip
-cap32_libretro.so.zip
 picodrive_libretro.so.zip
 prboom_libretro.so.zip
 a5200_libretro.so.zip
@@ -138,3 +137,4 @@ hatari_libretro.so.zip
 stella_libretro.so.zip
 stella2014_libretro.so.zip
 fake08_libretro.so.zip
+cap32_libretro.so.zip

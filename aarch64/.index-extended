@@ -81,7 +81,6 @@
 2022-01-19 14f6f93c neocd_libretro.so.zip
 2022-01-21 bba4a6ac opera_libretro.so.zip
 2022-01-21 3e9e3310 tgbdual_libretro.so.zip
-2022-02-04 6c27ffea cap32_libretro.so.zip
 2022-02-05 b6f0ca24 picodrive_libretro.so.zip
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-03-25 9e23d474 a5200_libretro.so.zip
@@ -139,3 +138,4 @@
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-06 e066c7c5 fake08_libretro.so.zip
+2022-11-14 64ee4d72 cap32_libretro.so.zip
