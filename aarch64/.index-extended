@@ -55,7 +55,6 @@
 2021-09-09 8b82ce10 mess_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-16 0bba9d13 quicknes_libretro.so.zip
 2021-10-23 ebb3856f mednafen_pcfx_libretro.so.zip
 2021-11-18 8e3ce459 easyrpg_libretro.so.zip
@@ -107,7 +106,6 @@
 2022-07-06 3074df8f vice_xplus4_libretro.so.zip
 2022-07-06 81c67722 vice_xscpu64_libretro.so.zip
 2022-07-06 d367f39b vice_xvic_libretro.so.zip
-2022-07-07 a6e8dfa7 mupen64plus_next_libretro.so.zip
 2022-08-17 39e3e477 genesis_plus_gx_wide_libretro.so.zip
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
 2022-08-26 62625656 fceumm_libretro.so.zip
@@ -138,3 +136,5 @@
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-14 64ee4d72 cap32_libretro.so.zip
 2022-11-21 c2731a21 fake08_libretro.so.zip
+2022-11-23 8ed8210f mupen64plus_next_libretro.so.zip
+2022-11-23 95900e5f parallel_n64_libretro.so.zip
