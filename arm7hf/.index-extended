@@ -15,7 +15,6 @@
 2022-02-05 e25b24a1 picodrive_libretro.so.zip
 2022-07-06 86150466 gpsp_libretro.so.zip
 2022-07-06 91cd4f57 handy_libretro.so.zip
-2022-07-06 8f61169a mupen64plus_next_libretro.so.zip
 2022-07-06 168211dc uae4arm_libretro.so.zip
 2022-07-06 8409458e vice_x128_libretro.so.zip
 2022-07-06 de0f614f vice_x64_libretro.so.zip
@@ -33,4 +32,5 @@
 2022-11-03 429db1b3 pcsx_rearmed_peops_libretro.so.zip
 2022-11-03 f535962f pcsx_rearmed_rumble_libretro.so.zip
 2022-11-03 c30c74a4 pcsx_rearmed_rumble_peops_libretro.so.zip
-2022-11-19 5c8da795 parallel_n64_libretro.so.zip
+2022-11-23 38abcd3e mupen64plus_next_libretro.so.zip
+2022-11-23 5c8da795 parallel_n64_libretro.so.zip
