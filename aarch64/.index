@@ -89,7 +89,6 @@ arduous_libretro.so.zip
 fmsx_libretro.so.zip
 pokemini_libretro.so.zip
 gambatte_libretro.so.zip
-fbneo_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 atari800_libretro.so.zip
@@ -138,3 +137,4 @@ fake08_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 yabause_libretro.so.zip
+fbneo_libretro.so.zip

@@ -90,7 +90,6 @@
 2022-05-13 edbdbeba fmsx_libretro.so.zip
 2022-06-03 45d90427 pokemini_libretro.so.zip
 2022-06-13 b1ed2699 gambatte_libretro.so.zip
-2022-06-19 0d40702a fbneo_libretro.so.zip
 2022-06-25 fbef6dfa flycast_libretro.so.zip
 2022-06-25 ecb064b0 flycast_rumble_libretro.so.zip
 2022-07-06 e65dcf95 atari800_libretro.so.zip
@@ -139,3 +138,4 @@
 2022-11-23 8ed8210f mupen64plus_next_libretro.so.zip
 2022-11-23 95900e5f parallel_n64_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
+2022-11-26 efb2c520 fbneo_libretro.so.zip
