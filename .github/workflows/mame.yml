@@ -26,7 +26,7 @@ jobs:
           run: |
       
             apt -y update
-            apt -y install build-essential git libarchive-zip-perl rsync zip
+            apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf 
             git clone https://github.com/libretro/mame.git
             cd mame/
             make -f Makefile.libretro clean
