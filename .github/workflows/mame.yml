@@ -1,9 +1,7 @@
-# This is a basic workflow that is manually triggered to update the mame libretro core
+# This is a basic workflow that is manually triggered to update the mame libretro core for aarch64
 
 name: Libretro Mame core update
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.  We do this in order to make sure to get update notes.
 on:
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -16,6 +14,9 @@ jobs:
     steps:
     # Time to pull the proper branch of the watchnixtoons2 repo to start the plugin update
       - uses: actions/checkout@v3
+      with:
+        ref: ${{ github.ref_name }}
+        fetch-depth: 1
       - uses: uraimo/run-on-arch-action@v2
       with:
         arch: aarch64
@@ -44,12 +45,16 @@ jobs:
         # git commit -m "Add plugin.video.watchnixtoons2${branch}-${new_version}.zip to repo"
         
         cd ..
-        git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
-        cd retroarch-cores/aarch64
-        cp ../../cores64/mame_libretro.so .
+        #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+        #cd aarch64
+        cp ../cores64/mame_libretro.so .
         ../addcore mame_libretro.so
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add mame_libretro.so.zip
         git commit -m "Updated mame_libretro.so core to commit $(cat ../../cores64/mame_libretro.so.commit)"
+        rm -rf cores64
+        rm -rf mame
         git add .
         git commit -m "Update index and index-extended for recent core updates"
         
