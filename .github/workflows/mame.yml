@@ -5,7 +5,12 @@ name: Libretro Mame core update
 on:
   workflow_dispatch:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-
+    inputs:
+      change_note1:
+        description: 'Change #1'
+#       default: ''
+        required: true
+        
 jobs:
   # This workflow contains a single job.
   build:
