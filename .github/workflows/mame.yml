@@ -25,8 +25,8 @@ jobs:
           distro: ubuntu20.04
           run: |
       
-            sudo apt -y update
-            sudo apt -y install build-essential git libarchive-zip-perl rsync zip
+            apt -y update
+            apt -y install build-essential git libarchive-zip-perl rsync zip
             git clone https://github.com/libretro/mame.git
             cd mame/
             make -f Makefile.libretro clean
