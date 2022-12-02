@@ -5,6 +5,11 @@ name: Libretro Mame core update
 on:
   workflow_dispatch:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    inputs:
+      change_note1:
+        description: 'Change #1'
+#       default: ''
+        required: false
 jobs:
   # This workflow contains a single job.
   build:
@@ -57,5 +62,8 @@ jobs:
         rm -rf mame
         git add .
         git commit -m "Update index and index-extended for recent core updates"
-        
-        
+    - name: Push new mame libretro core build to repo
+      uses: ad-m/github-push-action@master
+      with:
+        branch: ${{ github.ref_name }}
+
