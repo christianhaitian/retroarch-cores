@@ -9,7 +9,7 @@ on:
       change_note1:
         description: 'Change #1'
 #       default: ''
-        required: false
+        required: true
 jobs:
   # This workflow contains a single job.
   build:
