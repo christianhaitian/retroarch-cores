@@ -10,6 +10,7 @@ on:
         description: 'Change #1'
 #       default: ''
         required: true
+
 jobs:
   # This workflow contains a single job.
   build:
@@ -18,6 +19,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Time to pull the proper branch of the watchnixtoons2 repo to start the plugin update
+      - name: checkout retroarch_cores repo
       - uses: actions/checkout@v3
       with:
         ref: ${{ github.ref_name }}
@@ -30,6 +32,7 @@ jobs:
       id: build_mame
       shell: bash {0}
       run: |
+      
         sudo apt -y update
         sudo apt -y install build-essential git libarchive-zip-perl rsync zip
         git clone https://github.com/libretro/mame.git
@@ -62,6 +65,7 @@ jobs:
         rm -rf mame
         git add .
         git commit -m "Update index and index-extended for recent core updates"
+        
     - name: Push new mame libretro core build to repo
       uses: ad-m/github-push-action@master
       with:
