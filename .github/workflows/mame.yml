@@ -4,6 +4,12 @@ name: Libretro Mame core update
 
 on:
   workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    inputs:
+      change_note1:
+        description: 'Change #1'
+#       default: ''
+        required: true
 
 jobs:
   # This workflow contains a single job.
@@ -23,43 +29,40 @@ jobs:
         with:
           arch: aarch64
           distro: ubuntu20.04
-      - name: Build newest mame libretro core
-        id: build_mame
-        shell: bash {0}
-        run: |
+          run: |
       
-          sudo apt -y update
-          sudo apt -y install build-essential git libarchive-zip-perl rsync zip
-          git clone https://github.com/libretro/mame.git
-          cd mame/
-          make -f Makefile.libretro clean
-          make SUBTARGET=arcade -f Makefile.libretro
-          strip mamearcade_libretro.so
-          mkdir -v ../cores64
-          cp mamearcade_libretro.so ../cores64/mame_libretro.so
+            sudo apt -y update
+            sudo apt -y install build-essential git libarchive-zip-perl rsync zip
+            git clone https://github.com/libretro/mame.git
+            cd mame/
+            make -f Makefile.libretro clean
+            make SUBTARGET=arcade -f Makefile.libretro
+            strip mamearcade_libretro.so
+            mkdir -v ../cores64
+            cp mamearcade_libretro.so ../cores64/mame_libretro.so
         
-          gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
-          echo $gitcommit > ../cores64/mame_libretro.so.commit
+            gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+            echo $gitcommit > ../cores64/mame_libretro.so.commit
         
-          # Setup and commit plugin and updated addon.xml
-          # git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # git config --local user.name "github-actions[bot]"
-          # git add plugin.video.watchnixtoons2${branch}-${new_version}.zip addon.xml
-          # git commit -m "Add plugin.video.watchnixtoons2${branch}-${new_version}.zip to repo"
+            # Setup and commit plugin and updated addon.xml
+            # git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # git config --local user.name "github-actions[bot]"
+            # git add plugin.video.watchnixtoons2${branch}-${new_version}.zip addon.xml
+            # git commit -m "Add plugin.video.watchnixtoons2${branch}-${new_version}.zip to repo"
         
-          cd ..
-          #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
-          #cd aarch64
-          cp ../cores64/mame_libretro.so .
-          ../addcore mame_libretro.so
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add mame_libretro.so.zip
-          git commit -m "Updated mame_libretro.so core to commit $(cat ../../cores64/mame_libretro.so.commit)"
-          rm -rf cores64
-          rm -rf mame
-          git add .
-          git commit -m "Update index and index-extended for recent core updates"
+            cd ..
+            #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            #cd aarch64
+            cp ../cores64/mame_libretro.so .
+            ../addcore mame_libretro.so
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add mame_libretro.so.zip
+            git commit -m "Updated mame_libretro.so core to commit $(cat ../../cores64/mame_libretro.so.commit)"
+            rm -rf cores64
+            rm -rf mame
+            git add .
+            git commit -m "Update index and index-extended for recent core updates"
         
       - name: Push new mame libretro core build to repo
         uses: ad-m/github-push-action@master
