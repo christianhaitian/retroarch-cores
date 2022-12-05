@@ -2,7 +2,6 @@
 2020-03-08 bcd03d1c fbalpha2016_libretro.so.zip
 2020-03-08 428f2c79 fbalpha2018_libretro.so.zip
 2020-03-08 904848d7 flycast_xtreme_libretro.so.zip
-2020-03-08 4c6fa0f7 freeintv_libretro.so.zip
 2020-03-08 db276b09 mame2003_xtreme_libretro.so.zip
 2020-03-08 d16bed6f mednafen_wswan_libretro.so.zip
 2020-03-08 5c9be37c ppsspp_xtreme_libretro.so.zip
@@ -35,3 +34,4 @@
 2022-11-23 38abcd3e mupen64plus_next_libretro.so.zip
 2022-11-23 5c8da795 parallel_n64_libretro.so.zip
 2022-11-25 32f45059 yabause_libretro.so.zip
+2022-12-05 9ba33f74 freeintv_libretro.so.zip
