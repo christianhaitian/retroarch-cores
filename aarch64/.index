@@ -73,7 +73,6 @@ mame2010_libretro.so.zip
 mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 fly_flycast_libretro.so.zip
-mame_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 virtualjaguar_libretro.so.zip
 arduous_libretro.so.zip
@@ -139,3 +138,4 @@ snes9x_libretro.so.zip
 tgbdual_libretro.so.zip
 uae4arm_libretro.so.zip
 uzem_libretro.so.zip
+mame_libretro.so.zip

@@ -74,7 +74,6 @@
 2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
 2022-04-16 d2af92d4 fly_flycast_libretro.so.zip
-2022-04-16 e96c41df mame_libretro.so.zip
 2022-04-17 4692fde6 mednafen_supafaust_libretro.so.zip
 2022-04-18 0fa36685 virtualjaguar_libretro.so.zip
 2022-05-01 87121182 arduous_libretro.so.zip
@@ -140,3 +139,4 @@
 2022-12-03 559d39d5 tgbdual_libretro.so.zip
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
+2022-12-08 2450bc7b mame_libretro.so.zip
