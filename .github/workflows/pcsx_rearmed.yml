@@ -1,0 +1,168 @@
+# This is a basic workflow that is manually triggered to update the pcsx_rearmed libretro core for aarch64
+
+name: Libretro pcsx_rearmed core update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job.
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-20.04
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+   # Time to pull the proper branch of the retroarch-cores repo to start the build process
+      - name: checkout retroarch_cores repo
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+      - name: define architect
+        uses: uraimo/run-on-arch-action@v2
+        with:
+          arch: aarch64
+          distro: ubuntu20.04
+          run: |
+
+            apt -y update
+            apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf 
+            bitness="$(getconf LONG_BIT)"
+            git clone --recursive https://github.com/libretro/pcsx_rearmed.git
+            cp patches/pcsx_rearmed-patch* pcsx_rearmed/.
+            cd pcsx_rearmed/
+            pcsx_rearmed_patches=$(find *.patch)
+            if [[ ! -z "$pcsx_rearmed_patches" ]]; then
+               for patching in pcsx_rearmed-patch*
+               do
+                      if [[ $patching == *"rumble"* ]]; then
+                        echo " "
+                        echo "Skipping the $patching for now and making a note to apply that later"
+                        sleep 3
+                        pcsx_rearmed_rumblepatch="yes"
+                      else  
+                        patch -Np1 < "$patching"
+                        if [[ $? != "0" ]]; then
+                             echo " "
+                             echo "There was an error while applying $patching.  Stopping here."
+                             exit 1
+                        fi
+                        rm "$patching" 
+                      fi
+               done
+            fi
+            make -f Makefile.libretro clean
+            if [[ "$bitness" == "64" ]]; then
+               make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
+            else
+               make -f Makefile.libretro platform=RK3566 -j$(nproc)
+            fi
+
+            if [[ $? != "0" ]]; then
+               echo " "
+               echo "There was an error while building the newest lr-pcsx_rearmed core.  Stopping here."
+               exit 1
+            fi
+
+            strip pcsx_rearmed_libretro.so
+
+            if [ ! -d "../cores$bitness/" ]; then
+               mkdir -v ../cores$bitness
+            fi
+
+            mv pcsx_rearmed_libretro.so ../cores$bitness/.
+            gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+            echo $gitcommit > ../cores$bitness/pcsx_rearmed_libretro.so.commit
+
+            if [[ "$bitness" == "32" ]]; then
+               make -f Makefile.libretro clean
+               make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
+              if [[ $? != "0" ]]; then
+                  echo " "
+                  echo "There was an error while building the newest lr-pcsx_rearmed_peops core.  Stopping here."
+                  exit 1
+              fi
+              mv pcsx_rearmed_libretro.so ../cores$bitness/pcsx_rearmed_peops_libretro.so
+              gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+              echo $gitcommit > ../cores$bitness/pcsx_rearmed_peops_libretro.so.commit
+            fi
+
+            if [[ $pcsx_rearmed_rumblepatch == "yes" ]]; then
+               for patching in pcsx_rearmed-patch*
+               do
+                 patch -Np1 < "$patching"
+                 if [[ $? != "0" ]]; then
+                    echo " "
+                    echo "There was an error while patching in the rumble feature from $patching.  Stopping here."
+                    exit 1
+                 fi
+                 rm "$patching"
+
+                 make -f Makefile.libretro clean
+                 if [[ "$bitness" == "64" ]]; then
+                    make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
+                 else
+                    make -f Makefile.libretro platform=RK3566 -j$(nproc)
+                 fi
+
+                 if [[ $? != "0" ]]; then
+                    echo " "
+                    echo "There was an error while building the newest lr-pcsx_rearmed core with the patched in rumble feature.  Stopping here."
+                    exit 1
+                 fi
+
+                 strip pcsx_rearmed_libretro.so
+                 mv pcsx_rearmed_libretro.so pcsx_rearmed_rumble_libretro.so
+                 cp pcsx_rearmed_rumble_libretro.so ../cores$bitness/.
+                 echo " "
+                 echo "pcsx_rearmed_libretro.so and pcsx_rearmed_rumble_libretro.so have been created and have been placed in the rk3566_core_builds/cores32 subfolder"
+                 gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+                 echo $gitcommit > ../cores$bitness/pcsx_rearmed_rumble_libretro.so.commit
+               done
+            fi
+
+            make -f Makefile.libretro clean
+            if [[ "$bitness" == "32" ]]; then
+               make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
+               if [[ $? != "0" ]]; then
+                  echo " "
+                  echo "There was an error while building the newest lr-pcsx_rearmed_rumble_peops core.  Stopping here."
+                  exit 1
+               fi
+               mv pcsx_rearmed_libretro.so ../cores$bitness/pcsx_rearmed_rumble_peops_libretro.so
+               gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+               echo $gitcommit > ../cores$bitness/pcsx_rearmed_rumble_peops_libretro.so.commit
+
+               echo " "
+               echo "pcsx_rearmed_libretro.so has been created and has been placed in the rk3566_core_builds/cores32 subfolder"
+            fi
+
+            gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+            echo $gitcommit > ../cores$bitness/$(basename $PWD)_rumble_peops_libretro.so.commit
+        
+            # Setup and commit plugin and updated addon.xml
+            # git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # git config --local user.name "github-actions[bot]"
+            # git add plugin.video.watchnixtoons2${branch}-${new_version}.zip addon.xml
+            # git commit -m "Add plugin.video.watchnixtoons2${branch}-${new_version}.zip to repo"
+        
+            cd ..
+            #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            #cd aarch64
+            cp ../cores$bitness/pcsx_rearmed_libretro.so .
+            cp ../cores$bitness/pcsx_rearmed_rumble_libretro.so .
+            ../addcore pcsx_rearmed_libretro.so
+            ../addcore pcsx_rearmed_rumble_libretro.so
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add pcsx_rearmed_libretro.so.zip pcsx_rearmed_rumble_libretro.so.zip
+            git commit -m "Updated pcsx_libretro ${bitness}bit core to commit $(cat ../../cores$bitness/pcsx_rearmed_libretro.so.commit)"
+            rm -rf cores$bitness
+            rm -rf pcsx_rearmed
+            git add .
+            git commit -m "Update index and index-extended for recent core updates"
+        
+      - name: Push new pcsx_rearmed libretro cores build to repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref_name }}
