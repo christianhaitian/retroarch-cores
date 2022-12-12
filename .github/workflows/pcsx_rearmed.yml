@@ -29,7 +29,6 @@ jobs:
             apt -y update
             apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf 
             bitness="$(getconf LONG_BIT)"
-            git clone 
             git clone --recursive https://github.com/libretro/pcsx_rearmed.git
             cp patches/pcsx_rearmed-patch* pcsx_rearmed/.
             cd pcsx_rearmed/
