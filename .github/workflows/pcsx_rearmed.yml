@@ -16,6 +16,11 @@ jobs:
       - name: checkout retroarch_cores repo
         uses: actions/checkout@v3
         with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - name: checkout rk3566_core_builds
+        uses: actions/checkout@v3
+        with:
           repository: christianhaitian/rk3566_core_builds
           ref: master
           fetch-depth: 0
