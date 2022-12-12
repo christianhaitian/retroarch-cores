@@ -18,12 +18,12 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
           fetch-depth: 0
-      - name: checkout rk3566_core_builds
-        uses: actions/checkout@v3
-        with:
-          repository: christianhaitian/rk3566_core_builds
-          ref: master
-          fetch-depth: 0
+      #- name: checkout rk3566_core_builds
+        #uses: actions/checkout@v3
+        #with:
+          #repository: christianhaitian/rk3566_core_builds
+          #ref: master
+          #fetch-depth: 0
       - name: define architect
         uses: uraimo/run-on-arch-action@v2
         with:
@@ -34,6 +34,13 @@ jobs:
             apt -y update
             apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf 
             bitness="$(getconf LONG_BIT)"
+            if [[ ${GITHUB_REF##*/} == "master" ]]; then
+               whichgit="rk3326_core_builds"
+            else
+               whichgit="rk3566_core_builds"
+            fi
+            git clone --recursive https://github.com/christianhaitian/${whichgit}.git
+            cd ${whichgit}
             git clone --recursive https://github.com/libretro/pcsx_rearmed.git
             cp patches/pcsx_rearmed-patch* pcsx_rearmed/.
             cd pcsx_rearmed/
@@ -121,7 +128,7 @@ jobs:
                  mv pcsx_rearmed_libretro.so pcsx_rearmed_rumble_libretro.so
                  cp pcsx_rearmed_rumble_libretro.so ../cores$bitness/.
                  echo " "
-                 echo "pcsx_rearmed_libretro.so and pcsx_rearmed_rumble_libretro.so have been created and have been placed in the rk3566_core_builds/cores32 subfolder"
+                 echo "pcsx_rearmed_libretro.so and pcsx_rearmed_rumble_libretro.so have been created and have been placed in the ${whichgit}/cores32 subfolder"
                  gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
                  echo $gitcommit > ../cores$bitness/pcsx_rearmed_rumble_libretro.so.commit
                done
@@ -140,7 +147,7 @@ jobs:
                echo $gitcommit > ../cores$bitness/pcsx_rearmed_rumble_peops_libretro.so.commit
 
                echo " "
-               echo "pcsx_rearmed_libretro.so has been created and has been placed in the rk3566_core_builds/cores32 subfolder"
+               echo "pcsx_rearmed_libretro.so has been created and has been placed in the ${whichgit}/cores32 subfolder"
             fi
 
             gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
@@ -157,8 +164,8 @@ jobs:
             #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
             #cd retroarch-cores/aarch64
             cd aarch64
-            cp ../rk3566_core_builds/cores$bitness/pcsx_rearmed_libretro.so .
-            cp ../rk3566_core_builds/cores$bitness/pcsx_rearmed_rumble_libretro.so .
+            cp ../${whichgit}/cores$bitness/pcsx_rearmed_libretro.so .
+            cp ../${whichgit}/cores$bitness/pcsx_rearmed_rumble_libretro.so .
             ../addcore pcsx_rearmed_libretro.so
             ../addcore pcsx_rearmed_rumble_libretro.so
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
