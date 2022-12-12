@@ -149,7 +149,7 @@ jobs:
         
             cd ..
             git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
-            cd ${{ github.ref_name }}/aarch64
+            cd retroarch-cores/aarch64
             cp ../../cores$bitness/pcsx_rearmed_libretro.so .
             cp ../../cores$bitness/pcsx_rearmed_rumble_libretro.so .
             ../addcore pcsx_rearmed_libretro.so
