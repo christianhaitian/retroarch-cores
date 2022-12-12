@@ -168,6 +168,7 @@ jobs:
             cp ../${whichgit}/cores$bitness/pcsx_rearmed_rumble_libretro.so .
             ../addcore pcsx_rearmed_libretro.so
             ../addcore pcsx_rearmed_rumble_libretro.so
+            cd ..
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git add pcsx_rearmed_libretro.so.zip pcsx_rearmed_rumble_libretro.so.zip
