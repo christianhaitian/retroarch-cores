@@ -13,19 +13,18 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
    # Time to pull the proper branch of the retroarch-cores repo to start the build process
-      - name: checkout retroarch_cores repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.ref_name }}
-          fetch-depth: 0
+          fetch-depth: 1
       #- name: checkout rk3566_core_builds
         #uses: actions/checkout@v3
         #with:
           #repository: christianhaitian/rk3566_core_builds
           #ref: master
           #fetch-depth: 0
-      - name: define architect
-        uses: uraimo/run-on-arch-action@v2
+      - uses: uraimo/run-on-arch-action@v2
+        name: checkout retroarch_cores repo
         with:
           arch: aarch64
           distro: ubuntu20.04
