@@ -13,10 +13,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
    # Time to pull the proper branch of the retroarch-cores repo to start the build process
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.ref_name }}
-          fetch-depth: 1
+      #- uses: actions/checkout@v3
+        #with:
+          #ref: ${{ github.ref_name }}
+          #fetch-depth: 1
       #- name: checkout rk3566_core_builds
         #uses: actions/checkout@v3
         #with:
@@ -127,7 +127,7 @@ jobs:
                  mv pcsx_rearmed_libretro.so pcsx_rearmed_rumble_libretro.so
                  cp pcsx_rearmed_rumble_libretro.so ../cores$bitness/.
                  echo " "
-                 echo "pcsx_rearmed_libretro.so and pcsx_rearmed_rumble_libretro.so have been created and have been placed in the ${whichgit}/cores32 subfolder"
+                 echo "pcsx_rearmed_libretro.so and pcsx_rearmed_rumble_libretro.so have been created and have been placed in the ${whichgit}/cores$bitness subfolder"
                  gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
                  echo $gitcommit > ../cores$bitness/pcsx_rearmed_rumble_libretro.so.commit
                done
@@ -160,25 +160,26 @@ jobs:
         
             cd ..
             cd ..
-            #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
-            #cd retroarch-cores/aarch64
-            cd aarch64
-            cp ../${whichgit}/cores$bitness/pcsx_rearmed_libretro.so .
-            cp ../${whichgit}/cores$bitness/pcsx_rearmed_rumble_libretro.so .
+            git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            cd retroarch-cores/aarch64
+            #cd aarch64
+            cp ../../${whichgit}/cores$bitness/pcsx_rearmed_libretro.so .
+            cp ../../${whichgit}/cores$bitness/pcsx_rearmed_rumble_libretro.so .
             ../addcore pcsx_rearmed_libretro.so
             ../addcore pcsx_rearmed_rumble_libretro.so
             cd ..
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git config user.name "github-actions[bot]"
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
             git add pcsx_rearmed_libretro.so.zip pcsx_rearmed_rumble_libretro.so.zip
-            git commit -m "Updated pcsx_libretro ${bitness}bit core to commit $(cat ../cores$bitness/pcsx_rearmed_libretro.so.commit)"
-            rm -rf retroarch-cores
+            git commit -m "Updated pcsx_libretro ${bitness}bit core to commit $(cat ../../${whichgit}/cores$bitness/pcsx_rearmed_libretro.so.commit)"
+            #rm -rf retroarch-cores
             #rm -rf ../cores$bitness
             #rm -rf ../pcsx_rearmed
             git add .
             git commit -m "Update index and index-extended for recent core updates"
+            git push
         
-      - name: Push new pcsx_rearmed libretro cores build to repo
-        uses: ad-m/github-push-action@master
-        with:
-          branch: ${{ github.ref_name }}
+      #- name: Push new pcsx_rearmed libretro cores build to repo
+        #uses: ad-m/github-push-action@master
+        #with:
+          #branch: ${{ github.ref_name }}
