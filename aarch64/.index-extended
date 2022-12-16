@@ -105,7 +105,6 @@
 2022-10-22 dc1b4878 dosbox_pure_libretro.so.zip
 2022-11-03 a51d5665 pcsx_rearmed_libretro.so.zip
 2022-11-03 d255ffb7 pcsx_rearmed_rumble_libretro.so.zip
-2022-11-03 764a391b ppsspp_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 a4926639 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
@@ -139,3 +138,4 @@
 2022-12-03 65156fbb uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-08 2450bc7b mame_libretro.so.zip
+2022-12-16 46881214 ppsspp_libretro.so.zip
