@@ -69,7 +69,6 @@
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
 2022-01-03 efb1675a handy_libretro.so.zip
 2022-03-05 66b381b0 prboom_libretro.so.zip
-2022-03-26 fb064965 ppsspp_libretro.so.zip
 2022-03-27 f0a635ba mame2010_libretro.so.zip
 2022-03-27 73df08ed mednafen_lynx_libretro.so.zip
 2022-03-27 201705ca mednafen_ngp_libretro.so.zip
@@ -140,3 +139,4 @@
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-08 2450bc7b mame_libretro.so.zip
+2022-12-17 e870ab98 ppsspp_libretro.so.zip
