@@ -13,7 +13,6 @@ o2em_libretro.so.zip
 vba_next_libretro.so.zip
 spring_ppsspp_standalone_libretro.so.zip
 fbalpha2012_cps3_libretro.so.zip
-np2kai_libretro.so.zip
 snes9x2005_plus_libretro.so.zip
 mu_libretro.so.zip
 spring_pcsx_rearmed32_libretro.so.zip
@@ -138,3 +137,4 @@ mednafen_supafaust_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 melonds_libretro.so.zip
 mess_libretro.so.zip
+np2kai_libretro.so.zip
