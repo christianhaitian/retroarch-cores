@@ -114,7 +114,6 @@
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-08 2450bc7b mame_libretro.so.zip
-2022-12-17 e870ab98 ppsspp_libretro.so.zip
 2022-12-20 fb9c0d52 arduous_libretro.so.zip
 2022-12-20 18fe8c0a bluemsx_libretro.so.zip
 2022-12-20 44d132a5 flycast_libretro.so.zip
@@ -139,3 +138,4 @@
 2023-01-03 323c6744 mednafen_supergrafx_libretro.so.zip
 2023-01-03 f353ad40 melonds_libretro.so.zip
 2023-01-03 6e0cfec3 mess_libretro.so.zip
+2023-01-07 6c75a5bd ppsspp_libretro.so.zip
