@@ -75,8 +75,6 @@
 2022-09-17 eaec4282 race_libretro.so.zip
 2022-09-25 57c723be vecx_libretro.so.zip
 2022-10-02 c7905145 sameduck_libretro.so.zip
-2022-10-07 d91f7e49 mgba_libretro.so.zip
-2022-10-07 76b21ea2 mgba_rumble_libretro.so.zip
 2022-10-22 dc1b4878 dosbox_pure_libretro.so.zip
 2022-11-03 a51d5665 pcsx_rearmed_libretro.so.zip
 2022-11-03 d255ffb7 pcsx_rearmed_rumble_libretro.so.zip
@@ -139,3 +137,5 @@
 2023-01-02 6e0cfec3 mess_libretro.so.zip
 2023-01-03 55ed7ea1 np2kai_libretro.so.zip
 2023-01-07 bb978956 ppsspp_libretro.so.zip
+2023-01-09 0176abb2 mgba_libretro.so.zip
+2023-01-09 a3b2655b mgba_rumble_libretro.so.zip
