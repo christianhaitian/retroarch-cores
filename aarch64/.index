@@ -60,8 +60,6 @@ sameboy_libretro.so.zip
 desmume2015_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 prboom_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 crocods_libretro.so.zip
 fceumm_libretro.so.zip
@@ -138,3 +136,5 @@ mednafen_supergrafx_libretro.so.zip
 melonds_libretro.so.zip
 mess_libretro.so.zip
 ppsspp_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
