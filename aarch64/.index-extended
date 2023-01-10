@@ -97,7 +97,6 @@
 2022-12-03 765f5c2e mame2003_libretro.so.zip
 2022-12-03 bbee6402 mame2003_plus_libretro.so.zip
 2022-12-03 0524a238 mednafen_pce_fast_libretro.so.zip
-2022-12-03 1652f465 mednafen_pcfx_libretro.so.zip
 2022-12-03 91c949e5 neocd_libretro.so.zip
 2022-12-03 cee57c5f opera_libretro.so.zip
 2022-12-03 404f4bde picodrive_libretro.so.zip
@@ -139,3 +138,4 @@
 2023-01-07 bb978956 ppsspp_libretro.so.zip
 2023-01-09 bf10ba55 mgba_libretro.so.zip
 2023-01-09 d0369ec2 mgba_rumble_libretro.so.zip
+2023-01-10 a347d32a mednafen_pcfx_libretro.so.zip
