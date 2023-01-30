@@ -136,6 +136,6 @@
 2023-01-03 f353ad40 melonds_libretro.so.zip
 2023-01-03 6e0cfec3 mess_libretro.so.zip
 2023-01-07 6c75a5bd ppsspp_libretro.so.zip
-2023-01-09 7be2d7b3 mgba_libretro.so.zip
-2023-01-09 00210a87 mgba_rumble_libretro.so.zip
 2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
+2023-01-30 ed0094ed mgba_libretro.so.zip
+2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
