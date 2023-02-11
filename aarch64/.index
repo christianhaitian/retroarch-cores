@@ -78,8 +78,6 @@ mednafen_vb_libretro.so.zip
 race_libretro.so.zip
 vecx_libretro.so.zip
 dosbox_pure_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 hatari_libretro.so.zip
 stella_libretro.so.zip
@@ -138,3 +136,5 @@ ppsspp_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
