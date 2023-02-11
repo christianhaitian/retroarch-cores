@@ -76,8 +76,6 @@
 2022-09-25 57c723be vecx_libretro.so.zip
 2022-10-02 c7905145 sameduck_libretro.so.zip
 2022-10-22 dc1b4878 dosbox_pure_libretro.so.zip
-2022-11-03 a51d5665 pcsx_rearmed_libretro.so.zip
-2022-11-03 d255ffb7 pcsx_rearmed_rumble_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 a4926639 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
@@ -139,3 +137,5 @@
 2023-01-10 a347d32a mednafen_pcfx_libretro.so.zip
 2023-01-30 312acc21 mgba_libretro.so.zip
 2023-01-30 146c1fde mgba_rumble_libretro.so.zip
+2023-02-11 e4c2eacc pcsx_rearmed_libretro.so.zip
+2023-02-11 e7a0d5de pcsx_rearmed_rumble_libretro.so.zip
