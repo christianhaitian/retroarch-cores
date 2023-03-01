@@ -58,10 +58,8 @@ prboom_libretro.so.zip
 sameboy_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 crocods_libretro.so.zip
-fceumm_libretro.so.zip
 fuse_libretro.so.zip
 gw_libretro.so.zip
-nestopia_libretro.so.zip
 scummvm_libretro.so.zip
 tic80_libretro.so.zip
 mame2000_libretro.so.zip
@@ -138,3 +136,5 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+fceumm_libretro.so.zip
+nestopia_libretro.so.zip

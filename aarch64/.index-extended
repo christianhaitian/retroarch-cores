@@ -59,10 +59,8 @@
 2022-07-06 f671086a sameboy_libretro.so.zip
 2022-08-17 39e3e477 genesis_plus_gx_wide_libretro.so.zip
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
-2022-08-26 62625656 fceumm_libretro.so.zip
 2022-08-26 86bbbf6a fuse_libretro.so.zip
 2022-08-26 c63140a2 gw_libretro.so.zip
-2022-08-26 d538d1a1 nestopia_libretro.so.zip
 2022-08-26 4dfccbb6 scummvm_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
 2022-08-26 9ed9cf8f mame2000_libretro.so.zip
@@ -139,3 +137,5 @@
 2023-01-30 146c1fde mgba_rumble_libretro.so.zip
 2023-02-11 e4c2eacc pcsx_rearmed_libretro.so.zip
 2023-02-11 e7a0d5de pcsx_rearmed_rumble_libretro.so.zip
+2023-03-01 710e52c0 fceumm_libretro.so.zip
+2023-03-01 11baa872 nestopia_libretro.so.zip
