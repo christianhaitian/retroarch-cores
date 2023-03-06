@@ -61,7 +61,6 @@
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
 2022-08-26 86bbbf6a fuse_libretro.so.zip
 2022-08-26 c63140a2 gw_libretro.so.zip
-2022-08-26 4dfccbb6 scummvm_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
 2022-08-26 9ed9cf8f mame2000_libretro.so.zip
 2022-09-04 e86efddd yabasanshiro_libretro.so.zip
@@ -139,3 +138,5 @@
 2023-02-11 e7a0d5de pcsx_rearmed_rumble_libretro.so.zip
 2023-03-01 710e52c0 fceumm_libretro.so.zip
 2023-03-01 11baa872 nestopia_libretro.so.zip
+2023-03-06 744d7c8b fly_flycast_libretro.so.zip
+2023-03-06 e3bc8ff8 scummvm_libretro.so.zip
