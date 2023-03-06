@@ -67,7 +67,6 @@ fuse_libretro.so.zip
 gw_libretro.so.zip
 mame2000_libretro.so.zip
 nestopia_libretro.so.zip
-scummvm_libretro.so.zip
 tic80_libretro.so.zip
 yabasanshiro_libretro.so.zip
 mesen_libretro.so.zip
@@ -138,3 +137,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+scummvm_libretro.so.zip

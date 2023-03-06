@@ -68,7 +68,6 @@
 2022-08-27 c63140a2 gw_libretro.so.zip
 2022-08-27 2942a33e mame2000_libretro.so.zip
 2022-08-27 d538d1a1 nestopia_libretro.so.zip
-2022-08-27 28d1c8e4 scummvm_libretro.so.zip
 2022-08-27 6ee104c4 tic80_libretro.so.zip
 2022-09-04 faf555d4 yabasanshiro_libretro.so.zip
 2022-09-16 40d7a538 mesen_libretro.so.zip
@@ -139,3 +138,4 @@
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
 2023-02-11 c151ccbe pcsx_rearmed_libretro.so.zip
 2023-02-11 6dbea5d6 pcsx_rearmed_rumble_libretro.so.zip
+2023-03-06 458a6f8c scummvm_libretro.so.zip
