@@ -79,7 +79,6 @@
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-14 64ee4d72 cap32_libretro.so.zip
 2022-11-21 c2731a21 fake08_libretro.so.zip
-2022-11-23 8ed8210f mupen64plus_next_libretro.so.zip
 2022-11-23 95900e5f parallel_n64_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2022-11-26 efb2c520 fbneo_libretro.so.zip
@@ -140,3 +139,4 @@
 2023-03-01 11baa872 nestopia_libretro.so.zip
 2023-03-06 744d7c8b fly_flycast_libretro.so.zip
 2023-03-06 e3bc8ff8 scummvm_libretro.so.zip
+2023-03-14 7836854f mupen64plus_next_libretro.so.zip

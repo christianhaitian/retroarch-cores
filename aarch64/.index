@@ -78,7 +78,6 @@ stella_libretro.so.zip
 stella2014_libretro.so.zip
 cap32_libretro.so.zip
 fake08_libretro.so.zip
-mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 yabause_libretro.so.zip
 fbneo_libretro.so.zip
@@ -139,3 +138,4 @@ fceumm_libretro.so.zip
 nestopia_libretro.so.zip
 fly_flycast_libretro.so.zip
 scummvm_libretro.so.zip
+mupen64plus_next_libretro.so.zip
