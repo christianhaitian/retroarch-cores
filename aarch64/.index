@@ -71,16 +71,13 @@ mednafen_vb_libretro.so.zip
 race_libretro.so.zip
 vecx_libretro.so.zip
 sameduck_libretro.so.zip
-dosbox_pure_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 hatari_libretro.so.zip
 stella_libretro.so.zip
 stella2014_libretro.so.zip
 cap32_libretro.so.zip
-fake08_libretro.so.zip
 parallel_n64_libretro.so.zip
 yabause_libretro.so.zip
-fbneo_libretro.so.zip
 a5200_libretro.so.zip
 fmsx_libretro.so.zip
 freeintv_libretro.so.zip
@@ -92,7 +89,6 @@ mame2003_plus_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
-picodrive_libretro.so.zip
 puae_libretro.so.zip
 px68k_libretro.so.zip
 quicknes_libretro.so.zip
@@ -139,3 +135,7 @@ nestopia_libretro.so.zip
 fly_flycast_libretro.so.zip
 scummvm_libretro.so.zip
 mupen64plus_next_libretro.so.zip
+dosbox_pure_libretro.so.zip
+fake08_libretro.so.zip
+fbneo_libretro.so.zip
+picodrive_libretro.so.zip
