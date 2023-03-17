@@ -77,15 +77,12 @@
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-09-17 eaec4282 race_libretro.so.zip
 2022-09-25 245554c0 vecx_libretro.so.zip
-2022-10-22 423b8481 dosbox_pure_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 ffea4f04 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-14 64ee4d72 cap32_libretro.so.zip
-2022-11-21 c2731a21 fake08_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
-2022-11-26 efb2c520 fbneo_libretro.so.zip
 2022-12-03 acb967ac a5200_libretro.so.zip
 2022-12-03 4f1ca711 fmsx_libretro.so.zip
 2022-12-03 584db782 freeintv_libretro.so.zip
@@ -97,7 +94,6 @@
 2022-12-03 0524a238 mednafen_pce_fast_libretro.so.zip
 2022-12-03 91c949e5 neocd_libretro.so.zip
 2022-12-03 cee57c5f opera_libretro.so.zip
-2022-12-03 404f4bde picodrive_libretro.so.zip
 2022-12-03 afb44b00 puae_libretro.so.zip
 2022-12-03 4ffb87c3 px68k_libretro.so.zip
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
@@ -140,3 +136,7 @@
 2023-02-11 6dbea5d6 pcsx_rearmed_rumble_libretro.so.zip
 2023-03-06 458a6f8c scummvm_libretro.so.zip
 2023-03-16 849f1289 swanstation_libretro.so.zip
+2023-03-17 51a5eeea dosbox_pure_libretro.so.zip
+2023-03-17 9dbaac87 fake08_libretro.so.zip
+2023-03-17 c9bedb0c fbneo_libretro.so.zip
+2023-03-17 bfa13311 picodrive_libretro.so.zip
