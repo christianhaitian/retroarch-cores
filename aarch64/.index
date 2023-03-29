@@ -69,7 +69,6 @@ vemulator_libretro.so.zip
 freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
 race_libretro.so.zip
-vecx_libretro.so.zip
 sameduck_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 hatari_libretro.so.zip
@@ -141,3 +140,4 @@ fbneo_libretro.so.zip
 picodrive_libretro.so.zip
 puae2021_libretro.so.zip
 swanstation_libretro.so.zip
+vecx_libretro.so.zip
