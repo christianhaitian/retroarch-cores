@@ -76,7 +76,6 @@
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-09-17 eaec4282 race_libretro.so.zip
-2022-09-25 245554c0 vecx_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 ffea4f04 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-03-17 bfa13311 picodrive_libretro.so.zip
 2023-03-20 5275b339 puae2021_libretro.so.zip
 2023-03-23 a386afe8 swanstation_libretro.so.zip
+2023-03-29 4cbbe98d vecx_libretro.so.zip
