@@ -4,13 +4,10 @@ bnes_libretro.so.zip
 snes9x2010_libretro.so.zip
 gearsystem_libretro.so.zip
 daphne_libretro.so.zip
-nekop2_libretro.so.zip
 2048_libretro.so.zip
 reminiscence_libretro.so.zip
 fbalpha2012_neogeo_libretro.so.zip
 mrboom_libretro.so.zip
-o2em_libretro.so.zip
-vba_next_libretro.so.zip
 spring_ppsspp_standalone_libretro.so.zip
 fbalpha2012_cps3_libretro.so.zip
 np2kai_libretro.so.zip
@@ -26,13 +23,10 @@ gearboy_libretro.so.zip
 fbalpha2012_cps2_libretro.so.zip
 fbalpha2012_cps1_libretro.so.zip
 spring_drastic_standalone_libretro.so.zip
-vbam_libretro.so.zip
 tyrquake_libretro.so.zip
 nxengine_libretro.so.zip
-x1_libretro.so.zip
 spring_mupen64plus_standalone_libretro.so.zip
 fbalpha2012_libretro.so.zip
-quasi88_libretro.so.zip
 gme_libretro.so.zip
 spring_flycast32_libretro.so.zip
 xrick_libretro.so.zip
@@ -40,7 +34,6 @@ superflappybirds_libretro.so.zip
 chailove_libretro.so.zip
 cannonball_libretro.so.zip
 mpv_libretro.so.zip
-81_libretro.so.zip
 lowresnx_libretro.so.zip
 meteor_libretro.so.zip
 fceunext_libretro.so.zip
@@ -48,7 +41,6 @@ imageviewer_libretro.so.zip
 theodore_libretro.so.zip
 lutro_libretro.so.zip
 mame2015_libretro.so.zip
-potator_libretro.so.zip
 mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
@@ -140,3 +132,11 @@ picodrive_libretro.so.zip
 puae2021_libretro.so.zip
 swanstation_libretro.so.zip
 vecx_libretro.so.zip
+81_libretro.so.zip
+nekop2_libretro.so.zip
+o2em_libretro.so.zip
+potator_libretro.so.zip
+quasi88_libretro.so.zip
+vbam_libretro.so.zip
+vba_next_libretro.so.zip
+x1_libretro.so.zip

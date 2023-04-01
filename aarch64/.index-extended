@@ -5,13 +5,10 @@
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
-2021-01-26 a5f0afb2 nekop2_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
 2021-01-26 dbd73bb0 fbalpha2012_neogeo_libretro.so.zip
 2021-01-26 dc39b456 mrboom_libretro.so.zip
-2021-01-26 6f42df91 vba_next_libretro.so.zip
-2021-01-26 dce9a365 o2em_libretro.so.zip
 2021-01-26 c666ed25 spring_ppsspp_standalone_libretro.so.zip
 2021-01-26 104d29e1 fbalpha2012_cps3_libretro.so.zip
 2021-01-26 2ad39f70 np2kai_libretro.so.zip
@@ -27,13 +24,10 @@
 2021-01-26 37117fb7 fbalpha2012_cps2_libretro.so.zip
 2021-01-26 4da7e62e fbalpha2012_cps1_libretro.so.zip
 2021-01-26 c666ed25 spring_drastic_standalone_libretro.so.zip
-2021-01-26 9fb5bfb8 vbam_libretro.so.zip
 2021-01-26 de898f39 tyrquake_libretro.so.zip
 2021-01-26 4f7b4f1c nxengine_libretro.so.zip
-2021-01-26 f9d36625 x1_libretro.so.zip
 2021-01-26 c666ed25 spring_mupen64plus_standalone_libretro.so.zip
 2021-01-26 55f93842 fbalpha2012_libretro.so.zip
-2021-01-26 6820296f quasi88_libretro.so.zip
 2021-01-26 bca3dd8e gme_libretro.so.zip
 2021-01-26 c666ed25 spring_flycast32_libretro.so.zip
 2021-01-26 192e7b98 xrick_libretro.so.zip
@@ -41,7 +35,6 @@
 2021-01-26 12c46c55 chailove_libretro.so.zip
 2021-01-26 697a9d56 cannonball_libretro.so.zip
 2021-02-09 fd750276 mpv_libretro.so.zip
-2021-02-23 70f32223 81_libretro.so.zip
 2021-02-28 85f737ef lowresnx_libretro.so.zip
 2021-02-28 215d2776 meteor_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
@@ -49,7 +42,6 @@
 2021-02-28 bdcce7b3 theodore_libretro.so.zip
 2021-02-28 9f3bc429 lutro_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
-2021-04-24 2bfc87ee potator_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
@@ -141,3 +133,11 @@
 2023-03-20 5275b339 puae2021_libretro.so.zip
 2023-03-23 a386afe8 swanstation_libretro.so.zip
 2023-03-29 4cbbe98d vecx_libretro.so.zip
+2023-04-01 f498b45f 81_libretro.so.zip
+2023-04-01 00782ee3 nekop2_libretro.so.zip
+2023-04-01 86ba5470 o2em_libretro.so.zip
+2023-04-01 2a32b2b8 potator_libretro.so.zip
+2023-04-01 be6d984a quasi88_libretro.so.zip
+2023-04-01 607bb5e6 vbam_libretro.so.zip
+2023-04-01 b9814681 vba_next_libretro.so.zip
+2023-04-01 6d7c4195 x1_libretro.so.zip
