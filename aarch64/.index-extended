@@ -95,7 +95,6 @@
 2022-12-20 18fe8c0a bluemsx_libretro.so.zip
 2022-12-20 60ec21b3 flycast_libretro.so.zip
 2022-12-20 c41955dc flycast_rumble_libretro.so.zip
-2022-12-20 37797716 pokemini_libretro.so.zip
 2022-12-20 bcabdcc2 vice_x128_libretro.so.zip
 2022-12-20 7d043db4 vice_x64_libretro.so.zip
 2022-12-20 0a453928 vice_x64sc_libretro.so.zip
@@ -142,3 +141,4 @@
 2023-04-02 5e365bce pcsx_rearmed_libretro.so.zip
 2023-04-02 57029405 pcsx_rearmed_rumble_libretro.so.zip
 2023-04-02 21d2ca82 swanstation_libretro.so.zip
+2023-04-02 586700aa pokemini_libretro.so.zip
