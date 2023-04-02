@@ -123,15 +123,12 @@
 2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
 2023-01-30 ed0094ed mgba_libretro.so.zip
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
-2023-02-11 c151ccbe pcsx_rearmed_libretro.so.zip
-2023-02-11 6dbea5d6 pcsx_rearmed_rumble_libretro.so.zip
 2023-03-06 458a6f8c scummvm_libretro.so.zip
 2023-03-17 51a5eeea dosbox_pure_libretro.so.zip
 2023-03-17 9dbaac87 fake08_libretro.so.zip
 2023-03-17 c9bedb0c fbneo_libretro.so.zip
 2023-03-17 bfa13311 picodrive_libretro.so.zip
 2023-03-20 5275b339 puae2021_libretro.so.zip
-2023-03-23 a386afe8 swanstation_libretro.so.zip
 2023-03-29 4cbbe98d vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
@@ -141,3 +138,6 @@
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
+2023-04-02 af3e5394 pcsx_rearmed_libretro.so.zip
+2023-04-02 5380a337 pcsx_rearmed_rumble_libretro.so.zip
+2023-04-02 a2270104 swanstation_libretro.so.zip
