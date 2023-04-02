@@ -119,8 +119,6 @@ ppsspp_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 fceumm_libretro.so.zip
 nestopia_libretro.so.zip
 fly_flycast_libretro.so.zip
@@ -131,7 +129,6 @@ fake08_libretro.so.zip
 fbneo_libretro.so.zip
 picodrive_libretro.so.zip
 puae2021_libretro.so.zip
-swanstation_libretro.so.zip
 vecx_libretro.so.zip
 81_libretro.so.zip
 nekop2_libretro.so.zip
@@ -141,3 +138,6 @@ quasi88_libretro.so.zip
 vbam_libretro.so.zip
 vba_next_libretro.so.zip
 x1_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
+swanstation_libretro.so.zip

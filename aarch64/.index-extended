@@ -120,8 +120,6 @@
 2023-01-10 a347d32a mednafen_pcfx_libretro.so.zip
 2023-01-30 312acc21 mgba_libretro.so.zip
 2023-01-30 146c1fde mgba_rumble_libretro.so.zip
-2023-02-11 e4c2eacc pcsx_rearmed_libretro.so.zip
-2023-02-11 e7a0d5de pcsx_rearmed_rumble_libretro.so.zip
 2023-03-01 710e52c0 fceumm_libretro.so.zip
 2023-03-01 11baa872 nestopia_libretro.so.zip
 2023-03-06 744d7c8b fly_flycast_libretro.so.zip
@@ -132,7 +130,6 @@
 2023-03-16 c9bedb0c fbneo_libretro.so.zip
 2023-03-16 bfa13311 picodrive_libretro.so.zip
 2023-03-21 2d075252 puae2021_libretro.so.zip
-2023-03-23 59b6d167 swanstation_libretro.so.zip
 2023-03-29 e68f4c1a vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
@@ -142,3 +139,6 @@
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
+2023-04-02 5e365bce pcsx_rearmed_libretro.so.zip
+2023-04-02 57029405 pcsx_rearmed_rumble_libretro.so.zip
+2023-04-02 21d2ca82 swanstation_libretro.so.zip
