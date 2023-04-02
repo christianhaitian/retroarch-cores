@@ -98,7 +98,6 @@ arduous_libretro.so.zip
 bluemsx_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
-pokemini_libretro.so.zip
 vice_x128_libretro.so.zip
 vice_x64_libretro.so.zip
 vice_x64sc_libretro.so.zip
@@ -140,3 +139,4 @@ x1_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 swanstation_libretro.so.zip
+pokemini_libretro.so.zip
