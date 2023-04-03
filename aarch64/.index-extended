@@ -77,7 +77,6 @@
 2022-12-03 acb967ac a5200_libretro.so.zip
 2022-12-03 4f1ca711 fmsx_libretro.so.zip
 2022-12-03 584db782 freeintv_libretro.so.zip
-2022-12-03 b260d692 gambatte_libretro.so.zip
 2022-12-03 57af83c5 genesis_plus_gx_libretro.so.zip
 2022-12-03 a34d448b gpsp_libretro.so.zip
 2022-12-03 765f5c2e mame2003_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-04-02 5380a337 pcsx_rearmed_rumble_libretro.so.zip
 2023-04-02 a2270104 swanstation_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
+2023-04-03 d947c742 gambatte_libretro.so.zip

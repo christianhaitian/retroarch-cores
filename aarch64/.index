@@ -76,7 +76,6 @@ yabause_libretro.so.zip
 a5200_libretro.so.zip
 fmsx_libretro.so.zip
 freeintv_libretro.so.zip
-gambatte_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 gpsp_libretro.so.zip
 mame2003_libretro.so.zip
@@ -140,3 +139,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 swanstation_libretro.so.zip
 pokemini_libretro.so.zip
+gambatte_libretro.so.zip
