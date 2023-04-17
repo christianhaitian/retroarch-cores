@@ -26,12 +26,12 @@ jobs:
       - uses: uraimo/run-on-arch-action@v2
         name: checkout retroarch_cores repo
         with:
-          arch: aarch64
+          # arch: aarch64
           distro: ubuntu20.04
           run: |
 
             apt -y update
-            apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf 
+            apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf gcc-aarch64-linux-gnu gcc-arm-linux-gnueabihf
             bitness="$(getconf LONG_BIT)"
             if [[ "$bitness" == "64" ]]; then
                arch="aarch64"
@@ -70,9 +70,9 @@ jobs:
             fi
             make -f Makefile.libretro clean
             if [[ "$bitness" == "64" ]]; then
-               make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
+               CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
             else
-               make -f Makefile.libretro platform=RK3566 -j$(nproc)
+               CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro platform=RK3566 -j$(nproc)
             fi
 
             if [[ $? != "0" ]]; then
@@ -117,9 +117,9 @@ jobs:
 
                  make -f Makefile.libretro clean
                  if [[ "$bitness" == "64" ]]; then
-                    make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
+                    CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
                  else
-                    make -f Makefile.libretro platform=RK3566 -j$(nproc)
+                    CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro platform=RK3566 -j$(nproc)
                  fi
 
                  if [[ $? != "0" ]]; then
@@ -140,7 +140,7 @@ jobs:
 
             make -f Makefile.libretro clean
             if [[ "$bitness" == "32" ]]; then
-               make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
+               CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
                if [[ $? != "0" ]]; then
                   echo " "
                   echo "There was an error while building the newest lr-pcsx_rearmed_rumble_peops core.  Stopping here."
@@ -168,7 +168,8 @@ jobs:
             git config --global http.postBuffer 500M
             git config --global http.maxRequestBuffer 100M
             git config --global core.compression 0
-            git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            git clone https://github.com/christianhaitian/retroarch-cores.git -b dev
             cd retroarch-cores/${arch}
             #cd aarch64
             cp ../../${whichgit}/cores$bitness/pcsx_rearmed_libretro.so .
