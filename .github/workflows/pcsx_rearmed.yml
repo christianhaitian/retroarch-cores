@@ -92,8 +92,8 @@ jobs:
             echo $gitcommit > ../cores$bitness/pcsx_rearmed_libretro.so.commit
 
             if [[ "$bitness" == "32" ]]; then
-               make -f Makefile.libretro clean
-               make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
+               CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro clean
+               CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro HAVE_NEON=1 ARCH=arm BUILTIN_GPU=peops THREAD_RENDERING=1 DYNAREC=ari64 platform=RK3566
               if [[ $? != "0" ]]; then
                   echo " "
                   echo "There was an error while building the newest lr-pcsx_rearmed_peops core.  Stopping here."
@@ -117,7 +117,7 @@ jobs:
 
                  make -f Makefile.libretro clean
                  if [[ "$bitness" == "64" ]]; then
-                    CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
+                    CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make -f Makefile.libretro platform=RK3566_64 -j$(nproc)
                  else
                     CC=gcc-arm-linux-gnueabihf-gcc CXX=gcc-arm-linux-gnueabihf-g++ make -f Makefile.libretro platform=RK3566 -j$(nproc)
                  fi
