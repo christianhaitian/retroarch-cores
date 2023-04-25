@@ -43,9 +43,9 @@ jobs:
             else
                whichgit="rk3566_core_builds"
             fi
-            git clone --recursive https://github.com/christianhaitian/${whichgit}.git
+            git clone --depth=1 --recursive https://github.com/christianhaitian/${whichgit}.git
             cd ${whichgit}
-            git clone --recursive https://github.com/libretro/snes9x.git
+            git clone --depth=1 --recursive https://github.com/libretro/snes9x.git
             cd snes9x/
             cd libretro
             make clean
@@ -73,10 +73,10 @@ jobs:
             git config --global http.maxRequestBuffer 100M
             git config --global core.compression 0
             #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
-            git clone https://github.com/christianhaitian/retroarch-cores.git -b dev
+            git clone --depth=1 https://github.com/christianhaitian/retroarch-cores.git -b dev
             cd retroarch-cores/${arch}
             #cd aarch64
-            cp ../../${whichgit}/cores$bitness/snes9x_libretro.so .
+            cp ../${whichgit}/cores$bitness/snes9x_libretro.so .
             ../addcore snes9x_libretro.so
             cd ..
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
