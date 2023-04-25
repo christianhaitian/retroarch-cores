@@ -46,22 +46,7 @@ jobs:
             git clone --recursive https://github.com/christianhaitian/${whichgit}.git
             cd ${whichgit}
             git clone --recursive https://github.com/libretro/snes9x.git
-            cp patches/snes9x-patch* snes9x/.
             cd snes9x/
-            snes9x_patches=$(find *.patch)
-            if [[ ! -z "$snes9x_patches" ]]; then
-               for patching in snes9x-patch*
-               do
-                        patch -Np1 < "$patching"
-                        if [[ $? != "0" ]]; then
-                             echo " "
-                             echo "There was an error while applying $patching.  Stopping here."
-                             exit 1
-                        fi
-                        rm "$patching" 
-                      fi
-               done
-            fi
             cd libretro
             make clean
             CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make -j$(nproc)
