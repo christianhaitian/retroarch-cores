@@ -1,0 +1,111 @@
+# This is a basic workflow that is manually triggered to update the snes9x libretro core for aarch64
+
+name: Libretro snes9x core update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job.
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-20.04
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+   # Time to pull the proper branch of the retroarch-cores repo to start the build process
+      #- uses: actions/checkout@v3
+        #with:
+          #ref: ${{ github.ref_name }}
+          #fetch-depth: 1
+      #- name: checkout rk3566_core_builds
+        #uses: actions/checkout@v3
+        #with:
+          #repository: christianhaitian/rk3566_core_builds
+          #ref: master
+          #fetch-depth: 0
+      - uses: uraimo/run-on-arch-action@v2
+        name: checkout retroarch_cores repo
+        with:
+          # arch: aarch64
+          distro: ubuntu20.04
+          run: |
+
+            apt -y update
+            apt -y install build-essential git libarchive-zip-perl rsync zip python3 python3-pip python3-setuptools python3-wheel ninja-build libopenal-dev premake4 autoconf gcc-aarch64-linux-gnu gcc-arm-linux-gnueabihf
+            bitness="$(getconf LONG_BIT)"
+            if [[ "$bitness" == "64" ]]; then
+               arch="aarch64"
+            else
+               arch="armhf"
+            fi
+            if [[ ${GITHUB_REF##*/} == "master" ]]; then
+               whichgit="rk3326_core_builds"
+            else
+               whichgit="rk3566_core_builds"
+            fi
+            git clone --recursive https://github.com/christianhaitian/${whichgit}.git
+            cd ${whichgit}
+            git clone --recursive https://github.com/libretro/snes9x.git
+            cp patches/snes9x-patch* snes9x/.
+            cd snes9x/
+            snes9x_patches=$(find *.patch)
+            if [[ ! -z "$snes9x_patches" ]]; then
+               for patching in snes9x-patch*
+               do
+                        patch -Np1 < "$patching"
+                        if [[ $? != "0" ]]; then
+                             echo " "
+                             echo "There was an error while applying $patching.  Stopping here."
+                             exit 1
+                        fi
+                        rm "$patching" 
+                      fi
+               done
+            fi
+            cd libretro
+            make clean
+            CC=aarch64-linux-gnu-gcc CXX=aarch64-linux-gnu-g++ make -j$(nproc)
+
+            if [[ $? != "0" ]]; then
+               echo " "
+               echo "There was an error while building the newest lr-snes9x core.  Stopping here."
+               exit 1
+            fi
+
+            strip snes9x_libretro.so
+
+            if [ ! -d "../../cores$bitness/" ]; then
+               mkdir -v ../../cores$bitness
+            fi
+
+            cp snes9x_libretro.so ../../cores$bitness/.
+            gitcommit=$(git log | grep -m 1 commit | cut -c -14 | cut -c 8-)
+            echo $gitcommit > ../../cores$bitness/snes9x_libretro.so.commit
+        
+            cd ..
+            cd ..
+            git config --global http.postBuffer 500M
+            git config --global http.maxRequestBuffer 100M
+            git config --global core.compression 0
+            #git clone https://github.com/christianhaitian/retroarch-cores.git -b ${{ github.ref_name }}
+            git clone https://github.com/christianhaitian/retroarch-cores.git -b dev
+            cd retroarch-cores/${arch}
+            #cd aarch64
+            cp ../../${whichgit}/cores$bitness/snes9x_libretro.so .
+            ../addcore snes9x_libretro.so
+            cd ..
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add ${arch}/snes9x_libretro.so.zip
+            git commit -m "Updated snes9x_libretro ${bitness}bit core to commit $(cat ../../${whichgit}/cores$bitness/snes9x_libretro.so.commit)"
+            #rm -rf retroarch-cores
+            #rm -rf ../cores$bitness
+            #rm -rf ../snes9x
+            git add .
+            git commit -m "Update index and index-extended for recent core updates"
+            git push
+        
+      #- name: Push new snes9x libretro cores build to repo
+        #uses: ad-m/github-push-action@master
+        #with:
+          #branch: ${{ github.ref_name }}
