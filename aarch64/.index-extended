@@ -89,7 +89,6 @@
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
 2022-12-03 5fd3ce0b same_cdi_libretro.so.zip
 2022-12-03 2cd17ec1 snes9x2005_libretro.so.zip
-2022-12-03 6c581faf snes9x_libretro.so.zip
 2022-12-03 559d39d5 tgbdual_libretro.so.zip
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-04-02 a2270104 swanstation_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-04-03 d947c742 gambatte_libretro.so.zip
+2023-04-25 33391c8c snes9x_libretro.so.zip
