@@ -45,7 +45,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-07-06 f671086a sameboy_libretro.so.zip
@@ -142,3 +141,4 @@
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-04-03 d947c742 gambatte_libretro.so.zip
 2023-04-25 33391c8c snes9x_libretro.so.zip
+2023-05-05 ef834af5 easyrpg_libretro.so.zip

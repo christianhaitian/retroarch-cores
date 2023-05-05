@@ -44,7 +44,6 @@ mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
-easyrpg_libretro.so.zip
 desmume2015_libretro.so.zip
 prboom_libretro.so.zip
 sameboy_libretro.so.zip
@@ -141,3 +140,4 @@ swanstation_libretro.so.zip
 pokemini_libretro.so.zip
 gambatte_libretro.so.zip
 snes9x_libretro.so.zip
+easyrpg_libretro.so.zip
