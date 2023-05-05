@@ -48,7 +48,6 @@
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
-2021-11-18 8e3ce459 easyrpg_libretro.so.zip
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
 2021-12-25 8b6c265d desmume2015_libretro.so.zip
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-04-03 d947c742 gambatte_libretro.so.zip
 2023-04-25 33391c8c snes9x_libretro.so.zip
+2023-05-05 3f9a6956 easyrpg_libretro.so.zip
