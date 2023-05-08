@@ -3,7 +3,6 @@
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
 2021-01-26 4c58505d snes9x2010_libretro.so.zip
-2021-01-26 b4e70183 gearsystem_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-04-25 33391c8c snes9x_libretro.so.zip
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
 2023-05-08 bf524a19 genesis_plus_gx_libretro.so.zip
+2023-05-08 4074f76c gearsystem_libretro.so.zip
