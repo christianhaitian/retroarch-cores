@@ -72,7 +72,6 @@
 2022-12-03 4c42f356 a5200_libretro.so.zip
 2022-12-03 4f1ca711 fmsx_libretro.so.zip
 2022-12-03 584db782 freeintv_libretro.so.zip
-2022-12-03 57af83c5 genesis_plus_gx_libretro.so.zip
 2022-12-03 a34d448b gpsp_libretro.so.zip
 2022-12-03 765f5c2e mame2003_libretro.so.zip
 2022-12-03 bbee6402 mame2003_plus_libretro.so.zip
@@ -142,3 +141,4 @@
 2023-04-03 d947c742 gambatte_libretro.so.zip
 2023-04-25 33391c8c snes9x_libretro.so.zip
 2023-05-05 ef834af5 easyrpg_libretro.so.zip
+2023-05-08 bf524a19 genesis_plus_gx_libretro.so.zip
