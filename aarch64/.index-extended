@@ -92,8 +92,6 @@
 2022-12-08 2450bc7b mame_libretro.so.zip
 2022-12-20 fb9c0d52 arduous_libretro.so.zip
 2022-12-20 18fe8c0a bluemsx_libretro.so.zip
-2022-12-20 44d132a5 flycast_libretro.so.zip
-2022-12-20 08d5c1bd flycast_rumble_libretro.so.zip
 2022-12-20 820934d4 vice_x128_libretro.so.zip
 2022-12-20 ee5f47e9 vice_x64_libretro.so.zip
 2022-12-20 9a0dd1c5 vice_x64sc_libretro.so.zip
@@ -141,3 +139,5 @@
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
 2023-05-08 bf524a19 genesis_plus_gx_libretro.so.zip
 2023-05-08 4074f76c gearsystem_libretro.so.zip
+2023-05-09 0118f78c flycast_libretro.so.zip
+2023-05-09 200bb49b flycast_rumble_libretro.so.zip
