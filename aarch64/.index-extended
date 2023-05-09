@@ -88,8 +88,6 @@
 2022-12-08 2450bc7b mame_libretro.so.zip
 2022-12-20 12e99191 arduous_libretro.so.zip
 2022-12-20 18fe8c0a bluemsx_libretro.so.zip
-2022-12-20 60ec21b3 flycast_libretro.so.zip
-2022-12-20 c41955dc flycast_rumble_libretro.so.zip
 2022-12-20 bcabdcc2 vice_x128_libretro.so.zip
 2022-12-20 7d043db4 vice_x64_libretro.so.zip
 2022-12-20 0a453928 vice_x64sc_libretro.so.zip
@@ -116,7 +114,6 @@
 2023-01-30 146c1fde mgba_rumble_libretro.so.zip
 2023-03-01 710e52c0 fceumm_libretro.so.zip
 2023-03-01 11baa872 nestopia_libretro.so.zip
-2023-03-06 744d7c8b fly_flycast_libretro.so.zip
 2023-03-06 e3bc8ff8 scummvm_libretro.so.zip
 2023-03-14 7836854f mupen64plus_next_libretro.so.zip
 2023-03-16 90a89b02 dosbox_pure_libretro.so.zip
@@ -142,3 +139,5 @@
 2023-05-05 ef834af5 easyrpg_libretro.so.zip
 2023-05-08 bf524a19 genesis_plus_gx_libretro.so.zip
 2023-05-08 4074f76c gearsystem_libretro.so.zip
+2023-05-09 f29f7159 flycast_libretro.so.zip
+2023-05-09 090cd37e flycast_rumble_libretro.so.zip

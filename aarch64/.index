@@ -87,8 +87,6 @@ uzem_libretro.so.zip
 mame_libretro.so.zip
 arduous_libretro.so.zip
 bluemsx_libretro.so.zip
-flycast_libretro.so.zip
-flycast_rumble_libretro.so.zip
 vice_x128_libretro.so.zip
 vice_x64_libretro.so.zip
 vice_x64sc_libretro.so.zip
@@ -115,7 +113,6 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 fceumm_libretro.so.zip
 nestopia_libretro.so.zip
-fly_flycast_libretro.so.zip
 scummvm_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 dosbox_pure_libretro.so.zip
@@ -141,3 +138,5 @@ snes9x_libretro.so.zip
 easyrpg_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 gearsystem_libretro.so.zip
+flycast_libretro.so.zip
+flycast_rumble_libretro.so.zip
