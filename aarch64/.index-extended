@@ -92,7 +92,6 @@
 2023-01-03 323c6744 mednafen_supergrafx_libretro.so.zip
 2023-01-03 f353ad40 melonds_libretro.so.zip
 2023-01-03 6e0cfec3 mess_libretro.so.zip
-2023-01-07 6c75a5bd ppsspp_libretro.so.zip
 2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
 2023-01-30 ed0094ed mgba_libretro.so.zip
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-05-21 cd305ab4 vice_xplus4_libretro.so.zip
 2023-05-21 1e992be3 vice_xscpu64_libretro.so.zip
 2023-05-21 4b783865 vice_xvic_libretro.so.zip
+2023-05-28 77be82c7 ppsspp_libretro.so.zip
