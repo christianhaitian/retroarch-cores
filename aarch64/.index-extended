@@ -57,7 +57,6 @@
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
-2022-09-17 eaec4282 race_libretro.so.zip
 2022-10-02 c7905145 sameduck_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 a4926639 hatari_libretro.so.zip
@@ -141,3 +140,4 @@
 2023-05-21 e61aac9b vice_xscpu64_libretro.so.zip
 2023-05-21 55caaf2c vice_xvic_libretro.so.zip
 2023-05-28 0915d926 ppsspp_libretro.so.zip
+2023-06-03 94849d80 race_libretro.so.zip
