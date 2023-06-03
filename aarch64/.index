@@ -62,7 +62,6 @@ mesen_libretro.so.zip
 vemulator_libretro.so.zip
 freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
-race_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 hatari_libretro.so.zip
 stella_libretro.so.zip
@@ -140,3 +139,4 @@ vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 ppsspp_libretro.so.zip
+race_libretro.so.zip
