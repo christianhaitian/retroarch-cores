@@ -96,7 +96,6 @@
 2023-03-06 e3bc8ff8 scummvm_libretro.so.zip
 2023-03-14 7836854f mupen64plus_next_libretro.so.zip
 2023-03-16 90a89b02 dosbox_pure_libretro.so.zip
-2023-03-16 9dbaac87 fake08_libretro.so.zip
 2023-03-16 c9bedb0c fbneo_libretro.so.zip
 2023-03-16 bfa13311 picodrive_libretro.so.zip
 2023-03-21 2d075252 puae2021_libretro.so.zip
@@ -139,6 +138,7 @@
 2023-05-21 6324db2d vice_xplus4_libretro.so.zip
 2023-05-21 e61aac9b vice_xscpu64_libretro.so.zip
 2023-05-21 55caaf2c vice_xvic_libretro.so.zip
-2023-05-28 0915d926 ppsspp_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
+2023-06-22 5f0dca65 fake08_libretro.so.zip
+2023-06-22 98558fe9 ppsspp_libretro.so.zip
