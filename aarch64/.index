@@ -95,7 +95,6 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 scummvm_libretro.so.zip
 dosbox_pure_libretro.so.zip
-fake08_libretro.so.zip
 fbneo_libretro.so.zip
 picodrive_libretro.so.zip
 puae2021_libretro.so.zip
@@ -141,3 +140,4 @@ vice_xvic_libretro.so.zip
 ppsspp_libretro.so.zip
 race_libretro.so.zip
 gearcoleco_libretro.so.zip
+fake08_libretro.so.zip

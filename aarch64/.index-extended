@@ -96,7 +96,6 @@
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
 2023-03-06 458a6f8c scummvm_libretro.so.zip
 2023-03-17 51a5eeea dosbox_pure_libretro.so.zip
-2023-03-17 9dbaac87 fake08_libretro.so.zip
 2023-03-17 c9bedb0c fbneo_libretro.so.zip
 2023-03-17 bfa13311 picodrive_libretro.so.zip
 2023-03-20 5275b339 puae2021_libretro.so.zip
@@ -142,3 +141,4 @@
 2023-05-28 77be82c7 ppsspp_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
+2023-06-22 5f0dca65 fake08_libretro.so.zip
