@@ -107,8 +107,6 @@ quasi88_libretro.so.zip
 vbam_libretro.so.zip
 vba_next_libretro.so.zip
 x1_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 swanstation_libretro.so.zip
 pokemini_libretro.so.zip
 gambatte_libretro.so.zip
@@ -142,3 +140,5 @@ race_libretro.so.zip
 gearcoleco_libretro.so.zip
 fake08_libretro.so.zip
 onscripter_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip

@@ -108,8 +108,6 @@
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
-2023-04-02 af3e5394 pcsx_rearmed_libretro.so.zip
-2023-04-02 5380a337 pcsx_rearmed_rumble_libretro.so.zip
 2023-04-02 a2270104 swanstation_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-04-03 d947c742 gambatte_libretro.so.zip
@@ -143,3 +141,5 @@
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
 2023-06-22 5f0dca65 fake08_libretro.so.zip
 2023-06-26 24d05169 onscripter_libretro.so.zip
+2023-07-05 77f4fd09 pcsx_rearmed_libretro.so.zip
+2023-07-05 306bfe6a pcsx_rearmed_rumble_libretro.so.zip
