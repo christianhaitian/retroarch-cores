@@ -138,8 +138,8 @@
 2023-05-21 55caaf2c vice_xvic_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
-2023-06-22 5f0dca65 fake08_libretro.so.zip
 2023-06-22 98558fe9 ppsspp_libretro.so.zip
 2023-07-05 9a5148a8 pcsx_rearmed_libretro.so.zip
 2023-07-05 8787920a pcsx_rearmed_rumble_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
+2023-07-09 f02d7659 fake08_libretro.so.zip
