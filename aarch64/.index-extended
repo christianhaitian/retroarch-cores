@@ -48,12 +48,10 @@
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
-2021-12-25 8b6c265d desmume2015_libretro.so.zip
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
 2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-08-27 97e0f3e2 crocods_libretro.so.zip
 2022-08-27 62625656 fceumm_libretro.so.zip
-2022-08-27 86bbbf6a fuse_libretro.so.zip
 2022-08-27 c63140a2 gw_libretro.so.zip
 2022-08-27 2942a33e mame2000_libretro.so.zip
 2022-08-27 d538d1a1 nestopia_libretro.so.zip
@@ -64,10 +62,8 @@
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
-2022-11-03 ffea4f04 hatari_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
-2022-11-14 64ee4d72 cap32_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2022-12-03 765f5c2e mame2003_libretro.so.zip
 2022-12-03 bbee6402 mame2003_plus_libretro.so.zip
@@ -76,7 +72,6 @@
 2022-12-03 4ffb87c3 px68k_libretro.so.zip
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
 2022-12-03 2cd17ec1 snes9x2005_libretro.so.zip
-2022-12-03 559d39d5 tgbdual_libretro.so.zip
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-08 2450bc7b mame_libretro.so.zip
@@ -108,7 +103,6 @@
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
-2023-04-02 a2270104 swanstation_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-04-03 d947c742 gambatte_libretro.so.zip
 2023-04-25 33391c8c snes9x_libretro.so.zip
@@ -143,3 +137,9 @@
 2023-07-05 306bfe6a pcsx_rearmed_rumble_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
 2023-07-09 f02d7659 fake08_libretro.so.zip
+2023-07-31 b0e14fba cap32_libretro.so.zip
+2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
+2023-07-31 b0e7e901 fuse_libretro.so.zip
+2023-07-31 4e3d55eb hatari_libretro.so.zip
+2023-07-31 1980affa swanstation_libretro.so.zip
+2023-07-31 559d39d5 tgbdual_libretro.so.zip
