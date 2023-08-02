@@ -51,7 +51,6 @@
 2022-08-26 97e15d98 tic80_libretro.so.zip
 2022-08-26 9ed9cf8f mame2000_libretro.so.zip
 2022-09-04 e86efddd yabasanshiro_libretro.so.zip
-2022-09-16 0f316658 mesen_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
@@ -61,8 +60,6 @@
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-23 95900e5f parallel_n64_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
-2022-12-03 765f5c2e mame2003_libretro.so.zip
-2022-12-03 bbee6402 mame2003_plus_libretro.so.zip
 2022-12-03 91c949e5 neocd_libretro.so.zip
 2022-12-03 cee57c5f opera_libretro.so.zip
 2022-12-03 ea48e670 px68k_libretro.so.zip
@@ -70,7 +67,6 @@
 2022-12-03 2cd17ec1 snes9x2005_libretro.so.zip
 2022-12-03 65156fbb uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
-2022-12-08 2450bc7b mame_libretro.so.zip
 2022-12-20 12e99191 arduous_libretro.so.zip
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
 2023-01-02 1d980ec2 atari800_libretro.so.zip
@@ -93,7 +89,6 @@
 2023-03-16 90a89b02 dosbox_pure_libretro.so.zip
 2023-03-16 c9bedb0c fbneo_libretro.so.zip
 2023-03-16 bfa13311 picodrive_libretro.so.zip
-2023-03-21 2d075252 puae2021_libretro.so.zip
 2023-03-29 e68f4c1a vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
@@ -143,3 +138,8 @@
 2023-07-31 35653a4f hatari_libretro.so.zip
 2023-07-31 1ba10d51 swanstation_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
+2023-08-02 a239dad6 mame2003_libretro.so.zip
+2023-08-02 2821aa06 mame2003_plus_libretro.so.zip
+2023-08-02 265502e4 mame_libretro.so.zip
+2023-08-02 3b32f8f3 mesen_libretro.so.zip
+2023-08-02 e419932b puae2021_libretro.so.zip
