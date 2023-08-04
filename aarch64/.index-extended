@@ -111,7 +111,6 @@
 2023-05-21 dd0b3aa5 fmsx_libretro.so.zip
 2023-05-21 584db782 freeintv_libretro.so.zip
 2023-05-21 bc47cab9 genesis_plus_gx_wide_libretro.so.zip
-2023-05-21 6c39c38d gpsp_libretro.so.zip
 2023-05-21 6fe077db mednafen_pce_fast_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
 2023-05-21 1c302f00 puae_libretro.so.zip
@@ -136,10 +135,11 @@
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 b0e7e901 fuse_libretro.so.zip
 2023-07-31 4e3d55eb hatari_libretro.so.zip
-2023-07-31 1980affa swanstation_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
 2023-08-02 a239dad6 mame2003_libretro.so.zip
 2023-08-02 2821aa06 mame2003_plus_libretro.so.zip
 2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-08-02 db9492fd puae2021_libretro.so.zip
+2023-08-04 f5a8e482 gpsp_libretro.so.zip
+2023-08-04 3bb82a2d swanstation_libretro.so.zip
