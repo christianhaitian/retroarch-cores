@@ -43,7 +43,6 @@ mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
-prboom_libretro.so.zip
 sameboy_libretro.so.zip
 crocods_libretro.so.zip
 gw_libretro.so.zip
@@ -143,3 +142,4 @@ puae2021_libretro.so.zip
 gpsp_libretro.so.zip
 swanstation_libretro.so.zip
 numero_libretro.so.zip
+prboom_libretro.so.zip

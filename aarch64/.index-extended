@@ -44,7 +44,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-07-06 f671086a sameboy_libretro.so.zip
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
 2022-08-26 c63140a2 gw_libretro.so.zip
@@ -144,3 +143,4 @@
 2023-08-04 f5a8e482 gpsp_libretro.so.zip
 2023-08-04 e8e65c18 swanstation_libretro.so.zip
 2023-08-11 be235b42 numero_libretro.so.zip
+2023-08-31 563e3707 prboom_libretro.so.zip
