@@ -48,7 +48,6 @@ parallel_n64_libretro.so.zip
 sameduck_libretro.so.zip
 sameboy_libretro.so.zip
 mupen64plus_next_libretro.so.zip
-prboom_libretro.so.zip
 crocods_libretro.so.zip
 fceumm_libretro.so.zip
 gw_libretro.so.zip
@@ -143,3 +142,4 @@ puae2021_libretro.so.zip
 gpsp_libretro.so.zip
 swanstation_libretro.so.zip
 numero_libretro.so.zip
+prboom_libretro.so.zip

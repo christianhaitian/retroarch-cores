@@ -49,7 +49,6 @@
 2021-10-31 412b15e0 sameduck_libretro.so.zip
 2021-12-20 c76b1a8f sameboy_libretro.so.zip
 2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
-2022-03-05 66b381b0 prboom_libretro.so.zip
 2022-08-27 97e0f3e2 crocods_libretro.so.zip
 2022-08-27 62625656 fceumm_libretro.so.zip
 2022-08-27 c63140a2 gw_libretro.so.zip
@@ -144,3 +143,4 @@
 2023-08-04 f5a8e482 gpsp_libretro.so.zip
 2023-08-04 3bb82a2d swanstation_libretro.so.zip
 2023-08-11 be235b42 numero_libretro.so.zip
+2023-08-31 563e3707 prboom_libretro.so.zip
