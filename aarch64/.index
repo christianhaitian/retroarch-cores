@@ -36,7 +36,6 @@ lowresnx_libretro.so.zip
 meteor_libretro.so.zip
 fceunext_libretro.so.zip
 imageviewer_libretro.so.zip
-theodore_libretro.so.zip
 lutro_libretro.so.zip
 mame2015_libretro.so.zip
 mupen64plus_libretro.so.zip
@@ -144,3 +143,4 @@ prboom_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 wasm4_libretro.so.zip
+theodore_libretro.so.zip
