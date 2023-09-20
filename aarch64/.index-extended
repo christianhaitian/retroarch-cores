@@ -38,7 +38,6 @@
 2021-02-28 215d2776 meteor_libretro.so.zip
 2021-02-28 6fe42123 fceunext_libretro.so.zip
 2021-02-28 cfd54acf imageviewer_libretro.so.zip
-2021-02-28 bdcce7b3 theodore_libretro.so.zip
 2021-02-28 9f3bc429 lutro_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-09-08 b6e0002b pcsx_rearmed_libretro.so.zip
 2023-09-08 582650f2 pcsx_rearmed_rumble_libretro.so.zip
 2023-09-20 e06a47a2 wasm4_libretro.so.zip
+2023-09-20 11bdaa2d theodore_libretro.so.zip
