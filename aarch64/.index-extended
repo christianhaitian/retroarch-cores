@@ -67,7 +67,6 @@
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-20 12e99191 arduous_libretro.so.zip
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
-2023-01-02 1d980ec2 atari800_libretro.so.zip
 2023-01-02 65938a37 handy_libretro.so.zip
 2023-01-02 dede219e mame2010_libretro.so.zip
 2023-01-02 116c0b11 mednafen_lynx_libretro.so.zip
@@ -85,7 +84,6 @@
 2023-03-06 e3bc8ff8 scummvm_libretro.so.zip
 2023-03-14 7836854f mupen64plus_next_libretro.so.zip
 2023-03-16 90a89b02 dosbox_pure_libretro.so.zip
-2023-03-16 c9bedb0c fbneo_libretro.so.zip
 2023-03-16 bfa13311 picodrive_libretro.so.zip
 2023-03-29 e68f4c1a vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
@@ -145,3 +143,5 @@
 2023-09-08 956fc719 pcsx_rearmed_rumble_libretro.so.zip
 2023-09-20 c733222b wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
+2023-10-01 282d51d7 atari800_libretro.so.zip
+2023-10-01 1b62791f fbneo_libretro.so.zip
