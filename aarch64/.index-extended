@@ -139,9 +139,9 @@
 2023-08-04 e8e65c18 swanstation_libretro.so.zip
 2023-08-11 be235b42 numero_libretro.so.zip
 2023-08-31 563e3707 prboom_libretro.so.zip
-2023-09-08 5a52441d pcsx_rearmed_libretro.so.zip
-2023-09-08 956fc719 pcsx_rearmed_rumble_libretro.so.zip
 2023-09-20 c733222b wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-10-01 282d51d7 atari800_libretro.so.zip
 2023-10-01 1b62791f fbneo_libretro.so.zip
+2023-10-01 e0d2772c pcsx_rearmed_libretro.so.zip
+2023-10-01 d9db4dda pcsx_rearmed_rumble_libretro.so.zip
