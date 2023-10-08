@@ -133,7 +133,6 @@ mame2003_plus_libretro.so.zip
 mame_libretro.so.zip
 mesen_libretro.so.zip
 puae2021_libretro.so.zip
-gpsp_libretro.so.zip
 numero_libretro.so.zip
 prboom_libretro.so.zip
 wasm4_libretro.so.zip
@@ -144,3 +143,4 @@ fbneo_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 swanstation_libretro.so.zip
+gpsp_libretro.so.zip

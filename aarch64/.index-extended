@@ -134,7 +134,6 @@
 2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-08-02 db9492fd puae2021_libretro.so.zip
-2023-08-04 f5a8e482 gpsp_libretro.so.zip
 2023-08-11 be235b42 numero_libretro.so.zip
 2023-08-31 563e3707 prboom_libretro.so.zip
 2023-09-20 e06a47a2 wasm4_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-10-01 094dc5c5 pcsx_rearmed_libretro.so.zip
 2023-10-01 539c7474 pcsx_rearmed_rumble_libretro.so.zip
 2023-10-06 ee53c7a3 swanstation_libretro.so.zip
+2023-10-08 97245c42 gpsp_libretro.so.zip
