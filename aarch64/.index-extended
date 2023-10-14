@@ -45,11 +45,7 @@
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2021-10-01 1cb3695b parallel_n64_libretro.so.zip
-2021-10-31 412b15e0 sameduck_libretro.so.zip
-2021-12-20 c76b1a8f sameboy_libretro.so.zip
-2022-01-03 5d9e0ee8 mupen64plus_next_libretro.so.zip
 2022-08-27 97e0f3e2 crocods_libretro.so.zip
-2022-08-27 62625656 fceumm_libretro.so.zip
 2022-08-27 c63140a2 gw_libretro.so.zip
 2022-08-27 2942a33e mame2000_libretro.so.zip
 2022-08-27 d538d1a1 nestopia_libretro.so.zip
@@ -58,7 +54,6 @@
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
-2022-11-03 5f596b3f mednafen_wswan_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
@@ -71,12 +66,8 @@
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-20 fb9c0d52 arduous_libretro.so.zip
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
-2023-01-03 63edb1ff handy_libretro.so.zip
 2023-01-03 91c798c2 mame2010_libretro.so.zip
-2023-01-03 116c0b11 mednafen_lynx_libretro.so.zip
-2023-01-03 16811296 mednafen_ngp_libretro.so.zip
 2023-01-03 94bb7462 mednafen_supafaust_libretro.so.zip
-2023-01-03 323c6744 mednafen_supergrafx_libretro.so.zip
 2023-01-03 f353ad40 melonds_libretro.so.zip
 2023-01-03 6e0cfec3 mess_libretro.so.zip
 2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
@@ -145,3 +136,12 @@
 2023-10-01 539c7474 pcsx_rearmed_rumble_libretro.so.zip
 2023-10-06 ee53c7a3 swanstation_libretro.so.zip
 2023-10-08 97245c42 gpsp_libretro.so.zip
+2023-10-14 19c9dae1 fceumm_libretro.so.zip
+2023-10-14 078cb532 handy_libretro.so.zip
+2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
+2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
+2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
+2023-10-14 acee493b mednafen_wswan_libretro.so.zip
+2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
+2023-10-14 4ca2d9db sameboy_libretro.so.zip
+2023-10-14 65f4b1dd sameduck_libretro.so.zip
