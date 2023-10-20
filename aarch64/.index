@@ -53,7 +53,6 @@ freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
 stella_libretro.so.zip
 stella2014_libretro.so.zip
-parallel_n64_libretro.so.zip
 yabause_libretro.so.zip
 neocd_libretro.so.zip
 opera_libretro.so.zip
@@ -144,3 +143,4 @@ mednafen_supergrafx_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 sameduck_libretro.so.zip
+parallel_n64_libretro.so.zip

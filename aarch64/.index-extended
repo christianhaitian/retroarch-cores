@@ -54,7 +54,6 @@
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
-2022-11-23 95900e5f parallel_n64_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2022-12-03 91c949e5 neocd_libretro.so.zip
 2022-12-03 cee57c5f opera_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-10-14 acee493b mednafen_wswan_libretro.so.zip
 2023-10-14 f9257e47 mupen64plus_next_libretro.so.zip
 2023-10-14 b35ac0ef sameduck_libretro.so.zip
+2023-10-20 9023a4fe parallel_n64_libretro.so.zip
