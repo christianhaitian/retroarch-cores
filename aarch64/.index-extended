@@ -44,7 +44,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2021-10-01 1cb3695b parallel_n64_libretro.so.zip
 2022-08-27 97e0f3e2 crocods_libretro.so.zip
 2022-08-27 c63140a2 gw_libretro.so.zip
 2022-08-27 2942a33e mame2000_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
 2023-10-14 4ca2d9db sameboy_libretro.so.zip
 2023-10-14 65f4b1dd sameduck_libretro.so.zip
+2023-10-20 188fa263 parallel_n64_libretro.so.zip

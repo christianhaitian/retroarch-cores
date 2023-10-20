@@ -43,7 +43,6 @@ mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
-parallel_n64_libretro.so.zip
 crocods_libretro.so.zip
 gw_libretro.so.zip
 mame2000_libretro.so.zip
@@ -144,3 +143,4 @@ mednafen_wswan_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 sameboy_libretro.so.zip
 sameduck_libretro.so.zip
+parallel_n64_libretro.so.zip
