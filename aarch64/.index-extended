@@ -124,8 +124,6 @@
 2023-09-27 87273018 ppsspp_libretro.so.zip
 2023-10-01 282d51d7 atari800_libretro.so.zip
 2023-10-01 1b62791f fbneo_libretro.so.zip
-2023-10-01 094dc5c5 pcsx_rearmed_libretro.so.zip
-2023-10-01 539c7474 pcsx_rearmed_rumble_libretro.so.zip
 2023-10-06 ee53c7a3 swanstation_libretro.so.zip
 2023-10-08 97245c42 gpsp_libretro.so.zip
 2023-10-14 19c9dae1 fceumm_libretro.so.zip
@@ -145,3 +143,5 @@
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
 2023-10-21 c3160b5d snes9x_libretro.so.zip
+2023-10-21 9ebf5a40 pcsx_rearmed_libretro.so.zip
+2023-10-21 9e03dd16 pcsx_rearmed_rumble_libretro.so.zip
