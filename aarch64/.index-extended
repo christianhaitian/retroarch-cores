@@ -60,7 +60,6 @@
 2022-12-03 cee57c5f opera_libretro.so.zip
 2022-12-03 4ffb87c3 px68k_libretro.so.zip
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
-2022-12-03 2cd17ec1 snes9x2005_libretro.so.zip
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-20 fb9c0d52 arduous_libretro.so.zip
@@ -78,17 +77,13 @@
 2023-03-29 4cbbe98d vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
-2023-04-01 86ba5470 o2em_libretro.so.zip
 2023-04-01 2a32b2b8 potator_libretro.so.zip
 2023-04-01 be6d984a quasi88_libretro.so.zip
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
-2023-04-03 d947c742 gambatte_libretro.so.zip
-2023-04-25 33391c8c snes9x_libretro.so.zip
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
-2023-05-08 bf524a19 genesis_plus_gx_libretro.so.zip
 2023-05-08 4074f76c gearsystem_libretro.so.zip
 2023-05-09 0118f78c flycast_libretro.so.zip
 2023-05-09 200bb49b flycast_rumble_libretro.so.zip
@@ -96,7 +91,6 @@
 2023-05-21 76b54dfd bluemsx_libretro.so.zip
 2023-05-21 dd0b3aa5 fmsx_libretro.so.zip
 2023-05-21 584db782 freeintv_libretro.so.zip
-2023-05-21 bc47cab9 genesis_plus_gx_wide_libretro.so.zip
 2023-05-21 6fe077db mednafen_pce_fast_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
 2023-05-21 1c302f00 puae_libretro.so.zip
@@ -113,7 +107,6 @@
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
-2023-07-09 f02d7659 fake08_libretro.so.zip
 2023-07-31 b0e14fba cap32_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 b0e7e901 fuse_libretro.so.zip
@@ -145,3 +138,10 @@
 2023-10-14 4ca2d9db sameboy_libretro.so.zip
 2023-10-14 65f4b1dd sameduck_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
+2023-10-21 16ce97b4 fake08_libretro.so.zip
+2023-10-21 03798e93 gambatte_libretro.so.zip
+2023-10-21 1300aec2 genesis_plus_gx_libretro.so.zip
+2023-10-21 f80dfa9a genesis_plus_gx_wide_libretro.so.zip
+2023-10-21 400b9c1f o2em_libretro.so.zip
+2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
+2023-10-21 c3160b5d snes9x_libretro.so.zip
