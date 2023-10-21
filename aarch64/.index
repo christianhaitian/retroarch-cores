@@ -124,8 +124,6 @@ wasm4_libretro.so.zip
 theodore_libretro.so.zip
 atari800_libretro.so.zip
 fbneo_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 swanstation_libretro.so.zip
 gpsp_libretro.so.zip
 fceumm_libretro.so.zip
@@ -144,3 +142,5 @@ genesis_plus_gx_wide_libretro.so.zip
 o2em_libretro.so.zip
 snes9x2005_libretro.so.zip
 snes9x_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
