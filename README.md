@@ -1,4 +1,4 @@
-# RK3326 RetroArch core repo
+# RK3566 RetroArch core repo
 
 ## Dependencies
 
@@ -23,7 +23,7 @@ Please make sure to strip & test the cores before submitting a PR.
 Copy the core to aarch64 or arm7hf and chdir to that directory. Then run:
 ```bash
     cd retroarch-cores
-    git fetch https://github.com/christianhaitian/retroarch-cores.git && git merge https://github.com/christianhaitian/retroarch-cores.git/master
+    git fetch https://github.com/christianhaitian/retroarch-cores.git && git merge https://github.com/christianhaitian/retroarch-cores.git/rg503
     ../addcore (corename)_libretro.so (ex. nestopia_libretro.so)
     git add . && git commit -m "commit message" && git push
 ```
