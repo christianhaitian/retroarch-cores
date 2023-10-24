@@ -63,10 +63,8 @@ uae4arm_libretro.so.zip
 uzem_libretro.so.zip
 arduous_libretro.so.zip
 virtualjaguar_libretro.so.zip
-mame2010_libretro.so.zip
 mednafen_supafaust_libretro.so.zip
 melonds_libretro.so.zip
-mess_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
@@ -122,7 +120,6 @@ wasm4_libretro.so.zip
 theodore_libretro.so.zip
 ppsspp_libretro.so.zip
 atari800_libretro.so.zip
-fbneo_libretro.so.zip
 swanstation_libretro.so.zip
 gpsp_libretro.so.zip
 fceumm_libretro.so.zip
@@ -144,3 +141,6 @@ snes9x2005_libretro.so.zip
 snes9x_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+fbneo_libretro.so.zip
+mame2010_libretro.so.zip
+mess_libretro.so.zip
