@@ -70,7 +70,6 @@
 2023-01-30 ed0094ed mgba_libretro.so.zip
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
 2023-03-06 458a6f8c scummvm_libretro.so.zip
-2023-03-17 51a5eeea dosbox_pure_libretro.so.zip
 2023-03-17 bfa13311 picodrive_libretro.so.zip
 2023-03-29 4cbbe98d vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-10-24 be1198e3 fbneo_libretro.so.zip
 2023-10-24 ea17c574 mame2010_libretro.so.zip
 2023-10-24 a81f061c mess_libretro.so.zip
+2023-10-24 b29bf72a dosbox_pure_libretro.so.zip
