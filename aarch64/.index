@@ -69,7 +69,6 @@ mednafen_pcfx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 scummvm_libretro.so.zip
-picodrive_libretro.so.zip
 vecx_libretro.so.zip
 81_libretro.so.zip
 nekop2_libretro.so.zip
@@ -91,15 +90,6 @@ mednafen_pce_fast_libretro.so.zip
 prosystem_libretro.so.zip
 puae_libretro.so.zip
 same_cdi_libretro.so.zip
-vice_x128_libretro.so.zip
-vice_x64_libretro.so.zip
-vice_x64sc_libretro.so.zip
-vice_xcbm2_libretro.so.zip
-vice_xcbm5x0_libretro.so.zip
-vice_xpet_libretro.so.zip
-vice_xplus4_libretro.so.zip
-vice_xscpu64_libretro.so.zip
-vice_xvic_libretro.so.zip
 race_libretro.so.zip
 gearcoleco_libretro.so.zip
 ppsspp_libretro.so.zip
@@ -144,3 +134,13 @@ mame2010_libretro.so.zip
 mess_libretro.so.zip
 dosbox_pure_libretro.so.zip
 nestopia_libretro.so.zip
+picodrive_libretro.so.zip
+vice_x128_libretro.so.zip
+vice_x64_libretro.so.zip
+vice_x64sc_libretro.so.zip
+vice_xcbm2_libretro.so.zip
+vice_xcbm5x0_libretro.so.zip
+vice_xpet_libretro.so.zip
+vice_xplus4_libretro.so.zip
+vice_xscpu64_libretro.so.zip
+vice_xvic_libretro.so.zip
