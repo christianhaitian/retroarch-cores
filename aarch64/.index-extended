@@ -69,7 +69,6 @@
 2023-01-30 ed0094ed mgba_libretro.so.zip
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
 2023-03-06 458a6f8c scummvm_libretro.so.zip
-2023-03-17 bfa13311 picodrive_libretro.so.zip
 2023-03-29 4cbbe98d vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
@@ -91,15 +90,6 @@
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
 2023-05-21 1c302f00 puae_libretro.so.zip
 2023-05-21 a6147209 same_cdi_libretro.so.zip
-2023-05-21 ba01cbc4 vice_x128_libretro.so.zip
-2023-05-21 a8311a82 vice_x64_libretro.so.zip
-2023-05-21 9853015c vice_x64sc_libretro.so.zip
-2023-05-21 1e0e0015 vice_xcbm2_libretro.so.zip
-2023-05-21 07f72e04 vice_xcbm5x0_libretro.so.zip
-2023-05-21 4c871622 vice_xpet_libretro.so.zip
-2023-05-21 cd305ab4 vice_xplus4_libretro.so.zip
-2023-05-21 1e992be3 vice_xscpu64_libretro.so.zip
-2023-05-21 4b783865 vice_xvic_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
@@ -145,3 +135,13 @@
 2023-10-24 a81f061c mess_libretro.so.zip
 2023-10-24 b29bf72a dosbox_pure_libretro.so.zip
 2023-10-27 e34302b6 nestopia_libretro.so.zip
+2023-10-27 6fb9effd picodrive_libretro.so.zip
+2023-10-27 d04aeec0 vice_x128_libretro.so.zip
+2023-10-27 582edfff vice_x64_libretro.so.zip
+2023-10-27 a68364ca vice_x64sc_libretro.so.zip
+2023-10-27 79a2f35c vice_xcbm2_libretro.so.zip
+2023-10-27 8b37799d vice_xcbm5x0_libretro.so.zip
+2023-10-27 a17b6f52 vice_xpet_libretro.so.zip
+2023-10-27 5f1b6c0a vice_xplus4_libretro.so.zip
+2023-10-27 5b1e340f vice_xscpu64_libretro.so.zip
+2023-10-27 ec36f131 vice_xvic_libretro.so.zip
