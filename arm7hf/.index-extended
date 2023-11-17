@@ -31,9 +31,9 @@
 2022-06-08 eb1d1edd flycast32_rumble_libretro.so.zip
 2022-11-25 32f45059 yabause_libretro.so.zip
 2023-01-15 cbf40ca8 coolcv_libretro.so.zip
-2023-10-21 22c19a40 pcsx_rearmed_libretro.so.zip
-2023-10-21 114ea07e pcsx_rearmed_peops_libretro.so.zip
-2023-10-21 35f514c2 pcsx_rearmed_rumble_libretro.so.zip
-2023-10-21 1196f3fe pcsx_rearmed_rumble_peops_libretro.so.zip
 2023-11-03 9ea93350 neocd_libretro.so.zip
 2023-11-03 19510ef7 mednafen_pce_fast_libretro.so.zip
+2023-11-17 77c137df pcsx_rearmed_libretro.so.zip
+2023-11-17 8a92e9d2 pcsx_rearmed_peops_libretro.so.zip
+2023-11-17 f2f4345f pcsx_rearmed_rumble_libretro.so.zip
+2023-11-17 0bb16871 pcsx_rearmed_rumble_peops_libretro.so.zip
