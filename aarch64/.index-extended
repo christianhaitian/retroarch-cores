@@ -128,8 +128,6 @@
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
 2023-10-21 c3160b5d snes9x_libretro.so.zip
-2023-10-21 9ebf5a40 pcsx_rearmed_libretro.so.zip
-2023-10-21 9e03dd16 pcsx_rearmed_rumble_libretro.so.zip
 2023-10-24 be1198e3 fbneo_libretro.so.zip
 2023-10-24 ea17c574 mame2010_libretro.so.zip
 2023-10-24 b29bf72a dosbox_pure_libretro.so.zip
@@ -145,3 +143,5 @@
 2023-10-27 5b1e340f vice_xscpu64_libretro.so.zip
 2023-10-27 ec36f131 vice_xvic_libretro.so.zip
 2023-10-29 6e0cfec3 mess_libretro.so.zip
+2023-11-17 194dd7e4 pcsx_rearmed_libretro.so.zip
+2023-11-17 8ca716bd pcsx_rearmed_rumble_libretro.so.zip
