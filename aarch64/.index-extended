@@ -43,7 +43,6 @@
 2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
-2022-07-06 f671086a sameboy_libretro.so.zip
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
 2022-08-26 c63140a2 gw_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-11-20 490520c3 mednafen_pce_fast_libretro.so.zip
 2023-11-20 c0c82759 neocd_libretro.so.zip
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
+2023-11-20 d5f51fec sameboy_libretro.so.zip

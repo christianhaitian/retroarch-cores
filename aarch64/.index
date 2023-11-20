@@ -42,7 +42,6 @@ mupen64plus_libretro.so.zip
 ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
-sameboy_libretro.so.zip
 crocods_libretro.so.zip
 gw_libretro.so.zip
 tic80_libretro.so.zip
@@ -144,3 +143,4 @@ bluemsx_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
 neocd_libretro.so.zip
 quasi88_libretro.so.zip
+sameboy_libretro.so.zip
