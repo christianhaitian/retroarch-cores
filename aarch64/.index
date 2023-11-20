@@ -54,7 +54,6 @@ mednafen_vb_libretro.so.zip
 stella_libretro.so.zip
 stella2014_libretro.so.zip
 yabause_libretro.so.zip
-neocd_libretro.so.zip
 opera_libretro.so.zip
 px68k_libretro.so.zip
 quicknes_libretro.so.zip
@@ -72,7 +71,6 @@ vecx_libretro.so.zip
 81_libretro.so.zip
 nekop2_libretro.so.zip
 potator_libretro.so.zip
-quasi88_libretro.so.zip
 vbam_libretro.so.zip
 vba_next_libretro.so.zip
 x1_libretro.so.zip
@@ -82,10 +80,8 @@ gearsystem_libretro.so.zip
 flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 a5200_libretro.so.zip
-bluemsx_libretro.so.zip
 fmsx_libretro.so.zip
 freeintv_libretro.so.zip
-mednafen_pce_fast_libretro.so.zip
 prosystem_libretro.so.zip
 puae_libretro.so.zip
 same_cdi_libretro.so.zip
@@ -117,7 +113,6 @@ mednafen_ngp_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 mupen64plus_next_libretro.so.zip
-sameboy_libretro.so.zip
 sameduck_libretro.so.zip
 parallel_n64_libretro.so.zip
 fake08_libretro.so.zip
@@ -144,3 +139,8 @@ vice_xvic_libretro.so.zip
 mess_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
+bluemsx_libretro.so.zip
+mednafen_pce_fast_libretro.so.zip
+neocd_libretro.so.zip
+quasi88_libretro.so.zip
+sameboy_libretro.so.zip

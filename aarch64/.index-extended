@@ -55,7 +55,6 @@
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
-2022-12-03 91c949e5 neocd_libretro.so.zip
 2022-12-03 cee57c5f opera_libretro.so.zip
 2022-12-03 4ffb87c3 px68k_libretro.so.zip
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
@@ -73,7 +72,6 @@
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
 2023-04-01 2a32b2b8 potator_libretro.so.zip
-2023-04-01 be6d984a quasi88_libretro.so.zip
 2023-04-01 607bb5e6 vbam_libretro.so.zip
 2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
@@ -83,10 +81,8 @@
 2023-05-09 0118f78c flycast_libretro.so.zip
 2023-05-09 200bb49b flycast_rumble_libretro.so.zip
 2023-05-21 a1773743 a5200_libretro.so.zip
-2023-05-21 76b54dfd bluemsx_libretro.so.zip
 2023-05-21 dd0b3aa5 fmsx_libretro.so.zip
 2023-05-21 584db782 freeintv_libretro.so.zip
-2023-05-21 6fe077db mednafen_pce_fast_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
 2023-05-21 1c302f00 puae_libretro.so.zip
 2023-05-21 a6147209 same_cdi_libretro.so.zip
@@ -118,7 +114,6 @@
 2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
 2023-10-14 acee493b mednafen_wswan_libretro.so.zip
 2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
-2023-10-14 4ca2d9db sameboy_libretro.so.zip
 2023-10-14 65f4b1dd sameduck_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-10-21 16ce97b4 fake08_libretro.so.zip
@@ -145,3 +140,8 @@
 2023-10-29 6e0cfec3 mess_libretro.so.zip
 2023-11-17 194dd7e4 pcsx_rearmed_libretro.so.zip
 2023-11-17 8ca716bd pcsx_rearmed_rumble_libretro.so.zip
+2023-11-20 4f2117ce bluemsx_libretro.so.zip
+2023-11-20 490520c3 mednafen_pce_fast_libretro.so.zip
+2023-11-20 c0c82759 neocd_libretro.so.zip
+2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
+2023-11-20 4ca2d9db sameboy_libretro.so.zip
