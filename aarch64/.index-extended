@@ -117,7 +117,6 @@
 2023-10-14 b35ac0ef sameduck_libretro.so.zip
 2023-10-20 9023a4fe parallel_n64_libretro.so.zip
 2023-10-21 16ce97b4 fake08_libretro.so.zip
-2023-10-21 03798e93 gambatte_libretro.so.zip
 2023-10-21 1300aec2 genesis_plus_gx_libretro.so.zip
 2023-10-21 f80dfa9a genesis_plus_gx_wide_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-11-20 c0c82759 neocd_libretro.so.zip
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
 2023-11-20 d5f51fec sameboy_libretro.so.zip
+2023-11-29 345b494e gambatte_libretro.so.zip

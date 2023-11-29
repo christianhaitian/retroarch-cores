@@ -116,7 +116,6 @@ mupen64plus_next_libretro.so.zip
 sameduck_libretro.so.zip
 parallel_n64_libretro.so.zip
 fake08_libretro.so.zip
-gambatte_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 o2em_libretro.so.zip
@@ -144,3 +143,4 @@ mednafen_pce_fast_libretro.so.zip
 neocd_libretro.so.zip
 quasi88_libretro.so.zip
 sameboy_libretro.so.zip
+gambatte_libretro.so.zip
