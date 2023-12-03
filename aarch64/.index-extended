@@ -114,7 +114,6 @@
 2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
 2023-10-14 acee493b mednafen_wswan_libretro.so.zip
 2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
-2023-10-14 65f4b1dd sameduck_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-10-21 16ce97b4 fake08_libretro.so.zip
 2023-10-21 1300aec2 genesis_plus_gx_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
 2023-11-20 4ca2d9db sameboy_libretro.so.zip
 2023-11-29 345b494e gambatte_libretro.so.zip
+2023-12-03 e2051dde sameduck_libretro.so.zip
