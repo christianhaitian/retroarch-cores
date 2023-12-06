@@ -123,7 +123,6 @@
 2023-10-21 c3160b5d snes9x_libretro.so.zip
 2023-10-24 be1198e3 fbneo_libretro.so.zip
 2023-10-24 ea17c574 mame2010_libretro.so.zip
-2023-10-24 b29bf72a dosbox_pure_libretro.so.zip
 2023-10-27 e34302b6 nestopia_libretro.so.zip
 2023-10-27 6fb9effd picodrive_libretro.so.zip
 2023-10-27 d04aeec0 vice_x128_libretro.so.zip
@@ -145,3 +144,4 @@
 2023-11-20 4ca2d9db sameboy_libretro.so.zip
 2023-11-29 345b494e gambatte_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
+2023-12-06 9e5ae829 dosbox_pure_libretro.so.zip

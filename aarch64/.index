@@ -122,7 +122,6 @@ snes9x2005_libretro.so.zip
 snes9x_libretro.so.zip
 fbneo_libretro.so.zip
 mame2010_libretro.so.zip
-dosbox_pure_libretro.so.zip
 nestopia_libretro.so.zip
 picodrive_libretro.so.zip
 vice_x128_libretro.so.zip
@@ -144,3 +143,4 @@ quasi88_libretro.so.zip
 sameboy_libretro.so.zip
 gambatte_libretro.so.zip
 sameduck_libretro.so.zip
+dosbox_pure_libretro.so.zip
