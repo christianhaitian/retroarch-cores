@@ -115,8 +115,6 @@ mednafen_wswan_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 fake08_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
-genesis_plus_gx_wide_libretro.so.zip
 o2em_libretro.so.zip
 snes9x2005_libretro.so.zip
 snes9x_libretro.so.zip
@@ -144,3 +142,5 @@ sameboy_libretro.so.zip
 gambatte_libretro.so.zip
 sameduck_libretro.so.zip
 dosbox_pure_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
+genesis_plus_gx_wide_libretro.so.zip
