@@ -116,8 +116,6 @@
 2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-10-21 16ce97b4 fake08_libretro.so.zip
-2023-10-21 1300aec2 genesis_plus_gx_libretro.so.zip
-2023-10-21 f80dfa9a genesis_plus_gx_wide_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
 2023-10-21 c3160b5d snes9x_libretro.so.zip
@@ -145,3 +143,5 @@
 2023-11-29 345b494e gambatte_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
 2023-12-06 9e5ae829 dosbox_pure_libretro.so.zip
+2023-12-09 e924df12 genesis_plus_gx_libretro.so.zip
+2023-12-09 744d7f93 genesis_plus_gx_wide_libretro.so.zip
