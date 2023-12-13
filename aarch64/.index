@@ -139,9 +139,9 @@ mednafen_pce_fast_libretro.so.zip
 neocd_libretro.so.zip
 quasi88_libretro.so.zip
 sameboy_libretro.so.zip
-gambatte_libretro.so.zip
 sameduck_libretro.so.zip
 dosbox_pure_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 ep128emu_core_libretro.so.zip
+gambatte_libretro.so.zip
