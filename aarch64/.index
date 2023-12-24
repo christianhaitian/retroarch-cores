@@ -10,7 +10,6 @@ mrboom_libretro.so.zip
 spring_ppsspp_standalone_libretro.so.zip
 fbalpha2012_cps3_libretro.so.zip
 snes9x2005_plus_libretro.so.zip
-mu_libretro.so.zip
 spring_pcsx_rearmed32_libretro.so.zip
 snes9x2002_libretro.so.zip
 craft_libretro.so.zip
@@ -89,7 +88,6 @@ race_libretro.so.zip
 gearcoleco_libretro.so.zip
 ppsspp_libretro.so.zip
 onscripter_libretro.so.zip
-cap32_libretro.so.zip
 desmume2015_libretro.so.zip
 fuse_libretro.so.zip
 hatari_libretro.so.zip
@@ -140,8 +138,10 @@ neocd_libretro.so.zip
 quasi88_libretro.so.zip
 sameboy_libretro.so.zip
 sameduck_libretro.so.zip
-dosbox_pure_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 ep128emu_core_libretro.so.zip
 gambatte_libretro.so.zip
+cap32_libretro.so.zip
+dosbox_pure_libretro.so.zip
+mu_libretro.so.zip
