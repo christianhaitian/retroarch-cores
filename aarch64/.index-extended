@@ -12,7 +12,6 @@
 2021-01-26 104d29e1 fbalpha2012_cps3_libretro.so.zip
 2021-01-26 2ad39f70 np2kai_libretro.so.zip
 2021-01-26 30fe60a0 snes9x2005_plus_libretro.so.zip
-2021-01-26 fda75f8b mu_libretro.so.zip
 2021-01-26 c666ed25 spring_pcsx_rearmed32_libretro.so.zip
 2021-01-26 26cf49bf snes9x2002_libretro.so.zip
 2021-01-26 2edb738d craft_libretro.so.zip
@@ -89,7 +88,6 @@
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
-2023-07-31 b0e14fba cap32_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 b0e7e901 fuse_libretro.so.zip
 2023-07-31 4e3d55eb hatari_libretro.so.zip
@@ -141,8 +139,10 @@
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
 2023-11-20 4ca2d9db sameboy_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
-2023-12-06 9e5ae829 dosbox_pure_libretro.so.zip
 2023-12-09 e924df12 genesis_plus_gx_libretro.so.zip
 2023-12-09 744d7f93 genesis_plus_gx_wide_libretro.so.zip
 2023-12-11 1c774f8b ep128emu_core_libretro.so.zip
 2023-12-13 c76a88e9 gambatte_libretro.so.zip
+2023-12-24 e39317c7 cap32_libretro.so.zip
+2023-12-24 a7cec423 dosbox_pure_libretro.so.zip
+2023-12-24 0b7987fb mu_libretro.so.zip
