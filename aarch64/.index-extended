@@ -54,7 +54,6 @@
 2022-11-03 802b6a5e stella_libretro.so.zip
 2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
-2022-12-03 cee57c5f opera_libretro.so.zip
 2022-12-03 4ffb87c3 px68k_libretro.so.zip
 2022-12-03 aa5b7370 quicknes_libretro.so.zip
 2022-12-03 63caa64f uae4arm_libretro.so.zip
@@ -143,6 +142,7 @@
 2023-12-09 744d7f93 genesis_plus_gx_wide_libretro.so.zip
 2023-12-11 1c774f8b ep128emu_core_libretro.so.zip
 2023-12-13 c76a88e9 gambatte_libretro.so.zip
-2023-12-24 e39317c7 cap32_libretro.so.zip
-2023-12-24 a7cec423 dosbox_pure_libretro.so.zip
 2023-12-24 0b7987fb mu_libretro.so.zip
+2023-12-27 e39317c7 cap32_libretro.so.zip
+2023-12-27 d821d0fa dosbox_pure_libretro.so.zip
+2023-12-27 34e290db opera_libretro.so.zip
