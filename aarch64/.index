@@ -52,7 +52,6 @@ mednafen_vb_libretro.so.zip
 stella_libretro.so.zip
 stella2014_libretro.so.zip
 yabause_libretro.so.zip
-opera_libretro.so.zip
 px68k_libretro.so.zip
 quicknes_libretro.so.zip
 uae4arm_libretro.so.zip
@@ -142,6 +141,7 @@ genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 ep128emu_core_libretro.so.zip
 gambatte_libretro.so.zip
+mu_libretro.so.zip
 cap32_libretro.so.zip
 dosbox_pure_libretro.so.zip
-mu_libretro.so.zip
+opera_libretro.so.zip
