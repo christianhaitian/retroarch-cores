@@ -47,7 +47,6 @@
 2022-08-27 c63140a2 gw_libretro.so.zip
 2022-08-27 2942a33e mame2000_libretro.so.zip
 2022-08-27 6ee104c4 tic80_libretro.so.zip
-2022-09-04 faf555d4 yabasanshiro_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 748f4010 freechaf_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
@@ -65,7 +64,6 @@
 2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
 2023-01-30 ed0094ed mgba_libretro.so.zip
 2023-01-30 33f3df72 mgba_rumble_libretro.so.zip
-2023-03-06 458a6f8c scummvm_libretro.so.zip
 2023-03-29 4cbbe98d vecx_libretro.so.zip
 2023-04-01 f498b45f 81_libretro.so.zip
 2023-04-01 00782ee3 nekop2_libretro.so.zip
@@ -146,3 +144,5 @@
 2023-12-27 e39317c7 cap32_libretro.so.zip
 2023-12-27 d821d0fa dosbox_pure_libretro.so.zip
 2023-12-27 34e290db opera_libretro.so.zip
+2023-12-29 3b119093 scummvm_libretro.so.zip
+2023-12-29 3363586d yabasanshiro_libretro.so.zip

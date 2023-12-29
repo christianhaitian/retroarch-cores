@@ -46,7 +46,6 @@ crocods_libretro.so.zip
 gw_libretro.so.zip
 mame2000_libretro.so.zip
 tic80_libretro.so.zip
-yabasanshiro_libretro.so.zip
 vemulator_libretro.so.zip
 freechaf_libretro.so.zip
 mednafen_vb_libretro.so.zip
@@ -64,7 +63,6 @@ melonds_libretro.so.zip
 mednafen_pcfx_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
-scummvm_libretro.so.zip
 vecx_libretro.so.zip
 81_libretro.so.zip
 nekop2_libretro.so.zip
@@ -145,3 +143,5 @@ mu_libretro.so.zip
 cap32_libretro.so.zip
 dosbox_pure_libretro.so.zip
 opera_libretro.so.zip
+scummvm_libretro.so.zip
+yabasanshiro_libretro.so.zip
