@@ -79,7 +79,6 @@ a5200_libretro.so.zip
 fmsx_libretro.so.zip
 freeintv_libretro.so.zip
 prosystem_libretro.so.zip
-puae_libretro.so.zip
 same_cdi_libretro.so.zip
 race_libretro.so.zip
 gearcoleco_libretro.so.zip
@@ -100,7 +99,6 @@ wasm4_libretro.so.zip
 theodore_libretro.so.zip
 atari800_libretro.so.zip
 swanstation_libretro.so.zip
-gpsp_libretro.so.zip
 fceumm_libretro.so.zip
 handy_libretro.so.zip
 mednafen_lynx_libretro.so.zip
@@ -142,6 +140,8 @@ gambatte_libretro.so.zip
 mu_libretro.so.zip
 cap32_libretro.so.zip
 dosbox_pure_libretro.so.zip
-opera_libretro.so.zip
 scummvm_libretro.so.zip
 yabasanshiro_libretro.so.zip
+gpsp_libretro.so.zip
+opera_libretro.so.zip
+puae_libretro.so.zip
