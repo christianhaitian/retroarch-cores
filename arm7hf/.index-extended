@@ -12,9 +12,7 @@
 2021-09-09 d8a3b11a genesis_plus_gx_wide_libretro.so.zip
 2022-01-06 6ba0a12a snes9x2005_libretro.so.zip
 2022-02-05 e25b24a1 picodrive_libretro.so.zip
-2022-07-06 86150466 gpsp_libretro.so.zip
 2022-07-06 91cd4f57 handy_libretro.so.zip
-2022-07-06 168211dc uae4arm_libretro.so.zip
 2022-07-06 8409458e vice_x128_libretro.so.zip
 2022-07-06 de0f614f vice_x64_libretro.so.zip
 2022-07-06 c185286d vice_x64sc_libretro.so.zip
@@ -38,3 +36,5 @@
 2023-11-17 27d3cb90 pcsx_rearmed_peops_libretro.so.zip
 2023-11-17 a6fc4f71 pcsx_rearmed_rumble_libretro.so.zip
 2023-11-17 a64ffbb3 pcsx_rearmed_rumble_peops_libretro.so.zip
+2024-01-21 2f46a40d gpsp_libretro.so.zip
+2024-01-21 fc78c698 uae4arm_libretro.so.zip
