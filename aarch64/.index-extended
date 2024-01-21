@@ -80,7 +80,6 @@
 2023-05-21 dd0b3aa5 fmsx_libretro.so.zip
 2023-05-21 584db782 freeintv_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
-2023-05-21 1c302f00 puae_libretro.so.zip
 2023-05-21 a6147209 same_cdi_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-06-07 b9508dca gearcoleco_libretro.so.zip
@@ -101,7 +100,6 @@
 2023-09-27 87273018 ppsspp_libretro.so.zip
 2023-10-01 282d51d7 atari800_libretro.so.zip
 2023-10-06 ee53c7a3 swanstation_libretro.so.zip
-2023-10-08 97245c42 gpsp_libretro.so.zip
 2023-10-14 19c9dae1 fceumm_libretro.so.zip
 2023-10-14 078cb532 handy_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
@@ -143,6 +141,8 @@
 2023-12-24 0b7987fb mu_libretro.so.zip
 2023-12-27 e39317c7 cap32_libretro.so.zip
 2023-12-27 d821d0fa dosbox_pure_libretro.so.zip
-2023-12-27 34e290db opera_libretro.so.zip
 2023-12-29 3b119093 scummvm_libretro.so.zip
 2023-12-29 3363586d yabasanshiro_libretro.so.zip
+2024-01-21 c36cd2c8 gpsp_libretro.so.zip
+2024-01-21 99d4c649 opera_libretro.so.zip
+2024-01-21 4198ef4d puae_libretro.so.zip
