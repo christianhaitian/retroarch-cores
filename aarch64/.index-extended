@@ -90,7 +90,6 @@
 2023-07-31 35653a4f hatari_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
 2023-08-02 a239dad6 mame2003_libretro.so.zip
-2023-08-02 2821aa06 mame2003_plus_libretro.so.zip
 2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
 2023-08-02 e419932b puae2021_libretro.so.zip
@@ -100,7 +99,6 @@
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-10-01 282d51d7 atari800_libretro.so.zip
 2023-10-06 8d8454ec swanstation_libretro.so.zip
-2023-10-14 19c9dae1 fceumm_libretro.so.zip
 2023-10-14 078cb532 handy_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
@@ -112,10 +110,8 @@
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
 2023-10-21 c3160b5d snes9x_libretro.so.zip
-2023-10-23 be1198e3 fbneo_libretro.so.zip
 2023-10-23 64824828 mame2010_libretro.so.zip
 2023-10-27 e34302b6 nestopia_libretro.so.zip
-2023-10-27 6fb9effd picodrive_libretro.so.zip
 2023-10-27 8372b91b vice_x128_libretro.so.zip
 2023-10-27 d9fe20e8 vice_x64_libretro.so.zip
 2023-10-27 acd4c060 vice_x64sc_libretro.so.zip
@@ -126,18 +122,14 @@
 2023-10-27 a21bda8f vice_xscpu64_libretro.so.zip
 2023-10-27 233f08e6 vice_xvic_libretro.so.zip
 2023-10-29 6e0cfec3 mess_libretro.so.zip
-2023-11-17 cdde7837 pcsx_rearmed_libretro.so.zip
-2023-11-17 bf07fba6 pcsx_rearmed_rumble_libretro.so.zip
 2023-11-20 4f2117ce bluemsx_libretro.so.zip
 2023-11-20 490520c3 mednafen_pce_fast_libretro.so.zip
 2023-11-20 c0c82759 neocd_libretro.so.zip
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
 2023-11-20 d5f51fec sameboy_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
-2023-12-09 e924df12 genesis_plus_gx_libretro.so.zip
 2023-12-09 744d7f93 genesis_plus_gx_wide_libretro.so.zip
 2023-12-10 1c774f8b ep128emu_core_libretro.so.zip
-2023-12-13 c76a88e9 gambatte_libretro.so.zip
 2023-12-24 0b7987fb mu_libretro.so.zip
 2023-12-27 e39317c7 cap32_libretro.so.zip
 2023-12-27 62dd98e3 dosbox_pure_libretro.so.zip
@@ -146,3 +138,11 @@
 2024-01-21 c36cd2c8 gpsp_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 e2e1546d puae_libretro.so.zip
+2024-01-28 e754fc35 fbneo_libretro.so.zip
+2024-01-28 40471eca fceumm_libretro.so.zip
+2024-01-28 1fbc1649 gambatte_libretro.so.zip
+2024-01-28 f0883f43 genesis_plus_gx_libretro.so.zip
+2024-01-28 1f94bbb8 mame2003_plus_libretro.so.zip
+2024-01-28 05c7c126 pcsx_rearmed_libretro.so.zip
+2024-01-28 026a3d00 pcsx_rearmed_rumble_libretro.so.zip
+2024-01-28 54d543cb picodrive_libretro.so.zip
