@@ -32,9 +32,9 @@
 2023-01-15 cbf40ca8 coolcv_libretro.so.zip
 2023-11-03 ad3420cb mednafen_pce_fast_libretro.so.zip
 2023-11-03 9ea93350 neocd_libretro.so.zip
-2023-11-17 328b62af pcsx_rearmed_libretro.so.zip
-2023-11-17 27d3cb90 pcsx_rearmed_peops_libretro.so.zip
-2023-11-17 a6fc4f71 pcsx_rearmed_rumble_libretro.so.zip
-2023-11-17 a64ffbb3 pcsx_rearmed_rumble_peops_libretro.so.zip
 2024-01-21 2f46a40d gpsp_libretro.so.zip
 2024-01-21 fc78c698 uae4arm_libretro.so.zip
+2024-01-28 4b0c004d pcsx_rearmed_libretro.so.zip
+2024-01-28 6c871c70 pcsx_rearmed_peops_libretro.so.zip
+2024-01-28 f66216d8 pcsx_rearmed_rumble_libretro.so.zip
+2024-01-28 2f1c1665 pcsx_rearmed_rumble_peops_libretro.so.zip
