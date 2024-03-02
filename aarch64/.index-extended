@@ -123,7 +123,6 @@
 2023-12-24 0b7987fb mu_libretro.so.zip
 2023-12-27 e39317c7 cap32_libretro.so.zip
 2023-12-27 d821d0fa dosbox_pure_libretro.so.zip
-2023-12-29 3b119093 scummvm_libretro.so.zip
 2023-12-29 3363586d yabasanshiro_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 4198ef4d puae_libretro.so.zip
@@ -148,3 +147,4 @@
 2024-02-19 59440980 quicknes_libretro.so.zip
 2024-02-27 550f227f geolith_libretro.so.zip
 2024-02-27 3fc77067 DoubleCherryGB_libretro.so.zip
+2024-03-02 9a4e061f scummvm_libretro.so.zip

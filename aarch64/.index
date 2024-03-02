@@ -122,7 +122,6 @@ ep128emu_core_libretro.so.zip
 mu_libretro.so.zip
 cap32_libretro.so.zip
 dosbox_pure_libretro.so.zip
-scummvm_libretro.so.zip
 yabasanshiro_libretro.so.zip
 opera_libretro.so.zip
 puae_libretro.so.zip
@@ -147,3 +146,4 @@ px68k_libretro.so.zip
 quicknes_libretro.so.zip
 geolith_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
+scummvm_libretro.so.zip
