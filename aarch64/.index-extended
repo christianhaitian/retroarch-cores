@@ -97,7 +97,6 @@
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
 2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
 2023-10-14 acee493b mednafen_wswan_libretro.so.zip
-2023-10-14 7d7f27a4 mupen64plus_next_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
@@ -149,3 +148,4 @@
 2024-02-27 3fc77067 DoubleCherryGB_libretro.so.zip
 2024-03-02 9a4e061f scummvm_libretro.so.zip
 2024-03-29 9088f27c applewin_libretro.so.zip
+2024-04-05 8525426b mupen64plus_next_libretro.so.zip

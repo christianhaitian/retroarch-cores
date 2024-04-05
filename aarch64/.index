@@ -96,7 +96,6 @@ mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 mednafen_supergrafx_libretro.so.zip
 mednafen_wswan_libretro.so.zip
-mupen64plus_next_libretro.so.zip
 parallel_n64_libretro.so.zip
 o2em_libretro.so.zip
 snes9x2005_libretro.so.zip
@@ -148,3 +147,4 @@ geolith_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
 scummvm_libretro.so.zip
 applewin_libretro.so.zip
+mupen64plus_next_libretro.so.zip
