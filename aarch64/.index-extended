@@ -70,8 +70,6 @@
 2023-04-01 6d7c4195 x1_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-05-05 ef834af5 easyrpg_libretro.so.zip
-2023-05-09 f29f7159 flycast_libretro.so.zip
-2023-05-09 090cd37e flycast_rumble_libretro.so.zip
 2023-05-21 cebef4cf a5200_libretro.so.zip
 2023-05-21 584db782 freeintv_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
@@ -149,3 +147,5 @@
 2024-03-02 63673ff5 scummvm_libretro.so.zip
 2024-03-29 fb19c36c applewin_libretro.so.zip
 2024-04-05 509cac80 mupen64plus_next_libretro.so.zip
+2024-05-06 37bb9934 flycast_libretro.so.zip
+2024-05-06 5a5c6b9f flycast_rumble_libretro.so.zip
