@@ -69,8 +69,6 @@ vba_next_libretro.so.zip
 x1_libretro.so.zip
 pokemini_libretro.so.zip
 easyrpg_libretro.so.zip
-flycast_libretro.so.zip
-flycast_rumble_libretro.so.zip
 a5200_libretro.so.zip
 freeintv_libretro.so.zip
 prosystem_libretro.so.zip
@@ -148,3 +146,5 @@ DoubleCherryGB_libretro.so.zip
 scummvm_libretro.so.zip
 applewin_libretro.so.zip
 mupen64plus_next_libretro.so.zip
+flycast_libretro.so.zip
+flycast_rumble_libretro.so.zip
