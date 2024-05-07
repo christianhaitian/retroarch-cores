@@ -14,7 +14,6 @@ snes9x2002_libretro.so
 snes9x2005_libretro.so
 handy_libretro.so
 genesis_plus_gx_wide_libretro.so.zip
-flycast_libretro.so.zip
 handy_libretro.so.zip
 snes9x2005_libretro.so.zip
 yabasanshiro_libretro.so.zip
@@ -29,7 +28,6 @@ vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 parallel_n64_libretro.so.zip
-flycast32_rumble_libretro.so.zip
 yabause_libretro.so.zip
 coolcv_libretro.so.zip
 neocd_libretro.so.zip
@@ -40,3 +38,5 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_peops_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 pcsx_rearmed_rumble_peops_libretro.so.zip
+flycast32_rumble_libretro.so.zip
+flycast_libretro.so.zip
