@@ -82,7 +82,6 @@ numero_libretro.so.zip
 prboom_libretro.so.zip
 wasm4_libretro.so.zip
 theodore_libretro.so.zip
-swanstation_libretro.so.zip
 handy_libretro.so.zip
 mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
@@ -148,3 +147,4 @@ vice_xpet_libretro.so.zip
 vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
+swanstation_libretro.so.zip
