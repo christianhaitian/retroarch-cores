@@ -83,7 +83,6 @@
 2023-09-20 e06a47a2 wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-09-27 87273018 ppsspp_libretro.so.zip
-2023-10-06 ee53c7a3 swanstation_libretro.so.zip
 2023-10-14 078cb532 handy_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
@@ -149,3 +148,4 @@
 2024-05-23 46ecc329 vice_xplus4_libretro.so.zip
 2024-05-23 bdd9940a vice_xscpu64_libretro.so.zip
 2024-05-23 47fef3c5 vice_xvic_libretro.so.zip
+2024-06-07 cffa293a swanstation_libretro.so.zip
