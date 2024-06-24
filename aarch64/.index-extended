@@ -106,8 +106,6 @@
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 4198ef4d puae_libretro.so.zip
 2024-01-28 1fbc1649 gambatte_libretro.so.zip
-2024-01-28 fe169cdf pcsx_rearmed_libretro.so.zip
-2024-01-28 e73df6fe pcsx_rearmed_rumble_libretro.so.zip
 2024-01-28 54d543cb picodrive_libretro.so.zip
 2024-02-19 5265b208 fake08_libretro.so.zip
 2024-02-19 5c6ac2af fceumm_libretro.so.zip
@@ -150,3 +148,5 @@
 2024-06-24 f799db3c mame2003_plus_libretro.so.zip
 2024-06-24 8ba57774 neocd_libretro.so.zip
 2024-06-24 9b05a13c nestopia_libretro.so.zip
+2024-06-24 1a870278 pcsx_rearmed_libretro.so.zip
+2024-06-24 3eea68f1 pcsx_rearmed_rumble_libretro.so.zip
