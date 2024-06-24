@@ -45,11 +45,9 @@
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
 2022-08-26 c63140a2 gw_libretro.so.zip
 2022-08-26 97e15d98 tic80_libretro.so.zip
-2022-08-26 9ed9cf8f mame2000_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-09-17 60015a6d mednafen_vb_libretro.so.zip
 2022-11-03 802b6a5e stella_libretro.so.zip
-2022-11-03 56373b19 stella2014_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2022-12-03 65156fbb uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
@@ -62,7 +60,6 @@
 2023-04-01 00782ee3 nekop2_libretro.so.zip
 2023-04-01 2a32b2b8 potator_libretro.so.zip
 2023-04-01 607bb5e6 vbam_libretro.so.zip
-2023-04-01 b9814681 vba_next_libretro.so.zip
 2023-04-01 6d7c4195 x1_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-05-05 ef834af5 easyrpg_libretro.so.zip
@@ -75,7 +72,6 @@
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 b0e7e901 fuse_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
-2023-08-02 a239dad6 mame2003_libretro.so.zip
 2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
 2023-08-02 e419932b puae2021_libretro.so.zip
@@ -83,7 +79,6 @@
 2023-08-31 563e3707 prboom_libretro.so.zip
 2023-09-20 c733222b wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
-2023-10-14 078cb532 handy_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
 2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
@@ -91,17 +86,12 @@
 2023-10-20 9023a4fe parallel_n64_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
-2023-10-21 c3160b5d snes9x_libretro.so.zip
 2023-10-23 64824828 mame2010_libretro.so.zip
 2023-10-29 6e0cfec3 mess_libretro.so.zip
-2023-11-20 4f2117ce bluemsx_libretro.so.zip
 2023-11-20 490520c3 mednafen_pce_fast_libretro.so.zip
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
 2023-11-20 d5f51fec sameboy_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
-2023-12-10 1c774f8b ep128emu_core_libretro.so.zip
-2023-12-24 0b7987fb mu_libretro.so.zip
-2023-12-27 e39317c7 cap32_libretro.so.zip
 2023-12-28 9df5cc5e yabasanshiro_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 e2e1546d puae_libretro.so.zip
@@ -150,3 +140,13 @@
 2024-06-24 9b05a13c nestopia_libretro.so.zip
 2024-06-24 a8ed0f99 pcsx_rearmed_libretro.so.zip
 2024-06-24 e026c744 pcsx_rearmed_rumble_libretro.so.zip
+2024-06-24 4f6597ed bluemsx_libretro.so.zip
+2024-06-24 3235e500 cap32_libretro.so.zip
+2024-06-24 2775b91b ep128emu_core_libretro.so.zip
+2024-06-24 3db21241 handy_libretro.so.zip
+2024-06-24 1789b225 mame2000_libretro.so.zip
+2024-06-24 01c3bffc mame2003_libretro.so.zip
+2024-06-24 578d8dea mu_libretro.so.zip
+2024-06-24 ed7f79e6 snes9x_libretro.so.zip
+2024-06-24 74bc53fe stella2014_libretro.so.zip
+2024-06-24 5658eb82 vba_next_libretro.so.zip
