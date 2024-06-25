@@ -74,11 +74,8 @@
 2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-08-02 db9492fd puae2021_libretro.so.zip
-2023-08-11 be235b42 numero_libretro.so.zip
-2023-08-31 563e3707 prboom_libretro.so.zip
 2023-09-20 e06a47a2 wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
-2023-09-27 87273018 ppsspp_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
 2023-10-14 7e82156a mednafen_supergrafx_libretro.so.zip
@@ -86,7 +83,6 @@
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
 2023-10-21 2cd17ec1 snes9x2005_libretro.so.zip
-2023-10-24 ea17c574 mame2010_libretro.so.zip
 2023-10-29 6e0cfec3 mess_libretro.so.zip
 2023-11-20 490520c3 mednafen_pce_fast_libretro.so.zip
 2023-11-20 b4e7bbe6 quasi88_libretro.so.zip
@@ -150,3 +146,7 @@
 2024-06-24 ed7f79e6 snes9x_libretro.so.zip
 2024-06-24 74bc53fe stella2014_libretro.so.zip
 2024-06-24 5658eb82 vba_next_libretro.so.zip
+2024-06-25 605ddb86 mame2010_libretro.so.zip
+2024-06-25 59231f34 numero_libretro.so.zip
+2024-06-25 2c00ae22 ppsspp_libretro.so.zip
+2024-06-25 ca4e1437 prboom_libretro.so.zip
