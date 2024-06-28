@@ -46,7 +46,6 @@ gw_libretro.so.zip
 tic80_libretro.so.zip
 vemulator_libretro.so.zip
 mednafen_vb_libretro.so.zip
-stella_libretro.so.zip
 yabause_libretro.so.zip
 uae4arm_libretro.so.zip
 uzem_libretro.so.zip
@@ -149,3 +148,4 @@ mame2010_libretro.so.zip
 numero_libretro.so.zip
 ppsspp_libretro.so.zip
 prboom_libretro.so.zip
+stella_libretro.so.zip
