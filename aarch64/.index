@@ -69,7 +69,6 @@ onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
 fuse_libretro.so.zip
 tgbdual_libretro.so.zip
-mame_libretro.so.zip
 mesen_libretro.so.zip
 puae2021_libretro.so.zip
 wasm4_libretro.so.zip
@@ -149,3 +148,4 @@ numero_libretro.so.zip
 ppsspp_libretro.so.zip
 prboom_libretro.so.zip
 stella_libretro.so.zip
+mame_libretro.so.zip

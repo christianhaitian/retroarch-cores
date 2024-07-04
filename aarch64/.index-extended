@@ -70,7 +70,6 @@
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 b0e7e901 fuse_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
-2023-08-02 265502e4 mame_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
 2023-08-02 e419932b puae2021_libretro.so.zip
 2023-09-20 c733222b wasm4_libretro.so.zip
@@ -150,3 +149,4 @@
 2024-06-25 f941bab7 ppsspp_libretro.so.zip
 2024-06-25 ca4e1437 prboom_libretro.so.zip
 2024-07-03 1eb2ab29 stella_libretro.so.zip
+2024-07-04 ab5d9ddf mame_libretro.so.zip
