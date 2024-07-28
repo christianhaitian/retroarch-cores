@@ -98,7 +98,6 @@ gearcoleco_libretro.so.zip
 gearsystem_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
-gpsp_libretro.so.zip
 hatari_libretro.so.zip
 px68k_libretro.so.zip
 quicknes_libretro.so.zip
@@ -151,3 +150,4 @@ stella_libretro.so.zip
 mame_libretro.so.zip
 km_fbneo_xtreme_amped_libretro.so.zip
 chimerasnes_libretro.so.zip
+gpsp_libretro.so.zip
