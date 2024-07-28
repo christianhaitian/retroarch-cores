@@ -99,7 +99,6 @@
 2024-02-19 624537fe gearsystem_libretro.so.zip
 2024-02-19 b949fcf0 genesis_plus_gx_libretro.so.zip
 2024-02-19 aac8f5bf genesis_plus_gx_wide_libretro.so.zip
-2024-02-19 3c0dfeeb gpsp_libretro.so.zip
 2024-02-19 7f0fe5ef hatari_libretro.so.zip
 2024-02-19 01252394 px68k_libretro.so.zip
 2024-02-19 59440980 quicknes_libretro.so.zip
@@ -152,3 +151,4 @@
 2024-07-03 1eb2ab29 stella_libretro.so.zip
 2024-07-05 60de4ab5 km_fbneo_xtreme_amped_libretro.so.zip
 2024-07-26 fd138442 chimerasnes_libretro.so.zip
+2024-07-28 981cfca6 gpsp_libretro.so.zip
