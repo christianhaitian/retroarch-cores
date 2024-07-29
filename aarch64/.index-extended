@@ -113,8 +113,6 @@
 2024-05-23 160a7d34 arduous_libretro.so.zip
 2024-05-23 f6563ae1 atari800_libretro.so.zip
 2024-05-23 b6aff211 dosbox_pure_libretro.so.zip
-2024-05-23 f8057b23 mgba_libretro.so.zip
-2024-05-23 98b7fc6c mgba_rumble_libretro.so.zip
 2024-05-23 42431251 np2kai_libretro.so.zip
 2024-05-23 c257c8f1 vice_x128_libretro.so.zip
 2024-05-23 c4fa469c vice_x64_libretro.so.zip
@@ -152,3 +150,5 @@
 2024-07-05 60de4ab5 km_fbneo_xtreme_amped_libretro.so.zip
 2024-07-26 fd138442 chimerasnes_libretro.so.zip
 2024-07-28 981cfca6 gpsp_libretro.so.zip
+2024-07-29 f8057b23 mgba_libretro.so.zip
+2024-07-29 cc84dd6a mgba_rumble_libretro.so.zip
