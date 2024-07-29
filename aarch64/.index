@@ -112,8 +112,6 @@ a5200_libretro.so.zip
 arduous_libretro.so.zip
 atari800_libretro.so.zip
 dosbox_pure_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 np2kai_libretro.so.zip
 vice_x128_libretro.so.zip
 vice_x64_libretro.so.zip
@@ -151,3 +149,5 @@ stella_libretro.so.zip
 km_fbneo_xtreme_amped_libretro.so.zip
 chimerasnes_libretro.so.zip
 gpsp_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
