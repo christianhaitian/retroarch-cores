@@ -125,7 +125,6 @@
 2024-05-23 16844785 vice_xvic_libretro.so.zip
 2024-06-07 a9277de5 swanstation_libretro.so.zip
 2024-06-14 0ecb707e ardens_libretro.so.zip
-2024-06-24 b4d70ae9 fbneo_libretro.so.zip
 2024-06-24 f799db3c mame2003_plus_libretro.so.zip
 2024-06-24 8ba57774 neocd_libretro.so.zip
 2024-06-24 9b05a13c nestopia_libretro.so.zip
@@ -152,3 +151,4 @@
 2024-07-28 981cfca6 gpsp_libretro.so.zip
 2024-07-29 f8057b23 mgba_libretro.so.zip
 2024-07-29 cc84dd6a mgba_rumble_libretro.so.zip
+2024-08-07 00d923ed fbneo_libretro.so.zip
