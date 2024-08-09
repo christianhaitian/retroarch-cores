@@ -89,14 +89,12 @@ yabasanshiro_libretro.so.zip
 opera_libretro.so.zip
 puae_libretro.so.zip
 gambatte_libretro.so.zip
-picodrive_libretro.so.zip
 fake08_libretro.so.zip
 fceumm_libretro.so.zip
 fmsx_libretro.so.zip
 freechaf_libretro.so.zip
 gearcoleco_libretro.so.zip
 gearsystem_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 hatari_libretro.so.zip
 quicknes_libretro.so.zip
@@ -151,3 +149,6 @@ mgba_rumble_libretro.so.zip
 fbneo_libretro.so.zip
 bluemsx_libretro.so.zip
 px68k_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
+picodrive_libretro.so.zip
+smsplus_libretro.so.zip
