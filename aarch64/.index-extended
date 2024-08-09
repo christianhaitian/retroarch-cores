@@ -90,14 +90,12 @@
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 4198ef4d puae_libretro.so.zip
 2024-01-28 1fbc1649 gambatte_libretro.so.zip
-2024-01-28 54d543cb picodrive_libretro.so.zip
 2024-02-19 5265b208 fake08_libretro.so.zip
 2024-02-19 5c6ac2af fceumm_libretro.so.zip
 2024-02-19 7832bff0 fmsx_libretro.so.zip
 2024-02-19 54cdc9f8 freechaf_libretro.so.zip
 2024-02-19 d4c0cfba gearcoleco_libretro.so.zip
 2024-02-19 624537fe gearsystem_libretro.so.zip
-2024-02-19 b949fcf0 genesis_plus_gx_libretro.so.zip
 2024-02-19 aac8f5bf genesis_plus_gx_wide_libretro.so.zip
 2024-02-19 7f0fe5ef hatari_libretro.so.zip
 2024-02-19 59440980 quicknes_libretro.so.zip
@@ -152,3 +150,6 @@
 2024-08-07 00d923ed fbneo_libretro.so.zip
 2024-08-09 8bd405df bluemsx_libretro.so.zip
 2024-08-09 c1d88404 px68k_libretro.so.zip
+2024-08-09 6a39bb06 genesis_plus_gx_libretro.so.zip
+2024-08-09 a449bb6a picodrive_libretro.so.zip
+2024-08-09 bc3456c3 smsplus_libretro.so.zip
