@@ -123,8 +123,6 @@
 2024-06-07 a9277de5 swanstation_libretro.so.zip
 2024-06-14 0ecb707e ardens_libretro.so.zip
 2024-06-24 8ba57774 neocd_libretro.so.zip
-2024-06-24 a8ed0f99 pcsx_rearmed_libretro.so.zip
-2024-06-24 e026c744 pcsx_rearmed_rumble_libretro.so.zip
 2024-06-24 3235e500 cap32_libretro.so.zip
 2024-06-24 2775b91b ep128emu_core_libretro.so.zip
 2024-06-24 3db21241 handy_libretro.so.zip
@@ -154,5 +152,7 @@
 2024-08-17 5fa39c27 emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
 2024-08-18 a549cbb3 fbneo_libretro.so.zip
-2024-08-25 01e30fb7 mame2003_plus_libretro.so.zip
 2024-08-25 07af6213 nestopia_libretro.so.zip
+2024-09-03 7dd5ee77 mame2003_plus_libretro.so.zip
+2024-09-03 6ed5223e pcsx_rearmed_libretro.so.zip
+2024-09-03 8485292a pcsx_rearmed_rumble_libretro.so.zip
