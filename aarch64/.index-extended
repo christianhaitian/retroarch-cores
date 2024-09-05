@@ -109,7 +109,6 @@
 2024-05-23 cdaf6697 a5200_libretro.so.zip
 2024-05-23 92946512 arduous_libretro.so.zip
 2024-05-23 f6563ae1 atari800_libretro.so.zip
-2024-05-23 ab53d87b dosbox_pure_libretro.so.zip
 2024-05-23 42431251 np2kai_libretro.so.zip
 2024-05-23 59487f7b vice_x128_libretro.so.zip
 2024-05-23 8cafd17f vice_x64_libretro.so.zip
@@ -158,3 +157,4 @@
 2024-09-03 a4a53822 pcsx_rearmed_rumble_libretro.so.zip
 2024-09-03 fa547d96 vircon32_libretro.so.zip
 2024-09-05 296afd82 puzzlescript_libretro.so.zip
+2024-09-05 c8977c16 dosbox_pure_libretro.so.zip
