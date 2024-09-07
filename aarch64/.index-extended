@@ -39,7 +39,6 @@
 2021-02-28 9f3bc429 lutro_libretro.so.zip
 2021-02-28 782b64dd mame2015_libretro.so.zip
 2021-05-16 e629bf30 mupen64plus_libretro.so.zip
-2021-06-19 8c1d835c ecwolf_libretro.so.zip
 2021-09-09 e8e5e15d mess2015_libretro.so.zip
 2021-09-19 f711f094 duckstation_libretro.so.zip
 2022-08-26 97e0f3e2 crocods_libretro.so.zip
@@ -157,3 +156,4 @@
 2024-09-03 8485292a pcsx_rearmed_rumble_libretro.so.zip
 2024-09-05 6b0d09ac puzzlescript_libretro.so.zip
 2024-09-05 0f5c5858 dosbox_pure_libretro.so.zip
+2024-09-07 acaa0205 ecwolf_libretro.so.zip

@@ -38,7 +38,6 @@ imageviewer_libretro.so.zip
 lutro_libretro.so.zip
 mame2015_libretro.so.zip
 mupen64plus_libretro.so.zip
-ecwolf_libretro.so.zip
 mess2015_libretro.so.zip
 duckstation_libretro.so.zip
 crocods_libretro.so.zip
@@ -156,3 +155,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 puzzlescript_libretro.so.zip
 dosbox_pure_libretro.so.zip
+ecwolf_libretro.so.zip
