@@ -60,13 +60,11 @@ vbam_libretro.so.zip
 x1_libretro.so.zip
 pokemini_libretro.so.zip
 easyrpg_libretro.so.zip
-freeintv_libretro.so.zip
 prosystem_libretro.so.zip
 same_cdi_libretro.so.zip
 race_libretro.so.zip
 onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
-fuse_libretro.so.zip
 tgbdual_libretro.so.zip
 mesen_libretro.so.zip
 puae2021_libretro.so.zip
@@ -87,11 +85,6 @@ sameduck_libretro.so.zip
 yabasanshiro_libretro.so.zip
 opera_libretro.so.zip
 puae_libretro.so.zip
-gambatte_libretro.so.zip
-fake08_libretro.so.zip
-fceumm_libretro.so.zip
-fmsx_libretro.so.zip
-freechaf_libretro.so.zip
 gearcoleco_libretro.so.zip
 gearsystem_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
@@ -99,7 +92,6 @@ hatari_libretro.so.zip
 quicknes_libretro.so.zip
 geolith_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
-scummvm_libretro.so.zip
 applewin_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 flycast_libretro.so.zip
@@ -157,3 +149,11 @@ puzzlescript_libretro.so.zip
 dosbox_pure_libretro.so.zip
 ecwolf_libretro.so.zip
 vircon32_libretro.so.zip
+fake08_libretro.so.zip
+fceumm_libretro.so.zip
+fmsx_libretro.so.zip
+freechaf_libretro.so.zip
+freeintv_libretro.so.zip
+fuse_libretro.so.zip
+gambatte_libretro.so.zip
+scummvm_libretro.so.zip

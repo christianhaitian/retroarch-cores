@@ -61,13 +61,11 @@
 2023-04-01 6d7c4195 x1_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
-2023-05-21 584db782 freeintv_libretro.so.zip
 2023-05-21 d7a80bf3 prosystem_libretro.so.zip
 2023-05-21 a6147209 same_cdi_libretro.so.zip
 2023-06-03 94849d80 race_libretro.so.zip
 2023-07-06 0338d87f onscripter_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
-2023-07-31 b0e7e901 fuse_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-08-02 db9492fd puae2021_libretro.so.zip
@@ -88,11 +86,6 @@
 2023-12-29 3363586d yabasanshiro_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 4198ef4d puae_libretro.so.zip
-2024-01-28 1fbc1649 gambatte_libretro.so.zip
-2024-02-19 5265b208 fake08_libretro.so.zip
-2024-02-19 5c6ac2af fceumm_libretro.so.zip
-2024-02-19 7832bff0 fmsx_libretro.so.zip
-2024-02-19 54cdc9f8 freechaf_libretro.so.zip
 2024-02-19 d4c0cfba gearcoleco_libretro.so.zip
 2024-02-19 624537fe gearsystem_libretro.so.zip
 2024-02-19 aac8f5bf genesis_plus_gx_wide_libretro.so.zip
@@ -100,7 +93,6 @@
 2024-02-19 59440980 quicknes_libretro.so.zip
 2024-02-27 550f227f geolith_libretro.so.zip
 2024-02-27 3fc77067 DoubleCherryGB_libretro.so.zip
-2024-03-02 9a4e061f scummvm_libretro.so.zip
 2024-03-29 9088f27c applewin_libretro.so.zip
 2024-04-05 8525426b mupen64plus_next_libretro.so.zip
 2024-05-06 a2fc4dc9 flycast_libretro.so.zip
@@ -158,3 +150,11 @@
 2024-09-05 c8977c16 dosbox_pure_libretro.so.zip
 2024-09-07 acaa0205 ecwolf_libretro.so.zip
 2024-09-07 d572580d vircon32_libretro.so.zip
+2024-09-15 1fb93722 fake08_libretro.so.zip
+2024-09-15 1e5a5aa2 fceumm_libretro.so.zip
+2024-09-15 9ed8b6bd fmsx_libretro.so.zip
+2024-09-15 ff8f3ff6 freechaf_libretro.so.zip
+2024-09-15 e988bb52 freeintv_libretro.so.zip
+2024-09-15 82c7f18a fuse_libretro.so.zip
+2024-09-15 a27134da gambatte_libretro.so.zip
+2024-09-15 a9aa6a00 scummvm_libretro.so.zip
