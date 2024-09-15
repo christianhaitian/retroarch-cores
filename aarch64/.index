@@ -91,7 +91,6 @@ genesis_plus_gx_wide_libretro.so.zip
 hatari_libretro.so.zip
 quicknes_libretro.so.zip
 geolith_libretro.so.zip
-DoubleCherryGB_libretro.so.zip
 applewin_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 flycast_libretro.so.zip
@@ -157,3 +156,4 @@ freeintv_libretro.so.zip
 fuse_libretro.so.zip
 gambatte_libretro.so.zip
 scummvm_libretro.so.zip
+DoubleCherryGB_libretro.so.zip
