@@ -92,7 +92,6 @@
 2024-02-19 95fd10cb hatari_libretro.so.zip
 2024-02-19 59440980 quicknes_libretro.so.zip
 2024-02-27 ac12d01c geolith_libretro.so.zip
-2024-02-27 3fc77067 DoubleCherryGB_libretro.so.zip
 2024-03-29 fb19c36c applewin_libretro.so.zip
 2024-04-05 509cac80 mupen64plus_next_libretro.so.zip
 2024-05-06 37bb9934 flycast_libretro.so.zip
@@ -158,3 +157,4 @@
 2024-09-15 82c7f18a fuse_libretro.so.zip
 2024-09-15 a27134da gambatte_libretro.so.zip
 2024-09-15 9a9f73e0 scummvm_libretro.so.zip
+2024-09-15 ca54d76c DoubleCherryGB_libretro.so.zip
