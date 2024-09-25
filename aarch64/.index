@@ -139,7 +139,6 @@ smsplus_libretro.so.zip
 hatarib_libretro.so.zip
 emuscv_libretro.so.zip
 minivmac_libretro.so.zip
-fbneo_libretro.so.zip
 nestopia_libretro.so.zip
 mame2003_plus_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
@@ -157,3 +156,4 @@ fuse_libretro.so.zip
 gambatte_libretro.so.zip
 scummvm_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
+fbneo_libretro.so.zip
