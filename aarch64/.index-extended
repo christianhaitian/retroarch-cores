@@ -140,7 +140,6 @@
 2024-08-13 5b015bb3 hatarib_libretro.so.zip
 2024-08-17 c7487e2e emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
-2024-08-18 a549cbb3 fbneo_libretro.so.zip
 2024-08-25 07af6213 nestopia_libretro.so.zip
 2024-09-03 7dd5ee77 mame2003_plus_libretro.so.zip
 2024-09-03 2101d42f pcsx_rearmed_libretro.so.zip
@@ -158,3 +157,4 @@
 2024-09-15 a27134da gambatte_libretro.so.zip
 2024-09-15 a9aa6a00 scummvm_libretro.so.zip
 2024-09-15 ca54d76c DoubleCherryGB_libretro.so.zip
+2024-09-25 33214c73 fbneo_libretro.so.zip
