@@ -93,7 +93,6 @@ quicknes_libretro.so.zip
 geolith_libretro.so.zip
 applewin_libretro.so.zip
 mupen64plus_next_libretro.so.zip
-flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 a5200_libretro.so.zip
 arduous_libretro.so.zip
@@ -158,3 +157,4 @@ DoubleCherryGB_libretro.so.zip
 fbneo_libretro.so.zip
 px68k_libretro.so.zip
 mednafen_saturn_libretro.so.zip
+flycast_libretro.so.zip

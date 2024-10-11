@@ -94,7 +94,6 @@
 2024-02-27 550f227f geolith_libretro.so.zip
 2024-03-29 9088f27c applewin_libretro.so.zip
 2024-04-05 8525426b mupen64plus_next_libretro.so.zip
-2024-05-06 a2fc4dc9 flycast_libretro.so.zip
 2024-05-06 b18cdff3 flycast_rumble_libretro.so.zip
 2024-05-23 cdaf6697 a5200_libretro.so.zip
 2024-05-23 92946512 arduous_libretro.so.zip
@@ -159,3 +158,4 @@
 2024-09-25 33214c73 fbneo_libretro.so.zip
 2024-09-28 76d12c4c px68k_libretro.so.zip
 2024-10-10 8e2649f3 mednafen_saturn_libretro.so.zip
+2024-10-11 c97d36a0 flycast_libretro.so.zip
