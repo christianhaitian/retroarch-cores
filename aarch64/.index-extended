@@ -84,7 +84,6 @@
 2023-12-03 e2051dde sameduck_libretro.so.zip
 2023-12-28 9df5cc5e yabasanshiro_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
-2024-01-21 e2e1546d puae_libretro.so.zip
 2024-02-19 aac8f5bf genesis_plus_gx_wide_libretro.so.zip
 2024-02-19 95fd10cb hatari_libretro.so.zip
 2024-02-19 59440980 quicknes_libretro.so.zip
@@ -160,3 +159,4 @@
 2024-10-12 e491c0e3 mednafen_psx_hw_libretro.so.zip
 2024-10-12 e491c0e3 mednafen_psx_libretro.so.zip
 2024-10-12 5ea0e050 puae2021_libretro.so.zip
+2024-10-12 836058ab puae_libretro.so.zip
