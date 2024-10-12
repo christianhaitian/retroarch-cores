@@ -67,7 +67,6 @@ onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
 tgbdual_libretro.so.zip
 mesen_libretro.so.zip
-puae2021_libretro.so.zip
 wasm4_libretro.so.zip
 theodore_libretro.so.zip
 mednafen_lynx_libretro.so.zip
@@ -85,8 +84,6 @@ sameduck_libretro.so.zip
 yabasanshiro_libretro.so.zip
 opera_libretro.so.zip
 puae_libretro.so.zip
-gearcoleco_libretro.so.zip
-gearsystem_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
 hatari_libretro.so.zip
 quicknes_libretro.so.zip
@@ -157,3 +154,7 @@ scummvm_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
 fbneo_libretro.so.zip
 px68k_libretro.so.zip
+gearcoleco_libretro.so.zip
+gearsystem_libretro.so.zip
+mednafen_psx_hw_libretro.so.zip
+puae2021_libretro.so.zip

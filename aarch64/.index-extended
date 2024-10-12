@@ -68,7 +68,6 @@
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
-2023-08-02 db9492fd puae2021_libretro.so.zip
 2023-09-20 e06a47a2 wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
@@ -86,8 +85,6 @@
 2023-12-29 3363586d yabasanshiro_libretro.so.zip
 2024-01-21 99d4c649 opera_libretro.so.zip
 2024-01-21 4198ef4d puae_libretro.so.zip
-2024-02-19 d4c0cfba gearcoleco_libretro.so.zip
-2024-02-19 624537fe gearsystem_libretro.so.zip
 2024-02-19 aac8f5bf genesis_plus_gx_wide_libretro.so.zip
 2024-02-19 7f0fe5ef hatari_libretro.so.zip
 2024-02-19 59440980 quicknes_libretro.so.zip
@@ -158,3 +155,7 @@
 2024-09-15 ca54d76c DoubleCherryGB_libretro.so.zip
 2024-09-25 33214c73 fbneo_libretro.so.zip
 2024-09-28 76d12c4c px68k_libretro.so.zip
+2024-10-12 1febcd72 gearcoleco_libretro.so.zip
+2024-10-12 f1ca5c97 gearsystem_libretro.so.zip
+2024-10-12 d0b5f58b mednafen_psx_hw_libretro.so.zip
+2024-10-12 ab4b4f73 puae2021_libretro.so.zip
