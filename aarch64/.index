@@ -120,7 +120,6 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 bluemsx_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
-picodrive_libretro.so.zip
 smsplus_libretro.so.zip
 hatarib_libretro.so.zip
 emuscv_libretro.so.zip
@@ -159,3 +158,4 @@ opera_libretro.so.zip
 prosystem_libretro.so.zip
 quasi88_libretro.so.zip
 onsyuri_libretro.so.zip
+picodrive_libretro.so.zip
