@@ -121,7 +121,6 @@
 2024-07-29 cc84dd6a mgba_rumble_libretro.so.zip
 2024-08-09 8bd405df bluemsx_libretro.so.zip
 2024-08-09 6a39bb06 genesis_plus_gx_libretro.so.zip
-2024-08-09 a449bb6a picodrive_libretro.so.zip
 2024-08-09 bc3456c3 smsplus_libretro.so.zip
 2024-08-13 0e6d6971 hatarib_libretro.so.zip
 2024-08-17 5fa39c27 emuscv_libretro.so.zip
@@ -161,3 +160,4 @@
 2024-10-25 a899af08 prosystem_libretro.so.zip
 2024-10-25 ddfec389 quasi88_libretro.so.zip
 2024-10-29 a5d677e1 onsyuri_libretro.so.zip
+2024-11-05 b4fc1737 picodrive_libretro.so.zip
