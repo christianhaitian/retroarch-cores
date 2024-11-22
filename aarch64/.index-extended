@@ -125,7 +125,6 @@
 2024-08-13 5b015bb3 hatarib_libretro.so.zip
 2024-08-17 c7487e2e emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
-2024-08-25 07af6213 nestopia_libretro.so.zip
 2024-09-03 7dd5ee77 mame2003_plus_libretro.so.zip
 2024-09-03 2101d42f pcsx_rearmed_libretro.so.zip
 2024-09-03 a4a53822 pcsx_rearmed_rumble_libretro.so.zip
@@ -138,7 +137,6 @@
 2024-09-15 9ed8b6bd fmsx_libretro.so.zip
 2024-09-15 ff8f3ff6 freechaf_libretro.so.zip
 2024-09-15 e988bb52 freeintv_libretro.so.zip
-2024-09-15 82c7f18a fuse_libretro.so.zip
 2024-09-15 a27134da gambatte_libretro.so.zip
 2024-09-15 a9aa6a00 scummvm_libretro.so.zip
 2024-09-25 33214c73 fbneo_libretro.so.zip
@@ -160,3 +158,5 @@
 2024-10-25 ddfec389 quasi88_libretro.so.zip
 2024-10-29 a8c4ed44 onsyuri_libretro.so.zip
 2024-11-05 b4fc1737 picodrive_libretro.so.zip
+2024-11-22 89b13dfe fuse_libretro.so.zip
+2024-11-22 91846d8c nestopia_libretro.so.zip
