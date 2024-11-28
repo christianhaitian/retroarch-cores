@@ -109,7 +109,6 @@ stella2014_libretro.so.zip
 vba_next_libretro.so.zip
 mame2010_libretro.so.zip
 numero_libretro.so.zip
-ppsspp_libretro.so.zip
 prboom_libretro.so.zip
 stella_libretro.so.zip
 mame_libretro.so.zip
@@ -138,7 +137,6 @@ freechaf_libretro.so.zip
 freeintv_libretro.so.zip
 gambatte_libretro.so.zip
 scummvm_libretro.so.zip
-fbneo_libretro.so.zip
 px68k_libretro.so.zip
 gearcoleco_libretro.so.zip
 gearsystem_libretro.so.zip
@@ -160,3 +158,5 @@ onsyuri_libretro.so.zip
 picodrive_libretro.so.zip
 fuse_libretro.so.zip
 nestopia_libretro.so.zip
+fbneo_libretro.so.zip
+ppsspp_libretro.so.zip
