@@ -110,7 +110,6 @@
 2024-06-24 5658eb82 vba_next_libretro.so.zip
 2024-06-25 605ddb86 mame2010_libretro.so.zip
 2024-06-25 59231f34 numero_libretro.so.zip
-2024-06-25 2c00ae22 ppsspp_libretro.so.zip
 2024-06-25 ca4e1437 prboom_libretro.so.zip
 2024-07-02 6ad6d825 mame_libretro.so.zip
 2024-07-03 1eb2ab29 stella_libretro.so.zip
@@ -139,7 +138,6 @@
 2024-09-15 e988bb52 freeintv_libretro.so.zip
 2024-09-15 a27134da gambatte_libretro.so.zip
 2024-09-15 a9aa6a00 scummvm_libretro.so.zip
-2024-09-25 33214c73 fbneo_libretro.so.zip
 2024-09-28 76d12c4c px68k_libretro.so.zip
 2024-10-12 1febcd72 gearcoleco_libretro.so.zip
 2024-10-12 f1ca5c97 gearsystem_libretro.so.zip
@@ -160,3 +158,5 @@
 2024-11-05 b4fc1737 picodrive_libretro.so.zip
 2024-11-22 89b13dfe fuse_libretro.so.zip
 2024-11-22 91846d8c nestopia_libretro.so.zip
+2024-11-28 6f2752d1 fbneo_libretro.so.zip
+2024-11-28 a998962b ppsspp_libretro.so.zip
