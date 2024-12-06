@@ -54,7 +54,6 @@
 2023-03-29 e68f4c1a vecx_libretro.so.zip
 2023-04-01 2a32b2b8 potator_libretro.so.zip
 2023-04-01 607bb5e6 vbam_libretro.so.zip
-2023-04-01 6d7c4195 x1_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-05-05 ef834af5 easyrpg_libretro.so.zip
 2023-05-21 a6147209 same_cdi_libretro.so.zip
@@ -63,7 +62,6 @@
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-07-31 559d39d5 tgbdual_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
-2023-09-20 c733222b wasm4_libretro.so.zip
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-10-14 79b7c9ee mednafen_lynx_libretro.so.zip
 2023-10-14 74cf6f1d mednafen_ngp_libretro.so.zip
@@ -161,3 +159,5 @@
 2024-12-06 aa8886c5 vice_xplus4_libretro.so.zip
 2024-12-06 e730b2fd vice_xscpu64_libretro.so.zip
 2024-12-06 1def4894 vice_xvic_libretro.so.zip
+2024-12-06 0dde943e wasm4_libretro.so.zip
+2024-12-06 5122b2fa x1_libretro.so.zip

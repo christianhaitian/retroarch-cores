@@ -53,7 +53,6 @@ mednafen_pcfx_libretro.so.zip
 vecx_libretro.so.zip
 potator_libretro.so.zip
 vbam_libretro.so.zip
-x1_libretro.so.zip
 pokemini_libretro.so.zip
 easyrpg_libretro.so.zip
 same_cdi_libretro.so.zip
@@ -62,7 +61,6 @@ onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
 tgbdual_libretro.so.zip
 mesen_libretro.so.zip
-wasm4_libretro.so.zip
 theodore_libretro.so.zip
 mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
@@ -160,3 +158,5 @@ vice_xpet_libretro.so.zip
 vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
+wasm4_libretro.so.zip
+x1_libretro.so.zip
