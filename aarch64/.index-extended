@@ -90,8 +90,6 @@
 2024-07-03 1eb2ab29 stella_libretro.so.zip
 2024-07-05 60de4ab5 km_fbneo_xtreme_amped_libretro.so.zip
 2024-07-26 fd138442 chimerasnes_libretro.so.zip
-2024-07-29 f8057b23 mgba_libretro.so.zip
-2024-07-29 cc84dd6a mgba_rumble_libretro.so.zip
 2024-08-09 8bd405df bluemsx_libretro.so.zip
 2024-08-09 6a39bb06 genesis_plus_gx_libretro.so.zip
 2024-08-13 0e6d6971 hatarib_libretro.so.zip
@@ -161,3 +159,5 @@
 2024-12-06 1def4894 vice_xvic_libretro.so.zip
 2024-12-06 0dde943e wasm4_libretro.so.zip
 2024-12-06 5122b2fa x1_libretro.so.zip
+2024-12-13 9c4b7b65 mgba_libretro.so.zip
+2024-12-13 dc3e3442 mgba_rumble_libretro.so.zip
