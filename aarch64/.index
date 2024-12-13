@@ -89,8 +89,6 @@ prboom_libretro.so.zip
 stella_libretro.so.zip
 km_fbneo_xtreme_amped_libretro.so.zip
 chimerasnes_libretro.so.zip
-mgba_libretro.so.zip
-mgba_rumble_libretro.so.zip
 bluemsx_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 hatarib_libretro.so.zip
@@ -159,3 +157,5 @@ vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 wasm4_libretro.so.zip
 x1_libretro.so.zip
+mgba_libretro.so.zip
+mgba_rumble_libretro.so.zip
