@@ -157,5 +157,5 @@ vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 wasm4_libretro.so.zip
 x1_libretro.so.zip
-mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
+mgba_libretro.so.zip
