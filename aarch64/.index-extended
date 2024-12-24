@@ -125,7 +125,6 @@
 2024-10-25 a899af08 prosystem_libretro.so.zip
 2024-10-25 ddfec389 quasi88_libretro.so.zip
 2024-10-29 a5d677e1 onsyuri_libretro.so.zip
-2024-11-05 b4fc1737 picodrive_libretro.so.zip
 2024-11-22 89b13dfe fuse_libretro.so.zip
 2024-11-22 91846d8c nestopia_libretro.so.zip
 2024-11-28 6f2752d1 fbneo_libretro.so.zip
@@ -163,3 +162,4 @@
 2024-12-14 947a3b4a mgba_rumble_libretro.so.zip
 2024-12-15 cd4ad3f4 freej2me_libretro.so.zip
 2024-12-15 41a101a2 freej2me-plus_libretro.so.zip
+2024-12-24 45627c2a picodrive_libretro.so.zip

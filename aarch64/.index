@@ -124,7 +124,6 @@ opera_libretro.so.zip
 prosystem_libretro.so.zip
 quasi88_libretro.so.zip
 onsyuri_libretro.so.zip
-picodrive_libretro.so.zip
 fuse_libretro.so.zip
 nestopia_libretro.so.zip
 fbneo_libretro.so.zip
@@ -162,3 +161,4 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 freej2me_libretro.so.zip
 freej2me-plus_libretro.so.zip
+picodrive_libretro.so.zip
