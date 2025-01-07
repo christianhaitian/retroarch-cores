@@ -62,7 +62,6 @@
 2023-09-20 11bdaa2d theodore_libretro.so.zip
 2023-10-20 9023a4fe parallel_n64_libretro.so.zip
 2023-10-21 400b9c1f o2em_libretro.so.zip
-2023-10-29 6e0cfec3 mess_libretro.so.zip
 2023-11-20 d5f51fec sameboy_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
 2023-12-28 9df5cc5e yabasanshiro_libretro.so.zip
@@ -163,3 +162,4 @@
 2025-01-06 cc7e7ebc snes9x2005_libretro.so.zip
 2025-01-06 7d76cdcf vbam_libretro.so.zip
 2025-01-06 0d2d71c7 vecx_libretro.so.zip
+2025-01-07 2a7e9642 mess_libretro.so.zip
