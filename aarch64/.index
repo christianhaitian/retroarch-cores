@@ -61,7 +61,6 @@ mesen_libretro.so.zip
 theodore_libretro.so.zip
 parallel_n64_libretro.so.zip
 o2em_libretro.so.zip
-mess_libretro.so.zip
 sameboy_libretro.so.zip
 sameduck_libretro.so.zip
 yabasanshiro_libretro.so.zip
@@ -161,3 +160,4 @@ scummvm_libretro.so.zip
 snes9x2005_libretro.so.zip
 vbam_libretro.so.zip
 vecx_libretro.so.zip
+mess_libretro.so.zip
