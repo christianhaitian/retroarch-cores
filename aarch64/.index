@@ -110,7 +110,6 @@ mupen64plus_next_libretro.so.zip
 opera_libretro.so.zip
 prosystem_libretro.so.zip
 quasi88_libretro.so.zip
-onsyuri_libretro.so.zip
 fuse_libretro.so.zip
 nestopia_libretro.so.zip
 fbneo_libretro.so.zip
@@ -162,3 +161,4 @@ snes9x2005_libretro.so.zip
 vbam_libretro.so.zip
 vecx_libretro.so.zip
 mess_libretro.so.zip
+onsyuri_libretro.so.zip
