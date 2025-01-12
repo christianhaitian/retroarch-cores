@@ -113,7 +113,6 @@
 2024-10-25 ddfec389 quasi88_libretro.so.zip
 2024-11-22 89b13dfe fuse_libretro.so.zip
 2024-11-22 91846d8c nestopia_libretro.so.zip
-2024-11-28 6f2752d1 fbneo_libretro.so.zip
 2024-11-28 e7ad4f1d ppsspp_libretro.so.zip
 2024-12-04 e41bbb88 a5200_libretro.so.zip
 2024-12-04 160a7d34 arduous_libretro.so.zip
@@ -163,3 +162,4 @@
 2025-01-06 0d2d71c7 vecx_libretro.so.zip
 2025-01-07 2a7e9642 mess_libretro.so.zip
 2025-01-11 1e9839c1 onsyuri_libretro.so.zip
+2025-01-12 27d25fda fbneo_libretro.so.zip
