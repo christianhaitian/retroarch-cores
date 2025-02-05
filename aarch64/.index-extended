@@ -113,7 +113,6 @@
 2024-11-22 89b13dfe fuse_libretro.so.zip
 2024-11-22 91846d8c nestopia_libretro.so.zip
 2024-11-28 a998962b ppsspp_libretro.so.zip
-2024-12-04 f8bc0425 a5200_libretro.so.zip
 2024-12-04 92946512 arduous_libretro.so.zip
 2024-12-04 ab33256f atari800_libretro.so.zip
 2024-12-04 39f3859e gpsp_libretro.so.zip
@@ -163,3 +162,5 @@
 2025-01-11 4f534b72 onsyuri_libretro.so.zip
 2025-01-12 27d25fda fbneo_libretro.so.zip
 2025-01-30 620862f3 doukutsu_rs_libretro.so.zip
+2025-02-05 f8bc0425 a5200_libretro.so.zip
+2025-02-05 a5e7e990 b2_libretro.so.zip
