@@ -113,7 +113,6 @@ quasi88_libretro.so.zip
 fuse_libretro.so.zip
 nestopia_libretro.so.zip
 ppsspp_libretro.so.zip
-a5200_libretro.so.zip
 arduous_libretro.so.zip
 atari800_libretro.so.zip
 gpsp_libretro.so.zip
@@ -163,3 +162,5 @@ mess_libretro.so.zip
 onsyuri_libretro.so.zip
 fbneo_libretro.so.zip
 doukutsu_rs_libretro.so.zip
+a5200_libretro.so.zip
+b2_libretro.so.zip
