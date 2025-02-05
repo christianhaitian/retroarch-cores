@@ -145,7 +145,6 @@ mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 freej2me_libretro.so.zip
 picodrive_libretro.so.zip
-freej2me-plus_libretro.so.zip
 ardens_libretro.so.zip
 bluemsx_libretro.so.zip
 cap32_libretro.so.zip
@@ -164,3 +163,4 @@ fbneo_libretro.so.zip
 doukutsu_rs_libretro.so.zip
 a5200_libretro.so.zip
 b2_libretro.so.zip
+freej2me-plus_libretro.so.zip
