@@ -28,7 +28,6 @@
 2022-11-25 32f45059 yabause_libretro.so.zip
 2022-12-05 9ba33f74 freeintv_libretro.so.zip
 2023-01-15 cbf40ca8 coolcv_libretro.so.zip
-2023-11-03 ad3420cb mednafen_pce_fast_libretro.so.zip
 2024-01-21 fc78c698 uae4arm_libretro.so.zip
 2024-05-07 3046c662 flycast32_rumble_libretro.so.zip
 2024-05-07 e9eb846d flycast_libretro.so.zip
@@ -38,3 +37,4 @@
 2025-02-28 acb1307f pcsx_rearmed_peops_libretro.so.zip
 2025-02-28 0b60cc9d pcsx_rearmed_rumble_libretro.so.zip
 2025-02-28 20d9295d pcsx_rearmed_rumble_peops_libretro.so.zip
+2025-03-01 1f46e238 mednafen_pce_fast_libretro.so.zip
