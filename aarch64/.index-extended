@@ -106,7 +106,6 @@
 2024-10-25 496e0b2b geolith_libretro.so.zip
 2024-10-25 aec2179d mednafen_vb_libretro.so.zip
 2024-10-25 f367ffc5 mednafen_wswan_libretro.so.zip
-2024-10-25 e1079955 mupen64plus_next_libretro.so.zip
 2024-10-25 c3a7d7b7 opera_libretro.so.zip
 2024-10-25 a899af08 prosystem_libretro.so.zip
 2024-10-25 ddfec389 quasi88_libretro.so.zip
@@ -119,7 +118,6 @@
 2024-12-04 7b4c5538 mame2000_libretro.so.zip
 2024-12-04 61b14284 mame2003_libretro.so.zip
 2024-12-04 a291df14 mame2010_libretro.so.zip
-2024-12-04 87bedfde mame_libretro.so.zip
 2024-12-04 bd614b9a quicknes_libretro.so.zip
 2024-12-06 0d5e7a09 81_libretro.so.zip
 2024-12-06 985b1640 applewin_libretro.so.zip
@@ -127,8 +125,6 @@
 2024-12-06 ec52dc07 neocd_libretro.so.zip
 2024-12-06 bc6f06c2 np2kai_libretro.so.zip
 2024-12-06 28b2f041 numero_libretro.so.zip
-2024-12-06 03deb2d9 pcsx_rearmed_libretro.so.zip
-2024-12-06 e5ec2405 pcsx_rearmed_rumble_libretro.so.zip
 2024-12-06 db1e53d2 smsplus_libretro.so.zip
 2024-12-06 082f7a7b vice_x128_libretro.so.zip
 2024-12-06 975d45db vice_x64_libretro.so.zip
@@ -159,8 +155,12 @@
 2025-01-06 12185079 vecx_libretro.so.zip
 2025-01-08 2a7e9642 mess_libretro.so.zip
 2025-01-11 4f534b72 onsyuri_libretro.so.zip
-2025-01-12 27d25fda fbneo_libretro.so.zip
 2025-01-30 620862f3 doukutsu_rs_libretro.so.zip
 2025-02-05 f8bc0425 a5200_libretro.so.zip
 2025-02-05 070be0cd freej2me-plus_libretro.so.zip
 2025-02-09 355ed898 b2_libretro.so.zip
+2025-03-01 34ba9df8 fbneo_libretro.so.zip
+2025-03-01 458a87fa mame_libretro.so.zip
+2025-03-01 bd1a9e8c mupen64plus_next_libretro.so.zip
+2025-03-01 722fd1ec pcsx_rearmed_libretro.so.zip
+2025-03-01 364db7ba pcsx_rearmed_rumble_libretro.so.zip
