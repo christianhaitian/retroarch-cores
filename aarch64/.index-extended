@@ -84,8 +84,6 @@
 2024-08-17 5fa39c27 emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
 2024-09-03 7dd5ee77 mame2003_plus_libretro.so.zip
-2024-09-05 6b0d09ac puzzlescript_libretro.so.zip
-2024-09-05 0f5c5858 dosbox_pure_libretro.so.zip
 2024-09-07 acaa0205 ecwolf_libretro.so.zip
 2024-09-07 d572580d vircon32_libretro.so.zip
 2024-09-15 1fb93722 fake08_libretro.so.zip
@@ -136,7 +134,6 @@
 2024-12-06 aa8886c5 vice_xplus4_libretro.so.zip
 2024-12-06 e730b2fd vice_xscpu64_libretro.so.zip
 2024-12-06 1def4894 vice_xvic_libretro.so.zip
-2024-12-06 0dde943e wasm4_libretro.so.zip
 2024-12-06 5122b2fa x1_libretro.so.zip
 2024-12-14 9c4b7b65 mgba_libretro.so.zip
 2024-12-14 947a3b4a mgba_rumble_libretro.so.zip
@@ -158,10 +155,13 @@
 2025-01-11 1e9839c1 onsyuri_libretro.so.zip
 2025-01-30 f26a9455 doukutsu_rs_libretro.so.zip
 2025-02-05 e41bbb88 a5200_libretro.so.zip
-2025-02-05 070be0cd freej2me-plus_libretro.so.zip
 2025-02-09 355ed898 b2_libretro.so.zip
 2025-02-28 34ba9df8 fbneo_libretro.so.zip
 2025-02-28 02530fd6 mame_libretro.so.zip
 2025-02-28 c6f24e43 mupen64plus_next_libretro.so.zip
 2025-02-28 0a43e30a pcsx_rearmed_libretro.so.zip
 2025-02-28 a7bf5abb pcsx_rearmed_rumble_libretro.so.zip
+2025-03-27 267a8132 dosbox_pure_libretro.so.zip
+2025-03-27 2df000c4 freej2me-plus_libretro.so.zip
+2025-03-27 e242e201 puzzlescript_libretro.so.zip
+2025-03-27 c398194c wasm4_libretro.so.zip
