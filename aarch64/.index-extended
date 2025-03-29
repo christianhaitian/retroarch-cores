@@ -138,7 +138,6 @@
 2024-12-14 9c4b7b65 mgba_libretro.so.zip
 2024-12-14 947a3b4a mgba_rumble_libretro.so.zip
 2024-12-15 cd4ad3f4 freej2me_libretro.so.zip
-2024-12-24 45627c2a picodrive_libretro.so.zip
 2025-01-06 95e27dba ardens_libretro.so.zip
 2025-01-06 a14d4e7f bluemsx_libretro.so.zip
 2025-01-06 89c2dc22 cap32_libretro.so.zip
@@ -165,3 +164,4 @@
 2025-03-27 2df000c4 freej2me-plus_libretro.so.zip
 2025-03-27 e242e201 puzzlescript_libretro.so.zip
 2025-03-27 c398194c wasm4_libretro.so.zip
+2025-03-29 704b0436 picodrive_libretro.so.zip

@@ -137,7 +137,6 @@ x1_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 freej2me_libretro.so.zip
-picodrive_libretro.so.zip
 ardens_libretro.so.zip
 bluemsx_libretro.so.zip
 cap32_libretro.so.zip
@@ -164,3 +163,4 @@ dosbox_pure_libretro.so.zip
 freej2me-plus_libretro.so.zip
 puzzlescript_libretro.so.zip
 wasm4_libretro.so.zip
+picodrive_libretro.so.zip
