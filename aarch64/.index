@@ -1,7 +1,6 @@
 retro8_libretro.so.zip
 spring_shell_libretro.so.zip
 bnes_libretro.so.zip
-snes9x2010_libretro.so.zip
 daphne_libretro.so.zip
 2048_libretro.so.zip
 reminiscence_libretro.so.zip
@@ -164,3 +163,4 @@ freej2me-plus_libretro.so.zip
 puzzlescript_libretro.so.zip
 wasm4_libretro.so.zip
 picodrive_libretro.so.zip
+snes9x2010_libretro.so.zip

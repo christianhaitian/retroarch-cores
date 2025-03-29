@@ -2,7 +2,6 @@
 2021-01-26 c666ed25 spring_duckstation_standalone_libretro.so.zip
 2021-01-26 c666ed25 spring_shell_libretro.so.zip
 2021-01-26 fb8edecc bnes_libretro.so.zip
-2021-01-26 4c58505d snes9x2010_libretro.so.zip
 2021-01-26 158bc617 daphne_libretro.so.zip
 2021-01-26 9cf0907e 2048_libretro.so.zip
 2021-01-26 a6755165 reminiscence_libretro.so.zip
@@ -165,3 +164,4 @@
 2025-03-27 e242e201 puzzlescript_libretro.so.zip
 2025-03-27 c398194c wasm4_libretro.so.zip
 2025-03-29 704b0436 picodrive_libretro.so.zip
+2025-03-29 5f27d094 snes9x2010_libretro.so.zip
