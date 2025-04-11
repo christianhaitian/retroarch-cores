@@ -144,7 +144,6 @@
 2025-01-30 620862f3 doukutsu_rs_libretro.so.zip
 2025-02-05 f8bc0425 a5200_libretro.so.zip
 2025-02-09 355ed898 b2_libretro.so.zip
-2025-03-01 34ba9df8 fbneo_libretro.so.zip
 2025-03-01 458a87fa mame_libretro.so.zip
 2025-03-01 bd1a9e8c mupen64plus_next_libretro.so.zip
 2025-03-27 8bf766e6 dosbox_pure_libretro.so.zip
@@ -164,3 +163,4 @@
 2025-03-31 82d94d99 vice_xplus4_libretro.so.zip
 2025-03-31 3e3255c9 vice_xscpu64_libretro.so.zip
 2025-03-31 b94865bd vice_xvic_libretro.so.zip
+2025-04-11 0dcd6ff5 fbneo_libretro.so.zip

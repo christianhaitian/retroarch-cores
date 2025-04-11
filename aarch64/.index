@@ -143,7 +143,6 @@ onsyuri_libretro.so.zip
 doukutsu_rs_libretro.so.zip
 a5200_libretro.so.zip
 b2_libretro.so.zip
-fbneo_libretro.so.zip
 mame_libretro.so.zip
 mupen64plus_next_libretro.so.zip
 dosbox_pure_libretro.so.zip
@@ -163,3 +162,4 @@ vice_xpet_libretro.so.zip
 vice_xplus4_libretro.so.zip
 vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
+fbneo_libretro.so.zip
