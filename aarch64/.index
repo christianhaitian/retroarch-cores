@@ -55,7 +55,6 @@ same_cdi_libretro.so.zip
 race_libretro.so.zip
 onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
-tgbdual_libretro.so.zip
 mesen_libretro.so.zip
 theodore_libretro.so.zip
 parallel_n64_libretro.so.zip
@@ -69,7 +68,6 @@ flycast_rumble_libretro.so.zip
 swanstation_libretro.so.zip
 ep128emu_core_libretro.so.zip
 handy_libretro.so.zip
-mu_libretro.so.zip
 snes9x_libretro.so.zip
 stella2014_libretro.so.zip
 vba_next_libretro.so.zip
@@ -107,7 +105,6 @@ opera_libretro.so.zip
 prosystem_libretro.so.zip
 quasi88_libretro.so.zip
 fuse_libretro.so.zip
-nestopia_libretro.so.zip
 ppsspp_libretro.so.zip
 arduous_libretro.so.zip
 atari800_libretro.so.zip
@@ -150,7 +147,6 @@ dosbox_pure_libretro.so.zip
 freej2me-plus_libretro.so.zip
 puzzlescript_libretro.so.zip
 wasm4_libretro.so.zip
-picodrive_libretro.so.zip
 snes9x2010_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
@@ -165,3 +161,7 @@ vice_xscpu64_libretro.so.zip
 vice_xvic_libretro.so.zip
 fbneo_libretro.so.zip
 bk_libretro.so.zip
+mu_libretro.so.zip
+nestopia_libretro.so.zip
+picodrive_libretro.so.zip
+tgbdual_libretro.so.zip
