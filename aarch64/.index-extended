@@ -143,7 +143,6 @@
 2025-02-09 355ed898 b2_libretro.so.zip
 2025-03-01 458a87fa mame_libretro.so.zip
 2025-03-01 bd1a9e8c mupen64plus_next_libretro.so.zip
-2025-03-27 8bf766e6 dosbox_pure_libretro.so.zip
 2025-03-27 2df000c4 freej2me-plus_libretro.so.zip
 2025-03-27 1a063e83 puzzlescript_libretro.so.zip
 2025-03-27 7f72750c wasm4_libretro.so.zip
@@ -159,10 +158,11 @@
 2025-03-31 82d94d99 vice_xplus4_libretro.so.zip
 2025-03-31 3e3255c9 vice_xscpu64_libretro.so.zip
 2025-03-31 b94865bd vice_xvic_libretro.so.zip
-2025-04-11 0dcd6ff5 fbneo_libretro.so.zip
 2025-04-18 3fdae9a0 bk_libretro.so.zip
 2025-05-23 07971fc3 mu_libretro.so.zip
 2025-05-23 d382e2ed nestopia_libretro.so.zip
 2025-05-23 77354911 picodrive_libretro.so.zip
 2025-05-23 d69ea0f5 tgbdual_libretro.so.zip
 2025-06-20 7c87898d bsnes_libretro.so.zip
+2025-06-25 83680789 dosbox_pure_libretro.so.zip
+2025-06-25 7549252f fbneo_libretro.so.zip
