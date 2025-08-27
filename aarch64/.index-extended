@@ -76,7 +76,6 @@
 2024-07-03 1eb2ab29 stella_libretro.so.zip
 2024-07-05 60de4ab5 km_fbneo_xtreme_amped_libretro.so.zip
 2024-07-26 fd138442 chimerasnes_libretro.so.zip
-2024-08-09 6a39bb06 genesis_plus_gx_libretro.so.zip
 2024-08-13 5b015bb3 hatarib_libretro.so.zip
 2024-08-17 c7487e2e emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
@@ -97,7 +96,6 @@
 2024-10-12 9d49f79a puae_libretro.so.zip
 2024-10-25 8e4f11ba crocods_libretro.so.zip
 2024-10-25 e2488390 DoubleCherryGB_libretro.so.zip
-2024-10-25 61bc26a1 genesis_plus_gx_wide_libretro.so.zip
 2024-10-25 496e0b2b geolith_libretro.so.zip
 2024-10-25 aec2179d mednafen_vb_libretro.so.zip
 2024-10-25 f367ffc5 mednafen_wswan_libretro.so.zip
@@ -164,6 +162,8 @@
 2025-05-23 77354911 picodrive_libretro.so.zip
 2025-05-23 d69ea0f5 tgbdual_libretro.so.zip
 2025-06-20 7c87898d bsnes_libretro.so.zip
-2025-06-25 83680789 dosbox_pure_libretro.so.zip
 2025-06-25 7549252f fbneo_libretro.so.zip
-2025-07-10 c2880369 genesis_plus_gx_EX_libretro.so.zip
+2025-08-27 a34e639b dosbox_pure_libretro.so.zip
+2025-08-27 7d7d917b genesis_plus_gx_EX_libretro.so.zip
+2025-08-27 7fc7101a genesis_plus_gx_libretro.so.zip
+2025-08-27 61bc26a1 genesis_plus_gx_wide_libretro.so.zip
