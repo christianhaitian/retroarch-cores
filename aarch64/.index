@@ -75,7 +75,6 @@ prboom_libretro.so.zip
 stella_libretro.so.zip
 km_fbneo_xtreme_amped_libretro.so.zip
 chimerasnes_libretro.so.zip
-genesis_plus_gx_libretro.so.zip
 hatarib_libretro.so.zip
 emuscv_libretro.so.zip
 minivmac_libretro.so.zip
@@ -97,7 +96,6 @@ puae2021_libretro.so.zip
 puae_libretro.so.zip
 crocods_libretro.so.zip
 DoubleCherryGB_libretro.so.zip
-genesis_plus_gx_wide_libretro.so.zip
 geolith_libretro.so.zip
 mednafen_vb_libretro.so.zip
 mednafen_wswan_libretro.so.zip
@@ -164,6 +162,8 @@ nestopia_libretro.so.zip
 picodrive_libretro.so.zip
 tgbdual_libretro.so.zip
 bsnes_libretro.so.zip
-dosbox_pure_libretro.so.zip
 fbneo_libretro.so.zip
+dosbox_pure_libretro.so.zip
 genesis_plus_gx_EX_libretro.so.zip
+genesis_plus_gx_libretro.so.zip
+genesis_plus_gx_wide_libretro.so.zip
