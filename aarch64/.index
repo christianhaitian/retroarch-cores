@@ -74,19 +74,15 @@ vba_next_libretro.so.zip
 prboom_libretro.so.zip
 stella_libretro.so.zip
 km_fbneo_xtreme_amped_libretro.so.zip
-chimerasnes_libretro.so.zip
 hatarib_libretro.so.zip
 emuscv_libretro.so.zip
 minivmac_libretro.so.zip
 mame2003_plus_libretro.so.zip
-ecwolf_libretro.so.zip
 vircon32_libretro.so.zip
 fake08_libretro.so.zip
 fceumm_libretro.so.zip
-fmsx_libretro.so.zip
 freechaf_libretro.so.zip
 freeintv_libretro.so.zip
-gambatte_libretro.so.zip
 px68k_libretro.so.zip
 gearcoleco_libretro.so.zip
 gearsystem_libretro.so.zip
@@ -94,7 +90,6 @@ mednafen_psx_hw_libretro.so.zip
 puae2021_libretro.so.zip
 puae_libretro.so.zip
 crocods_libretro.so.zip
-DoubleCherryGB_libretro.so.zip
 geolith_libretro.so.zip
 mednafen_vb_libretro.so.zip
 mednafen_wswan_libretro.so.zip
@@ -110,7 +105,6 @@ mame2000_libretro.so.zip
 mame2003_libretro.so.zip
 mame2010_libretro.so.zip
 quicknes_libretro.so.zip
-81_libretro.so.zip
 applewin_libretro.so.zip
 nekop2_libretro.so.zip
 neocd_libretro.so.zip
@@ -122,8 +116,6 @@ mgba_rumble_libretro.so.zip
 mgba_libretro.so.zip
 freej2me_libretro.so.zip
 ardens_libretro.so.zip
-bluemsx_libretro.so.zip
-cap32_libretro.so.zip
 mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
@@ -135,8 +127,6 @@ vbam_libretro.so.zip
 vecx_libretro.so.zip
 mess_libretro.so.zip
 onsyuri_libretro.so.zip
-doukutsu_rs_libretro.so.zip
-a5200_libretro.so.zip
 b2_libretro.so.zip
 mame_libretro.so.zip
 mupen64plus_next_libretro.so.zip
@@ -166,3 +156,13 @@ dosbox_pure_libretro.so.zip
 genesis_plus_gx_EX_libretro.so.zip
 genesis_plus_gx_libretro.so.zip
 genesis_plus_gx_wide_libretro.so.zip
+81_libretro.so.zip
+a5200_libretro.so.zip
+bluemsx_libretro.so.zip
+cap32_libretro.so.zip
+chimerasnes_libretro.so.zip
+DoubleCherryGB_libretro.so.zip
+doukutsu_rs_libretro.so.zip
+ecwolf_libretro.so.zip
+fmsx_libretro.so.zip
+gambatte_libretro.so.zip
