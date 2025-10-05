@@ -75,19 +75,15 @@
 2024-06-25 ca4e1437 prboom_libretro.so.zip
 2024-07-03 1eb2ab29 stella_libretro.so.zip
 2024-07-05 60de4ab5 km_fbneo_xtreme_amped_libretro.so.zip
-2024-07-26 fd138442 chimerasnes_libretro.so.zip
 2024-08-13 0e6d6971 hatarib_libretro.so.zip
 2024-08-17 5fa39c27 emuscv_libretro.so.zip
 2024-08-18 edb635aa minivmac_libretro.so.zip
 2024-09-03 7dd5ee77 mame2003_plus_libretro.so.zip
-2024-09-07 acaa0205 ecwolf_libretro.so.zip
 2024-09-07 d572580d vircon32_libretro.so.zip
 2024-09-15 1fb93722 fake08_libretro.so.zip
 2024-09-15 1e5a5aa2 fceumm_libretro.so.zip
-2024-09-15 9ed8b6bd fmsx_libretro.so.zip
 2024-09-15 ff8f3ff6 freechaf_libretro.so.zip
 2024-09-15 e988bb52 freeintv_libretro.so.zip
-2024-09-15 a27134da gambatte_libretro.so.zip
 2024-09-28 76d12c4c px68k_libretro.so.zip
 2024-10-12 1febcd72 gearcoleco_libretro.so.zip
 2024-10-12 f1ca5c97 gearsystem_libretro.so.zip
@@ -96,7 +92,6 @@
 2024-10-12 5ea0e050 puae2021_libretro.so.zip
 2024-10-12 836058ab puae_libretro.so.zip
 2024-10-25 8e4f11ba crocods_libretro.so.zip
-2024-10-25 e2488390 DoubleCherryGB_libretro.so.zip
 2024-10-25 b19828b5 geolith_libretro.so.zip
 2024-10-25 aec2179d mednafen_vb_libretro.so.zip
 2024-10-25 f367ffc5 mednafen_wswan_libretro.so.zip
@@ -112,7 +107,6 @@
 2024-12-04 61b14284 mame2003_libretro.so.zip
 2024-12-04 a291df14 mame2010_libretro.so.zip
 2024-12-04 bd614b9a quicknes_libretro.so.zip
-2024-12-06 0d5e7a09 81_libretro.so.zip
 2024-12-06 958c53b3 applewin_libretro.so.zip
 2024-12-06 9158162f nekop2_libretro.so.zip
 2024-12-06 ec52dc07 neocd_libretro.so.zip
@@ -124,8 +118,6 @@
 2024-12-14 947a3b4a mgba_rumble_libretro.so.zip
 2024-12-15 cd4ad3f4 freej2me_libretro.so.zip
 2025-01-06 95e27dba ardens_libretro.so.zip
-2025-01-06 a14d4e7f bluemsx_libretro.so.zip
-2025-01-06 89c2dc22 cap32_libretro.so.zip
 2025-01-06 9d2a6dd6 mednafen_lynx_libretro.so.zip
 2025-01-06 8de0b119 mednafen_ngp_libretro.so.zip
 2025-01-06 c0b4bdab mednafen_pce_fast_libretro.so.zip
@@ -137,8 +129,6 @@
 2025-01-06 0d2d71c7 vecx_libretro.so.zip
 2025-01-07 2a7e9642 mess_libretro.so.zip
 2025-01-11 1e9839c1 onsyuri_libretro.so.zip
-2025-01-30 f26a9455 doukutsu_rs_libretro.so.zip
-2025-02-05 e41bbb88 a5200_libretro.so.zip
 2025-02-09 355ed898 b2_libretro.so.zip
 2025-02-28 02530fd6 mame_libretro.so.zip
 2025-02-28 c6f24e43 mupen64plus_next_libretro.so.zip
@@ -168,3 +158,13 @@
 2025-08-27 7d7d917b genesis_plus_gx_EX_libretro.so.zip
 2025-08-27 7fc7101a genesis_plus_gx_libretro.so.zip
 2025-08-27 61bc26a1 genesis_plus_gx_wide_libretro.so.zip
+2025-10-05 0d5e7a09 81_libretro.so.zip
+2025-10-05 e41bbb88 a5200_libretro.so.zip
+2025-10-05 b622c887 bluemsx_libretro.so.zip
+2025-10-05 0464339b cap32_libretro.so.zip
+2025-10-05 fd138442 chimerasnes_libretro.so.zip
+2025-10-05 7f9e724f DoubleCherryGB_libretro.so.zip
+2025-10-05 f26a9455 doukutsu_rs_libretro.so.zip
+2025-10-05 e4093bb1 ecwolf_libretro.so.zip
+2025-10-05 43a961b9 fmsx_libretro.so.zip
+2025-10-05 2771ca67 gambatte_libretro.so.zip
