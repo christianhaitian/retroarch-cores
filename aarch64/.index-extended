@@ -47,8 +47,6 @@
 2022-12-03 63caa64f uae4arm_libretro.so.zip
 2022-12-03 41cacb38 uzem_libretro.so.zip
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
-2023-01-03 f353ad40 melonds_libretro.so.zip
-2023-01-10 66a6b93e mednafen_pcfx_libretro.so.zip
 2023-04-01 2a32b2b8 potator_libretro.so.zip
 2023-04-02 586700aa pokemini_libretro.so.zip
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
@@ -89,8 +87,6 @@
 2024-10-12 9d49f79a puae_libretro.so.zip
 2024-10-25 8e4f11ba crocods_libretro.so.zip
 2024-10-25 496e0b2b geolith_libretro.so.zip
-2024-10-25 aec2179d mednafen_vb_libretro.so.zip
-2024-10-25 f367ffc5 mednafen_wswan_libretro.so.zip
 2024-10-25 c3a7d7b7 opera_libretro.so.zip
 2024-10-25 a899af08 prosystem_libretro.so.zip
 2024-10-25 ddfec389 quasi88_libretro.so.zip
@@ -111,8 +107,6 @@
 2025-01-06 9d2a6dd6 mednafen_lynx_libretro.so.zip
 2025-01-06 8de0b119 mednafen_ngp_libretro.so.zip
 2025-01-06 c0b4bdab mednafen_pce_fast_libretro.so.zip
-2025-01-06 079e408a mednafen_supafaust_libretro.so.zip
-2025-01-06 98327791 mednafen_supergrafx_libretro.so.zip
 2025-01-06 9e10554a scummvm_libretro.so.zip
 2025-01-06 cc7e7ebc snes9x2005_libretro.so.zip
 2025-01-06 7d76cdcf vbam_libretro.so.zip
@@ -121,7 +115,6 @@
 2025-01-11 4f534b72 onsyuri_libretro.so.zip
 2025-03-01 458a87fa mame_libretro.so.zip
 2025-03-01 bd1a9e8c mupen64plus_next_libretro.so.zip
-2025-03-27 2df000c4 freej2me-plus_libretro.so.zip
 2025-03-27 1a063e83 puzzlescript_libretro.so.zip
 2025-03-27 7f72750c wasm4_libretro.so.zip
 2025-03-29 5f27d094 snes9x2010_libretro.so.zip
@@ -167,3 +160,10 @@
 2025-10-07 8672d513 handy_libretro.so.zip
 2025-10-07 cb0b2cbc hatarib_libretro.so.zip
 2025-10-07 a5bf8cd9 hatari_libretro.so.zip
+2025-10-07 585bb305 freej2me-plus_libretro.so.zip
+2025-10-07 c28b1115 mednafen_pcfx_libretro.so.zip
+2025-10-07 079e408a mednafen_supafaust_libretro.so.zip
+2025-10-07 98327791 mednafen_supergrafx_libretro.so.zip
+2025-10-07 f29962fa mednafen_vb_libretro.so.zip
+2025-10-07 cf4e32b7 mednafen_wswan_libretro.so.zip
+2025-10-07 32b7419e melonds_libretro.so.zip
