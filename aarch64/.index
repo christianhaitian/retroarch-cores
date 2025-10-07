@@ -46,8 +46,6 @@ yabause_libretro.so.zip
 uae4arm_libretro.so.zip
 uzem_libretro.so.zip
 virtualjaguar_libretro.so.zip
-melonds_libretro.so.zip
-mednafen_pcfx_libretro.so.zip
 potator_libretro.so.zip
 pokemini_libretro.so.zip
 easyrpg_libretro.so.zip
@@ -89,8 +87,6 @@ puae2021_libretro.so.zip
 puae_libretro.so.zip
 crocods_libretro.so.zip
 geolith_libretro.so.zip
-mednafen_vb_libretro.so.zip
-mednafen_wswan_libretro.so.zip
 opera_libretro.so.zip
 prosystem_libretro.so.zip
 quasi88_libretro.so.zip
@@ -111,8 +107,6 @@ mgba_rumble_libretro.so.zip
 mednafen_lynx_libretro.so.zip
 mednafen_ngp_libretro.so.zip
 mednafen_pce_fast_libretro.so.zip
-mednafen_supafaust_libretro.so.zip
-mednafen_supergrafx_libretro.so.zip
 scummvm_libretro.so.zip
 snes9x2005_libretro.so.zip
 vbam_libretro.so.zip
@@ -121,7 +115,6 @@ mess_libretro.so.zip
 onsyuri_libretro.so.zip
 mame_libretro.so.zip
 mupen64plus_next_libretro.so.zip
-freej2me-plus_libretro.so.zip
 puzzlescript_libretro.so.zip
 wasm4_libretro.so.zip
 snes9x2010_libretro.so.zip
@@ -167,3 +160,10 @@ gpsp_libretro.so.zip
 handy_libretro.so.zip
 hatarib_libretro.so.zip
 hatari_libretro.so.zip
+freej2me-plus_libretro.so.zip
+mednafen_pcfx_libretro.so.zip
+mednafen_supafaust_libretro.so.zip
+mednafen_supergrafx_libretro.so.zip
+mednafen_vb_libretro.so.zip
+mednafen_wswan_libretro.so.zip
+melonds_libretro.so.zip
