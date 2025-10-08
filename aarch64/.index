@@ -57,7 +57,6 @@ flycast_libretro.so.zip
 flycast_rumble_libretro.so.zip
 swanstation_libretro.so.zip
 ep128emu_core_libretro.so.zip
-snes9x_libretro.so.zip
 stella2014_libretro.so.zip
 vba_next_libretro.so.zip
 prboom_libretro.so.zip
@@ -166,3 +165,4 @@ vice_xvic_libretro.so.zip
 vircon32_libretro.so.zip
 wasm4_libretro.so.zip
 x1_libretro.so.zip
+snes9x_libretro.so.zip
