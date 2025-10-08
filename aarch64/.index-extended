@@ -58,7 +58,6 @@
 2024-05-06 5a5c6b9f flycast_rumble_libretro.so.zip
 2024-06-07 a9277de5 swanstation_libretro.so.zip
 2024-06-24 2775b91b ep128emu_core_libretro.so.zip
-2024-06-24 ed7f79e6 snes9x_libretro.so.zip
 2024-06-24 74bc53fe stella2014_libretro.so.zip
 2024-06-24 5658eb82 vba_next_libretro.so.zip
 2024-06-25 ca4e1437 prboom_libretro.so.zip
@@ -168,3 +167,4 @@
 2025-10-08 1a5ecd6a vircon32_libretro.so.zip
 2025-10-08 73eb6109 wasm4_libretro.so.zip
 2025-10-08 98ad0166 x1_libretro.so.zip
+2025-10-08 92d9e8bf snes9x_libretro.so.zip
