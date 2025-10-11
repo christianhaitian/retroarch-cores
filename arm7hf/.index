@@ -20,10 +20,6 @@ mupen64plus_next_libretro.so.zip
 neocd_libretro.so.zip
 o2em_libretro.so.zip
 parallel_n64_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_peops_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
-pcsx_rearmed_rumble_peops_libretro.so.zip
 picodrive_libretro.so.zip
 ppsspp_xtreme_libretro.so.zip
 reicast_xtreme_libretro.so.zip
@@ -42,3 +38,7 @@ vice_xvic_libretro.so.zip
 virtualjaguar_libretro.so.zip
 yabasanshiro_libretro.so.zip
 yabause_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_peops_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
+pcsx_rearmed_rumble_peops_libretro.so.zip

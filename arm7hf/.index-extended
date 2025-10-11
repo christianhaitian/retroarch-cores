@@ -16,10 +16,6 @@
 2025-08-26 47b77067 neocd_libretro.so.zip
 2025-08-26 c317d589 o2em_libretro.so.zip
 2025-08-26 931e516a parallel_n64_libretro.so.zip
-2025-08-26 7f2aa316 pcsx_rearmed_libretro.so.zip
-2025-08-26 7a86e180 pcsx_rearmed_peops_libretro.so.zip
-2025-08-26 1f6dde92 pcsx_rearmed_rumble_libretro.so.zip
-2025-08-26 85e858c0 pcsx_rearmed_rumble_peops_libretro.so.zip
 2025-08-26 e25b24a1 picodrive_libretro.so.zip
 2025-08-26 511bab8e ppsspp_xtreme_libretro.so.zip
 2025-08-26 de1c7c97 reicast_xtreme_libretro.so.zip
@@ -38,3 +34,7 @@
 2025-08-26 fbd6ea95 virtualjaguar_libretro.so.zip
 2025-08-26 20fd7a23 yabasanshiro_libretro.so.zip
 2025-08-26 32f45059 yabause_libretro.so.zip
+2025-10-11 dd3e9df5 pcsx_rearmed_libretro.so.zip
+2025-10-11 af3eea73 pcsx_rearmed_peops_libretro.so.zip
+2025-10-11 07b27b16 pcsx_rearmed_rumble_libretro.so.zip
+2025-10-11 cd7756f3 pcsx_rearmed_rumble_peops_libretro.so.zip
