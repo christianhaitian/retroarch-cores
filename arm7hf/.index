@@ -14,7 +14,6 @@ genesis_plus_gx_wide_libretro.so.zip
 gpsp_libretro.so.zip
 handy_libretro.so.zip
 mame2003_xtreme_libretro.so.zip
-mednafen_pce_fast_libretro.so.zip
 mednafen_wswan_libretro.so.zip
 neocd_libretro.so.zip
 o2em_libretro.so.zip
@@ -41,3 +40,4 @@ pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_peops_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 pcsx_rearmed_rumble_peops_libretro.so.zip
+mednafen_pce_fast_libretro.so.zip

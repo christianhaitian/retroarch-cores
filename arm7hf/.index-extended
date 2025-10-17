@@ -10,7 +10,6 @@
 2025-08-26 7e27ea5d gpsp_libretro.so.zip
 2025-08-26 26cfc972 handy_libretro.so.zip
 2025-08-26 db276b09 mame2003_xtreme_libretro.so.zip
-2025-08-26 b2d1ca07 mednafen_pce_fast_libretro.so.zip
 2025-08-26 d16bed6f mednafen_wswan_libretro.so.zip
 2025-08-26 47b77067 neocd_libretro.so.zip
 2025-08-26 c317d589 o2em_libretro.so.zip
@@ -37,3 +36,4 @@
 2025-10-11 defddad7 pcsx_rearmed_peops_libretro.so.zip
 2025-10-11 24fe4894 pcsx_rearmed_rumble_libretro.so.zip
 2025-10-11 a3784394 pcsx_rearmed_rumble_peops_libretro.so.zip
+2025-10-17 ef539f2f mednafen_pce_fast_libretro.so.zip
