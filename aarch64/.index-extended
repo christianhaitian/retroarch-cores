@@ -45,7 +45,6 @@
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2023-05-05 3f9a6956 easyrpg_libretro.so.zip
-2023-07-06 0338d87f onscripter_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
@@ -62,17 +61,13 @@
 2024-09-15 1e5a5aa2 fceumm_libretro.so.zip
 2024-09-15 ff8f3ff6 freechaf_libretro.so.zip
 2024-09-15 e988bb52 freeintv_libretro.so.zip
-2024-10-12 1febcd72 gearcoleco_libretro.so.zip
-2024-10-12 f1ca5c97 gearsystem_libretro.so.zip
 2024-10-12 d0b5f58b mednafen_psx_hw_libretro.so.zip
 2024-10-12 ab4b4f73 puae2021_libretro.so.zip
 2024-10-25 8e4f11ba crocods_libretro.so.zip
-2024-10-25 496e0b2b geolith_libretro.so.zip
 2024-10-25 c3a7d7b7 opera_libretro.so.zip
 2024-11-28 a998962b ppsspp_libretro.so.zip
 2024-12-06 985b1640 applewin_libretro.so.zip
 2024-12-06 ec52dc07 neocd_libretro.so.zip
-2024-12-06 bc6f06c2 np2kai_libretro.so.zip
 2024-12-13 c3f301e7 mgba_rumble_libretro.so.zip
 2024-12-14 c3f301e7 mgba_libretro.so.zip
 2025-01-06 12185079 vecx_libretro.so.zip
@@ -167,3 +162,8 @@
 2025-12-07 1892fda1 vbam_libretro.so.zip
 2025-12-07 d4d5f3f0 vba_next_libretro.so.zip
 2025-12-07 bf2ede4b virtualjaguar_libretro.so.zip
+2025-12-08 d1ff2143 gearcoleco_libretro.so.zip
+2025-12-08 2225ee14 gearsystem_libretro.so.zip
+2025-12-08 a077d02d geolith_libretro.so.zip
+2025-12-08 d92c7725 np2kai_libretro.so.zip
+2025-12-08 814a1413 onscripter_libretro.so.zip
