@@ -45,7 +45,6 @@ vemulator_libretro.so.zip
 yabause_libretro.so.zip
 virtualjaguar_libretro.so.zip
 easyrpg_libretro.so.zip
-onscripter_libretro.so.zip
 desmume2015_libretro.so.zip
 mesen_libretro.so.zip
 parallel_n64_libretro.so.zip
@@ -62,18 +61,14 @@ fake08_libretro.so.zip
 fceumm_libretro.so.zip
 freechaf_libretro.so.zip
 freeintv_libretro.so.zip
-gearcoleco_libretro.so.zip
-gearsystem_libretro.so.zip
 mednafen_psx_hw_libretro.so.zip
 mednafen_psx_libretro.so.zip
 puae2021_libretro.so.zip
 crocods_libretro.so.zip
-geolith_libretro.so.zip
 opera_libretro.so.zip
 ppsspp_libretro.so.zip
 applewin_libretro.so.zip
 neocd_libretro.so.zip
-np2kai_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
 scummvm_libretro.so.zip
@@ -167,3 +162,8 @@ tgbdual_libretro.so.zip
 theodore_libretro.so.zip
 vbam_libretro.so.zip
 vba_next_libretro.so.zip
+gearcoleco_libretro.so.zip
+gearsystem_libretro.so.zip
+geolith_libretro.so.zip
+np2kai_libretro.so.zip
+onscripter_libretro.so.zip
