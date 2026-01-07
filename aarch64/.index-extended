@@ -45,7 +45,6 @@
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
-2023-05-05 ef834af5 easyrpg_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
 2023-10-20 9023a4fe parallel_n64_libretro.so.zip
@@ -168,3 +167,4 @@
 2025-12-08 00e3dcc4 geolith_libretro.so.zip
 2025-12-08 d92c7725 np2kai_libretro.so.zip
 2025-12-08 814a1413 onscripter_libretro.so.zip
+2026-01-07 97af5482 easyrpg_libretro.so.zip

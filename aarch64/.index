@@ -44,7 +44,6 @@ tic80_libretro.so.zip
 vemulator_libretro.so.zip
 yabause_libretro.so.zip
 virtualjaguar_libretro.so.zip
-easyrpg_libretro.so.zip
 desmume2015_libretro.so.zip
 mesen_libretro.so.zip
 parallel_n64_libretro.so.zip
@@ -167,3 +166,4 @@ gearsystem_libretro.so.zip
 geolith_libretro.so.zip
 np2kai_libretro.so.zip
 onscripter_libretro.so.zip
+easyrpg_libretro.so.zip
