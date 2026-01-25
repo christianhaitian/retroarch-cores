@@ -66,7 +66,6 @@ puae2021_libretro.so.zip
 crocods_libretro.so.zip
 opera_libretro.so.zip
 ppsspp_libretro.so.zip
-applewin_libretro.so.zip
 neocd_libretro.so.zip
 mgba_libretro.so.zip
 mgba_rumble_libretro.so.zip
@@ -168,3 +167,4 @@ np2kai_libretro.so.zip
 onscripter_libretro.so.zip
 easyrpg_libretro.so.zip
 libgametank_libretro.so.zip
+applewin_libretro.so.zip
