@@ -143,7 +143,6 @@ wasm4_libretro.so.zip
 x1_libretro.so.zip
 snes9x_libretro.so.zip
 dosbox_pure_libretro.so.zip
-fbneo_libretro.so.zip
 mame2000_libretro.so.zip
 mame2003_libretro.so.zip
 mame2003_plus_libretro.so.zip
@@ -168,3 +167,4 @@ onscripter_libretro.so.zip
 easyrpg_libretro.so.zip
 libgametank_libretro.so.zip
 applewin_libretro.so.zip
+fbneo_libretro.so.zip

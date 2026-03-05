@@ -144,7 +144,6 @@
 2025-10-08 98ad0166 x1_libretro.so.zip
 2025-10-08 92d9e8bf snes9x_libretro.so.zip
 2025-12-07 adc74359 dosbox_pure_libretro.so.zip
-2025-12-07 049423d3 fbneo_libretro.so.zip
 2025-12-07 843b220a mame2000_libretro.so.zip
 2025-12-07 ff24885b mame2003_libretro.so.zip
 2025-12-07 5bb91fda mame2003_plus_libretro.so.zip
@@ -169,3 +168,4 @@
 2026-01-07 97af5482 easyrpg_libretro.so.zip
 2026-01-19 dcbc52e4 libgametank_libretro.so.zip
 2026-01-25 ba7a27c3 applewin_libretro.so.zip
+2026-03-05 318b04b5 fbneo_libretro.so.zip
