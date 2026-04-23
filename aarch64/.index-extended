@@ -47,7 +47,6 @@
 2022-12-20 74f5e693 virtualjaguar_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-08-02 3b32f8f3 mesen_libretro.so.zip
-2023-10-20 9023a4fe parallel_n64_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
 2023-12-28 9df5cc5e yabasanshiro_libretro.so.zip
 2024-05-06 37bb9934 flycast_libretro.so.zip
@@ -169,3 +168,4 @@
 2026-01-19 dcbc52e4 libgametank_libretro.so.zip
 2026-01-25 ba7a27c3 applewin_libretro.so.zip
 2026-03-05 318b04b5 fbneo_libretro.so.zip
+2026-04-23 bb01c386 parallel_n64_libretro.so.zip
