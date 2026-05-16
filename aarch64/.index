@@ -116,8 +116,6 @@ quasi88_libretro.so.zip
 quicknes_libretro.so.zip
 race_libretro.so.zip
 minivmac_libretro.so.zip
-pcsx_rearmed_libretro.so.zip
-pcsx_rearmed_rumble_libretro.so.zip
 potator_libretro.so.zip
 sameboy_libretro.so.zip
 same_cdi_libretro.so.zip
@@ -167,3 +165,5 @@ easyrpg_libretro.so.zip
 libgametank_libretro.so.zip
 applewin_libretro.so.zip
 fbneo_libretro.so.zip
+pcsx_rearmed_libretro.so.zip
+pcsx_rearmed_rumble_libretro.so.zip
