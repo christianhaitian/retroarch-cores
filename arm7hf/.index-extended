@@ -33,7 +33,11 @@
 2025-12-29 fbd6ea95 virtualjaguar_libretro.so.zip
 2025-12-29 8ee63a6e yabasanshiro_libretro.so.zip
 2025-12-29 32f45059 yabause_libretro.so.zip
-2026-05-09 34a60ada pcsx_rearmed_libretro.so.zip
-2026-05-09 e15e69e3 pcsx_rearmed_peops_libretro.so.zip
+<<<<<<< HEAD
 2026-05-09 80b5ab88 pcsx_rearmed_rumble_libretro.so.zip
-2026-05-09 b133c193 pcsx_rearmed_rumble_peops_libretro.so.zip
+=======
+2026-05-17 919da39b pcsx_rearmed_rumble_libretro.so.zip
+>>>>>>> 9fc9ca22fb67c10ede1ed387c7192f0e5b30183e
+2026-05-22 6f7705de pcsx_rearmed_libretro.so.zip
+2026-05-22 36c71874 pcsx_rearmed_peops_libretro.so.zip
+2026-05-22 e766f4cd pcsx_rearmed_rumble_peops_libretro.so.zip

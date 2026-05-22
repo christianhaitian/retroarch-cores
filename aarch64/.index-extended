@@ -117,8 +117,6 @@
 2025-10-08 ee03d8ac quicknes_libretro.so.zip
 2025-10-08 b5175777 race_libretro.so.zip
 2025-10-08 edb635aa minivmac_libretro.so.zip
-2025-10-08 ee428cda pcsx_rearmed_libretro.so.zip
-2025-10-08 ec2c8490 pcsx_rearmed_rumble_libretro.so.zip
 2025-10-08 3fe25062 potator_libretro.so.zip
 2025-10-08 44d55f1a sameboy_libretro.so.zip
 2025-10-08 93b800eb same_cdi_libretro.so.zip
@@ -168,3 +166,5 @@
 2026-01-19 b608bce7 libgametank_libretro.so.zip
 2026-01-25 2175b900 applewin_libretro.so.zip
 2026-03-05 cecff20f fbneo_libretro.so.zip
+2026-05-16 d9726282 pcsx_rearmed_libretro.so.zip
+2026-05-16 a828b374 pcsx_rearmed_rumble_libretro.so.zip
