@@ -14,7 +14,6 @@
 2025-12-29 d16bed6f mednafen_wswan_libretro.so.zip
 2025-12-29 47b77067 neocd_libretro.so.zip
 2025-12-29 c317d589 o2em_libretro.so.zip
-2025-12-29 fe51b427 parallel_n64_libretro.so.zip
 2025-12-29 e25b24a1 picodrive_libretro.so.zip
 2025-12-29 511bab8e ppsspp_xtreme_libretro.so.zip
 2025-12-29 de1c7c97 reicast_xtreme_libretro.so.zip
@@ -41,3 +40,4 @@
 2026-05-22 6f7705de pcsx_rearmed_libretro.so.zip
 2026-05-22 36c71874 pcsx_rearmed_peops_libretro.so.zip
 2026-05-22 e766f4cd pcsx_rearmed_rumble_peops_libretro.so.zip
+2026-07-19 5c977949 parallel_n64_libretro.so.zip
