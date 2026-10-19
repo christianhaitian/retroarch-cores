@@ -104,7 +104,6 @@ onsyuri_libretro.so.zip
 picodrive_libretro.so.zip
 pokemini_libretro.so.zip
 stella2014_libretro.so.zip
-stella_libretro.so.zip
 tgbdual_libretro.so.zip
 theodore_libretro.so.zip
 vbam_libretro.so.zip
@@ -168,3 +167,4 @@ nestopia_libretro.so.zip
 np2kai_libretro.so.zip
 numero_libretro.so.zip
 o2em_libretro.so.zip
+stella_libretro.so.zip
