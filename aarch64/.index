@@ -99,7 +99,6 @@ mame2000_libretro.so.zip
 mame2003_libretro.so.zip
 mame2003_plus_libretro.so.zip
 mame2010_libretro.so.zip
-mame_libretro.so.zip
 onsyuri_libretro.so.zip
 picodrive_libretro.so.zip
 pokemini_libretro.so.zip
@@ -168,3 +167,5 @@ np2kai_libretro.so.zip
 numero_libretro.so.zip
 o2em_libretro.so.zip
 stella_libretro.so.zip
+azahar_libretro.so.zip
+mame_libretro.so.zip
