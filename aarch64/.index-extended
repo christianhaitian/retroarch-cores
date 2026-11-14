@@ -112,7 +112,6 @@
 2026-01-07 97af5482 easyrpg_libretro.so.zip
 2026-01-19 dcbc52e4 libgametank_libretro.so.zip
 2026-01-25 ba7a27c3 applewin_libretro.so.zip
-2026-04-23 bb01c386 parallel_n64_libretro.so.zip
 2026-05-16 4be89e3f pcsx_rearmed_libretro.so.zip
 2026-05-16 0e3466b6 pcsx_rearmed_rumble_libretro.so.zip
 2026-07-08 859be304 dosbox_pure_libretro.so.zip
@@ -171,3 +170,5 @@
 2026-10-27 5beeeb55 mame_libretro.so.zip
 2026-10-30 8a26b32d armgba_libretro.so.zip
 2026-10-31 cc3c97b4 azahar_libretro.so.zip
+2026-11-14 91acef03 armn64_libretro.so.zip
+2026-11-14 564d8afd parallel_n64_libretro.so.zip

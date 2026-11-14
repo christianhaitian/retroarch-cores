@@ -111,7 +111,6 @@ onscripter_libretro.so.zip
 easyrpg_libretro.so.zip
 libgametank_libretro.so.zip
 applewin_libretro.so.zip
-parallel_n64_libretro.so.zip
 pcsx_rearmed_libretro.so.zip
 pcsx_rearmed_rumble_libretro.so.zip
 dosbox_pure_libretro.so.zip
@@ -170,3 +169,5 @@ stella_libretro.so.zip
 mame_libretro.so.zip
 armgba_libretro.so.zip
 azahar_libretro.so.zip
+armn64_libretro.so.zip
+parallel_n64_libretro.so.zip
