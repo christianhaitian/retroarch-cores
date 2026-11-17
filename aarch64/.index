@@ -63,7 +63,6 @@ mess_libretro.so.zip
 bluemsx_libretro.so.zip
 freej2me_libretro.so.zip
 fuse_libretro.so.zip
-freej2me-plus_libretro.so.zip
 melonds_libretro.so.zip
 prosystem_libretro.so.zip
 puae_libretro.so.zip
@@ -168,3 +167,4 @@ o2em_libretro.so.zip
 stella_libretro.so.zip
 mame_libretro.so.zip
 armgba_libretro.so.zip
+freej2me-plus_libretro.so.zip
