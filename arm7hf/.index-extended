@@ -37,8 +37,8 @@
 =======
 2026-05-17 919da39b pcsx_rearmed_rumble_libretro.so.zip
 >>>>>>> 9fc9ca22fb67c10ede1ed387c7192f0e5b30183e
-2026-05-22 6f7705de pcsx_rearmed_libretro.so.zip
-2026-05-22 36c71874 pcsx_rearmed_peops_libretro.so.zip
-2026-05-22 e766f4cd pcsx_rearmed_rumble_peops_libretro.so.zip
 2026-08-04 fe51b427 parallel_n64_libretro.so.zip
 2026-11-07 2cc06900	BAD 2cc06900 != abadabad yabadabadoo_libretro.so.zip
+2026-11-26 bac410c3 pcsx_rearmed_libretro.so.zip
+2026-11-26 9dd482ea pcsx_rearmed_peops_libretro.so.zip
+2026-11-26 33f3e408 pcsx_rearmed_rumble_peops_libretro.so.zip
