@@ -47,7 +47,6 @@
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
 2023-12-03 e2051dde sameduck_libretro.so.zip
-2023-12-29 3363586d yabasanshiro_libretro.so.zip
 2024-05-06 a2fc4dc9 flycast_libretro.so.zip
 2024-05-06 b18cdff3 flycast_rumble_libretro.so.zip
 2024-06-07 cffa293a swanstation_libretro.so.zip
@@ -74,7 +73,6 @@
 2025-10-08 b5175777 race_libretro.so.zip
 2025-10-08 3fe25062 potator_libretro.so.zip
 2025-10-08 44d55f1a sameboy_libretro.so.zip
-2025-10-08 93b800eb same_cdi_libretro.so.zip
 2025-10-08 db1e53d2 smsplus_libretro.so.zip
 2025-10-08 cc7e7ebc snes9x2005_libretro.so.zip
 2025-10-08 5f27d094 snes9x2010_libretro.so.zip
@@ -111,8 +109,6 @@
 2026-01-07 b3cb608d easyrpg_libretro.so.zip
 2026-01-19 b608bce7 libgametank_libretro.so.zip
 2026-01-25 2175b900 applewin_libretro.so.zip
-2026-05-16 d9726282 pcsx_rearmed_libretro.so.zip
-2026-05-16 a828b374 pcsx_rearmed_rumble_libretro.so.zip
 2026-07-08 b88e3e2e dosbox_pure_libretro.so.zip
 2026-07-08 49a43fe0 DoubleCherryGB_libretro.so.zip
 2026-07-08 e3619ab7 doukutsu_rs_libretro.so.zip
@@ -171,3 +167,7 @@
 2026-11-17 7f3d1f29 freej2me-plus_libretro.so.zip
 2026-11-21 5d3c4404 armn64_libretro.so.zip
 2026-11-21 c172cf12 superwhizkid_libretro.so.zip
+2026-11-26 7589eb14 pcsx_rearmed_libretro.so.zip
+2026-11-26 11d8962e pcsx_rearmed_rumble_libretro.so.zip
+2026-11-26 0113abdf same_cdi_libretro.so.zip
+2026-11-26 7645014f yabasanshiro_libretro.so.zip
